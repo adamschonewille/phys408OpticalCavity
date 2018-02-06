@@ -4,6 +4,9 @@
 
 We want to first characterize the first mirror by measuring it's transmission and reflection coefficients. We can do this by directly measuring the incident beam intensity, reflected beam intensity and transmitted beam intensity using a power meter.
 
+
+
+
 ![Reflection Transmission Setup](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/ReflectionTransmissionSetup.png) 
 
 For the first mirror, the angle was set to also Incident for $M_2$): 
@@ -57,7 +60,7 @@ New at 25.2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjIyMDk3MCwtMTM2ODczMjY0MSwxMz
-g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
-MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbMzQ1MTk5NzI0LDE1NTYyMjA5NzAsMTM4Nz
+YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
+NjQ0XX0=
 -->
