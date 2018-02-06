@@ -5,22 +5,18 @@
 We want to first characterize the first mirror by measuring it's transmission and reflection coefficients. We can do this by directly measuring the incident beam intensity, reflected beam intensity and transmitted beam intensity using a power meter.
 
 [Reflection Transmission Setup] (https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/ReflectionTransmissionSetup.png) 
-
-For the first mirror, $M_1$, the angle was set to reflect the beam back towards the laser source to a position that the power meter could measure the reflected beam without blocking the incoming beam.  This needs to be set up first because the angle that the light hits the mirror at will have an effect on the reflection and transmission coefficients. The mirror angle can therefore not be moved between these two measurements. The power measurements were recorded as follows.
-Transmitted beam power (also Incident beam power for $M_2$): 
+For the first mirror, the angle was set to also Incident for $M_2$): 
 $(0.262 \pm 0.001)$ mW 
 Input incident to $M_1$: 
 $(18.00 \pm 0.01 )$ mW
 Reflection from $M_1$: 
 $(7.23 \pm 0.01)$ mW 
 
-From these results we see there are major losses inbetween transmission and reflection, more than 50%. We realize that this is due to the fact that we were measuring these values for the backside of the mirror, which inherently has a lot of losses.
+This part is slightly trickier we had to orient the second mirror so that the reflected spot was far enough from the incident so that we could measure it separately.  We also had to move on of the other mirrors in the setup so we retook the incident beam measurement for $M_2$. 
 
-This part is slightly trickier we had to orient the second mirror, $M_2$, so that the reflected spot was far enough from the incident so that we could measure it separately. This was more difficult because the cavity length at the time was only about 15 cm.  We also had to adjust $M_1$ in the setup so we retook the incident beam measurement for $M_2$. 
-
-Incident for $M_2$:
+Incident for $M_2$M2:
 $(0.345 \pm 0.005)$ mW 
-Transmission for $M_2$:
+Transmission for $$:
 $(1.05 \pm 0.05) \mu$ W 
 Reflection for $M_2$:
 $(0.338 \pm 0.005)$  mW
@@ -43,7 +39,7 @@ $(19.51 \pm 0.01)$ mW
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg3MzI2NDEsLTExMzQwNTQxODcsMT
+eyJoaXN0b3J5IjpbLTE5NDg3OTQzMjMsLTEzNjg3MzI2NDEsMT
 M4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkz
 NTIyNjQ0XX0=
 -->
