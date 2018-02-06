@@ -35,13 +35,13 @@ Power before Additional Mirror
 $(19.51 \pm 0.01)$ mW
  Loss of about 1.5 mW into $M_1$ 
  Then out of the $M_1$ another loss of 1.5
- Now we can calculate the finesse with cavity 
- $$I = \frac{I_{max}}{1 + \frac{2F}{pi}^2\sin^2(dL)}$$
+ Now we can calculate the finesse with cavity length L = 15cm
+ $$I = \frac{I_{max}}{1 + \frac{2\mathscr{F}}{\pi}^2\sin^2(kL)} \implies \mathscr{F} = $$
 ### Beam Splicing 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2MTQ2MTY4LC0xMzY4NzMyNjQxLDEzOD
+eyJoaXN0b3J5IjpbNTAxMzIzMTUyLC0xMzY4NzMyNjQxLDEzOD
 c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
 MjY0NF19
 -->
