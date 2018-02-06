@@ -1,9 +1,9 @@
 # Lab Notebook 
 ## Day 1 2018 02 06
 ### Figuring out Reflection and Transmission Coefficients:
+
 We want to first characterize the first mirror  
-Transmission for $M_1$: 
-(Also Incident for $M_2$)
+Transmission for $M_1$ (Also Incident for $M_2$): 
 $(0.262 \pm 0.001)$ mW 
 Input incident to $M_1$: 
 $(18.00 \pm 0.01 )$ mW
@@ -19,7 +19,9 @@ $(1.05 \pm 0.05) \mu$ W
 Reflection for $M_2$:
 $(0.338 \pm 0.005)$  mW
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzMDAxNDQyLC0yMDE1MzYxODEsLTIwNj
-c1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMjY0NF19
+eyJoaXN0b3J5IjpbLTE5MzE5Njk2MDYsLTIwMTUzNjE4MSwtMj
+A2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNjQ0XX0=
 -->
