@@ -14,7 +14,7 @@ $(18.00 \pm 0.01 )$ mW
 Reflection from $M_1$: 
 $(7.23 \pm 0.01)$ mW 
 
-From these results we see there are major losses inbetween transmission and reflection, more than .
+From these results we see there are major losses inbetween transmission and reflection, more than 50%.
 
 This part is slightly trickier we had to orient the second mirror so that the reflected spot was far enough from the incident so that we could measure it separately.  We also had to move on of the other mirrors in the setup so we retook the $M_2$ measurement data. 
 
@@ -43,7 +43,7 @@ $(19.51Transmission for M1:
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njk5ODc2NCwtMTUwMjY5ODkxMCwxMz
+eyJoaXN0b3J5IjpbMTA1MDUxODQyMiwtMTUwMjY5ODkxMCwxMz
 g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
 MjI2NDRdfQ==
 -->
