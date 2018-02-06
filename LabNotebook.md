@@ -50,11 +50,13 @@ AT a z = 24.31
 
 New at 25.2
 17.98mV 6.3538 100%
-16.11 mV 9.5624
+16.2 mV 9.5624
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjQ5Nzg2NywtMTM2ODczMjY0MSwxMz
+eyJoaXN0b3J5IjpbMTI0NjE3OTQzNywtMTM2ODczMjY0MSwxMz
 g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
 MjI2NDRdfQ==
 -->
