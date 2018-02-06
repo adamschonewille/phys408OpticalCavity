@@ -28,10 +28,10 @@ Reflected
 $(16.34 \pm 0.02)$ mW
 	Reason for losses: we had to reflect it off an additional mirror in order to take this measurement. We find the power loss of this additional mirror
 Powe
-19.5 
+19.51 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDExMjE2MywtMjAxNTM2MTgxLC0yMD
+eyJoaXN0b3J5IjpbLTE2NzY3NjY1NiwtMjAxNTM2MTgxLC0yMD
 Y3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2NDRdfQ==
 -->
