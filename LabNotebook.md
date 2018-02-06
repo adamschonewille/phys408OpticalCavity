@@ -26,7 +26,7 @@ Reflection for $M_2$:
 $(0.338 \pm 0.005)$  mW
 
 
-Reversed M1
+Reversed $M_1$
 Incident Beam:
 $18.08 \pm 0.05$ mW
 Transmission:
@@ -36,14 +36,14 @@ $(16.34 \pm 0.02)$ mW
 Reason for losses in this case: we had to reflect it off an additional mirror in order to take this measurement. We find the power loss of this additional mirror
 Power before Additional Mirror
 $(19.51 \pm 0.01)$ mW
- Loss of 1.5 mW into M1 
- Then out of the M1 another loss of 1.5
+ Loss of about 1.5 mW into $M_1$ 
+ Then out of the $M_1$ another loss of 1.5
  
 ### Beam Splicing 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTY4ODMsLTExMzQwNTQxODcsMTM4Nz
-YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
-NjQ0XX0=
+eyJoaXN0b3J5IjpbLTEzNjg3MzI2NDEsLTExMzQwNTQxODcsMT
+M4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkz
+NTIyNjQ0XX0=
 -->
