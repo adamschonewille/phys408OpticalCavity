@@ -36,12 +36,12 @@ $(19.51 \pm 0.01)$ mW
  Loss of about 1.5 mW into $M_1$ 
  Then out of the $M_1$ another loss of 1.5
  Now we can calculate the finesse with cavity length L = 15cm
- $$I = \frac{I_{max}}{1 + \frac{2\mathscr{F}}{\pi}^2\sin^2(kL)} \implies \mathscr{F} = $$
+ $$I = \frac{I_{max}}{1 + \frac{2\mathscr{F}}{\pi}^2\sin^2(kL)} \implies \mathscr{F} = \frac{]\frac{I_{max}}{I} - 1}{}$$
 ### Beam Splicing 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxMzIzMTUyLC0xMzY4NzMyNjQxLDEzOD
-c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
-MjY0NF19
+eyJoaXN0b3J5IjpbMTM3MDczNzQ5MiwtMTM2ODczMjY0MSwxMz
+g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
+MjI2NDRdfQ==
 -->
