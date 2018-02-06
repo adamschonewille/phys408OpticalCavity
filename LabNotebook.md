@@ -1,9 +1,10 @@
 Hello our names are Adam and Akshiv
 
-![ROC](ROC.jpg)
+![ROC](https://github.com/akshivbansal/phys408OpticalCavity/blob/master/ROC.jpg) 
+
 
 $$ \frac{1}{2} $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Njc3OTQwM119
+eyJoaXN0b3J5IjpbLTE2OTI1OTkzNzFdfQ==
 -->
