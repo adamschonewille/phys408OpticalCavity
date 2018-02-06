@@ -44,11 +44,11 @@ $(19.51 \pm 0.01)$ mW
 	16.25 mV 	9.5621
 	16.13 		9.5721
 	
-	1.8-1.9 9.9346
-	
+	1.8-1.9 
+	1.83-1.85 9.9346 10%
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjUxMzk1MDYsLTEzNjg3MzI2NDEsMT
+eyJoaXN0b3J5IjpbLTE1MDEyOTA2NjUsLTEzNjg3MzI2NDEsMT
 M4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkz
 NTIyNjQ0XX0=
 -->
