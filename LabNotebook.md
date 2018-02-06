@@ -9,11 +9,13 @@ Input incident to M1:
 $(18.00 \pm 0.01 )$ mW
 Reflection from M1 
 $(7.23 \pm 0.01)$ mW 
-This part is slightly trickier we had to orient the second mirror so that the reflected spot was far enough from the incident so that we could mesure it sperately. 
+This part is slightly trickier we had to orient the second mirror so that the reflected spot was far enough from the incident so that we could measure it separately.  We also had to move on of the other mirrors in the setup so we retook the M2 measurement data. 
+Incident for M2
+$(0.345 \pm 0.005)$ mW 
 Transmission for M2
-$( 1.05 \pm 0.05) \mu $ W 
+$(1.05 \pm 0.05) \mu$ W 
 Reflection for M2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg0NDA1NzIsLTIwMTUzNjE4MSwtMj
-A2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNjQ0XX0=
+eyJoaXN0b3J5IjpbMTMwNDk1ODc1MSwtMjAxNTM2MTgxLC0yMD
+Y3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2NDRdfQ==
 -->
