@@ -19,9 +19,15 @@ $(1.05 \pm 0.05) \mu$ W
 Reflection for $M_2$:
 $(0.338 \pm 0.005)$  mW
 
+Reversed M1
+Incident Beam:
+$18.08 \pm 0.05$ mW
+Transmission:
+$(0.200 \pm 0.001 )$ mW
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE5Njk2MDYsLTIwMTUzNjE4MSwtMj
-A2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNjQ0XX0=
+eyJoaXN0b3J5IjpbMTM3MDk3ODk5LC0yMDE1MzYxODEsLTIwNj
+c1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMjY0NF19
 -->
