@@ -46,9 +46,13 @@ $(19.51 \pm 0.01)$ mW
 	
 	1.8-1.9 
 	1.83-1.85 9.9346 10%
+AT a z = 24.31
+
+New at 25.2
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDEyOTA2NjUsLTEzNjg3MzI2NDEsMT
+eyJoaXN0b3J5IjpbLTE0MzAwNTk5NzAsLTEzNjg3MzI2NDEsMT
 M4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkz
 NTIyNjQ0XX0=
 -->
