@@ -24,10 +24,11 @@ Incident Beam:
 $18.08 \pm 0.05$ mW
 Transmission:
 $(0.200 \pm 0.001 )$ mW
-
+Reflected
+16.34 \pm 0.02
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDk3ODk5LC0yMDE1MzYxODEsLTIwNj
-c1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMjY0NF19
+eyJoaXN0b3J5IjpbLTEwMzA0OTc3NDgsLTIwMTUzNjE4MSwtMj
+A2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNjQ0XX0=
 -->
