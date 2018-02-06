@@ -6,7 +6,7 @@ We want to first characterize the first mirror by measuring it's transmission an
 
 [Reflection Transmission Setup] (https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/ReflectionTransmissionSetup.png) 
 
-For the first mirror, $M_1$, the angle was set to reflect the beam back towards the laser source to a position that the power meter could measure the reflected beam without blocking the incoming beam.
+For the first mirror, $M_1$, the angle was set to reflect the beam back towards the laser source to a position that the power meter could measure the reflected beam without blocking the incoming beam. The power measurements were recorded as follows.
 Transmitted beam power (also Incident for $M_2$): 
 $(0.262 \pm 0.001)$ mW 
 Input incident to $M_1$: 
@@ -41,7 +41,7 @@ $(19.51Transmission for M1:
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzE5OTQxNiwtMTUwMjY5ODkxMCwxMz
-g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
-MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbNzU0NTU2NjEwLC0xNTAyNjk4OTEwLDEzOD
+c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
+MjY0NF19
 -->
