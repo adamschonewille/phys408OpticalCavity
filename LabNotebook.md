@@ -41,11 +41,13 @@ $(19.51 \pm 0.01)$ mW
 ### Beam Splicing 
 	Starting power 
 	18mV 		4.7807 100%
-	16.2 mV 	
+	16.25 mV 	9.5621
+	16.13 		9.5721
+	
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTU1MDU2NiwtMTM2ODczMjY0MSwxMz
-g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
-MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbMjU0MjM1NTgzLC0xMzY4NzMyNjQxLDEzOD
+c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
+MjY0NF19
 -->
