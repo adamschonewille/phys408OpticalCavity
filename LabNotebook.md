@@ -3,7 +3,7 @@
 ### Figuring out Reflection and Transmission Coefficients:
 
 We want to first characterize the first mirror  
-lso Incident for $M_2$): 
+also Incident for $M_2$): 
 $(0.262 \pm 0.001)$ mW 
 Input incident to $M_1$: 
 $(18.00 \pm 0.01 )$ mW
@@ -37,6 +37,6 @@ $(19.51Transmission for M1:
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzcxNTM0ODgsLTg3NjY5Mjc3MywtMj
+eyJoaXN0b3J5IjpbLTIxNDEwNTQ4MzcsLTg3NjY5Mjc3MywtMj
 A2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNjQ0XX0=
 -->
