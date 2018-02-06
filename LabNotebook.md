@@ -15,8 +15,8 @@ $(0.345 \pm 0.005)$ mW
 Transmission for $M_2$
 $(1.05 \pm 0.05) \mu$ W 
 Reflection for $M_2$
-
+0.338 \ 0,005  mW
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MzE0ODU5NCwtMjAxNTM2MTgxLC0yMD
-Y3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbNTIzNjg5NjA1LC0yMDE1MzYxODEsLTIwNj
+c1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMjY0NF19
 -->
