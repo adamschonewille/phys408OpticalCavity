@@ -14,6 +14,8 @@ $(18.00 \pm 0.01 )$ mW
 Reflection from $M_1$: 
 $(7.23 \pm 0.01)$ mW 
 
+
+
 This part is slightly trickier we had to orient the second mirror so that the reflected spot was far enough from the incident so that we could measure it separately.  We also had to move on of the other mirrors in the setup so we retook the $M_2$ measurement data. 
 
 Incident for M2:
@@ -41,7 +43,7 @@ $(19.51Transmission for M1:
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTMyNzY4NSwtMTUwMjY5ODkxMCwxMz
-g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
-MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbNjE0MTE1MDk1LC0xNTAyNjk4OTEwLDEzOD
+c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
+MjY0NF19
 -->
