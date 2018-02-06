@@ -9,8 +9,11 @@ Input incident to M1:
 $(18.00 \pm 0.01 )$ mW
 Reflection from M1 
 $(7.23 \pm 0.01) mW $
-
+This part is slightly trickier we had to orient the second mirror so that the reflected spot was far enough from the 
+Transmission for M2
+$ ( )mW $
+Reflection for M2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyMzc4OTIyLC0yMDE1MzYxODEsLTIwNj
-c1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMjY0NF19
+eyJoaXN0b3J5IjpbMjEzNTI3MDk2OCwtMjAxNTM2MTgxLC0yMD
+Y3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2NDRdfQ==
 -->
