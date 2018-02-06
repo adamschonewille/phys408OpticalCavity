@@ -7,8 +7,10 @@ Transmission for M1:
 $(0.262 \pm 0.001)$ mW 
 Input incident to M1: 
 $(18.00 \pm 0.01 )$ mW
+Reflection from M1 
+$(7.23 \pm 0.01) mW $
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwMTUzNjcyLC0yMDE1MzYxODEsLTIwNj
+eyJoaXN0b3J5IjpbMzgyMzc4OTIyLC0yMDE1MzYxODEsLTIwNj
 c1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMjY0NF19
 -->
