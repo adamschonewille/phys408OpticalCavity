@@ -33,10 +33,9 @@ Transmission:
 $(0.200 \pm 0.001 )$ mW
 Reflected 
 $(16.34 \pm 0.02)$ mW
-	Reason for losses: we had to reflect it off an additional mirror in order to take this measurement. We find the power loss of this additional mirror
+Reason for losses in this case: we had to reflect it off an additional mirror in order to take this measurement. We find the power loss of this additional mirror
 Power before Additional Mirror
-$(19.51Transmission for M1: 
-(A \pm 0.01)$ mW
+$(19.51 \pm 0.01)$ mW
  Loss of 1.5 mW into M1 
  Then out of the M1 another loss of 1.5
  
@@ -44,7 +43,7 @@ $(19.51Transmission for M1:
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE3NTMxOCwtMTEzNDA1NDE4NywxMz
-g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
-MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTQxOTY4ODMsLTExMzQwNTQxODcsMTM4Nz
+YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
+NjQ0XX0=
 -->
