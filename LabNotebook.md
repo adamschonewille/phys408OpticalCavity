@@ -7,10 +7,10 @@ $$ \frac{1}{2} $$
 
 $$\gamma = \int_0^{\infty} \sin^2(x) dx$$
 
-
+This is a mergerz
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODc3MjU4NDIsNzA3Mzg3MzM1LC02Mz
-I3NjA2NzgsLTEyOTM1MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbMjEyODA3Nzk2OSw3MDczODczMzUsLTYzMj
+c2MDY3OCwtMTI5MzUyMjY0NF19
 -->
