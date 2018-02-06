@@ -39,6 +39,6 @@ $(19.51Transmission for M1:
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzYxMjczNCwtODc2NjkyNzczLC0yMD
-Y3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTEzODIwNDE0NjYsMTM4NzYxMjczNCwtMj
+A2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNjQ0XX0=
 -->
