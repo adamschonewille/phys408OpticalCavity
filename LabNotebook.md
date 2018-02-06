@@ -36,12 +36,12 @@ $(19.51 \pm 0.01)$ mW
  Loss of about 1.5 mW into $M_1$ 
  Then out of the $M_1$ another loss of 1.5
  Now we can calculate the finesse
- $$F = \frac{\pi \sqrt{r}}{1-r}$$
+ $$F = \frac{\pi \sqrt{r}}{1-r} =$$
 ### Beam Splicing 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU0MjUzOTQsLTEzNjg3MzI2NDEsMT
-M4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkz
-NTIyNjQ0XX0=
+eyJoaXN0b3J5IjpbMjA0NjczOTkyMSwtMTM2ODczMjY0MSwxMz
+g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
+MjI2NDRdfQ==
 -->
