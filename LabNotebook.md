@@ -27,11 +27,11 @@ $(0.200 \pm 0.001 )$ mW
 Reflected 
 $(16.34 \pm 0.02)$ mW
 	Reason for losses: we had to reflect it off an additional mirror in order to take this measurement. We find the power loss of this additional mirror
-Power 
+Power before Additional Mirror
 19.51 \pm 0.01
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjI0ODc2MCwtMjAxNTM2MTgxLC0yMD
+eyJoaXN0b3J5IjpbLTE1NjE0NTYxNywtMjAxNTM2MTgxLC0yMD
 Y3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2NDRdfQ==
 -->
