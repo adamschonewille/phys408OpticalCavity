@@ -16,14 +16,15 @@ $(7.23 \pm 0.01)$ mW
 
 From these results we see there are major losses inbetween transmission and reflection, more than 50%. We realize that this is due to the fact that we were measuring these values for the backside of the mirror, which inherently has a lot of losses.
 
-This part is slightly trickier we had to orient the second mirror, $M_2$, so that the reflected spot was far enough from the incident so that we could measure it separately. This was more difficult because the cavity length at the time was only about 15 cm.  We also had to adjust $M_1$ in the setup so we retook the $M_2$ measurement data. 
+This part is slightly trickier we had to orient the second mirror, $M_2$, so that the reflected spot was far enough from the incident so that we could measure it separately. This was more difficult because the cavity length at the time was only about 15 cm.  We also had to adjust $M_1$ in the setup so we retook the incident beam measurement for $M_2$. 
 
-Incident for M2:
+Incident for $M_2$:
 $(0.345 \pm 0.005)$ mW 
 Transmission for $M_2$:
 $(1.05 \pm 0.05) \mu$ W 
 Reflection for $M_2$:
 $(0.338 \pm 0.005)$  mW
+
 
 Reversed M1
 Incident Beam:
@@ -43,7 +44,7 @@ $(19.51Transmission for M1:
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQwNTQxODcsLTU2NjUzOTEyMywxMz
+eyJoaXN0b3J5IjpbLTE0MDE3NTMxOCwtMTEzNDA1NDE4NywxMz
 g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
 MjI2NDRdfQ==
 -->
