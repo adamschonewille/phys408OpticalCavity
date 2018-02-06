@@ -32,9 +32,10 @@ $(19.51 \pm 0.01)$ mW
  Loss of 1.5 mW into M1 
  Then out of the M1 another loss of 1.5
  
+# Beam Splicing 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMwMDUxMiwtMjAxNTM2MTgxLC0yMD
-Y3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTE2OTIxNzM1MDksLTIwMTUzNjE4MSwtMj
+A2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNjQ0XX0=
 -->
