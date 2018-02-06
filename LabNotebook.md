@@ -35,13 +35,13 @@ Power before Additional Mirror
 $(19.51 \pm 0.01)$ mW
  Loss of about 1.5 mW into $M_1$ 
  Then out of the $M_1$ another loss of 1.5
- Now we can calculate the finesse
- $$F = \frac{\pi \sqrt{r}}{1-r} =$$
+ Now we can calculate the finesse 
+ $$I = \frac{I_{max}}{1 + \frac{2F}{pi}^2\sin^2(dL)}$$
 ### Beam Splicing 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjczOTkyMSwtMTM2ODczMjY0MSwxMz
+eyJoaXN0b3J5IjpbMTc0MjAyMTA2NCwtMTM2ODczMjY0MSwxMz
 g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
 MjI2NDRdfQ==
 -->
