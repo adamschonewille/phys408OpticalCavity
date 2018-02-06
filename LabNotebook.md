@@ -3,7 +3,7 @@
 ### Figuring out Reflection and Transmission Coefficients:
 
 We want to first characterize the first mirror  
-Transmission for $M_1$ (Also Incident for $M_2$): 
+lso Incident for $M_2$): 
 $(0.262 \pm 0.001)$ mW 
 Input incident to $M_1$: 
 $(18.00 \pm 0.01 )$ mW
@@ -28,7 +28,8 @@ Reflected
 $(16.34 \pm 0.02)$ mW
 	Reason for losses: we had to reflect it off an additional mirror in order to take this measurement. We find the power loss of this additional mirror
 Power before Additional Mirror
-$(19.51 \pm 0.01)$ mW
+$(19.51Transmission for M1: 
+(A \pm 0.01)$ mW
  Loss of 1.5 mW into M1 
  Then out of the M1 another loss of 1.5
  
@@ -36,6 +37,6 @@ $(19.51 \pm 0.01)$ mW
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NjY5Mjc3MywtMjAxNTM2MTgxLC0yMD
-Y3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTE5MzcxNTM0ODgsLTg3NjY5Mjc3MywtMj
+A2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNjQ0XX0=
 -->
