@@ -12,10 +12,10 @@ $(7.23 \pm 0.01)$ mW
 This part is slightly trickier we had to orient the second mirror so that the reflected spot was far enough from the incident so that we could measure it separately.  We also had to move on of the other mirrors in the setup so we retook the M2 measurement data. 
 Incident for M2
 $(0.345 \pm 0.005)$ mW 
-Transmission for M2
+Transmission for $M_2$
 $(1.05 \pm 0.05) \mu$ W 
 Reflection for M2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDk1ODc1MSwtMjAxNTM2MTgxLC0yMD
+eyJoaXN0b3J5IjpbMTc0NzE3OTc1MiwtMjAxNTM2MTgxLC0yMD
 Y3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2NDRdfQ==
 -->
