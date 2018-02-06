@@ -4,7 +4,7 @@
 
 We want to first characterize the first mirror by measuring it's transmission and reflection coefficients. We can do this by directly measuring the incident beam intensity, reflected beam intensity and transmitted beam intensity using a power meter.
 
-![Reflection Transmission Setup](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/ReflectionTransmissionSetup.png%29) 
+![Reflection Transmission Setup](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/ReflectionTransmissionSetup.png) 
 
 For the first mirror, the angle was set to also Incident for $M_2$): 
 $(0.262 \pm 0.001)$ mW 
@@ -35,12 +35,13 @@ Power before Additional Mirror
 $(19.51 \pm 0.01)$ mW
  Loss of about 1.5 mW into $M_1$ 
  Then out of the $M_1$ another loss of 1.5
- 
+ Now we can calculate the finesse
+ $$F = \frac{\pi \sqrt{r}}{1-r}$$
 ### Beam Splicing 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMTk2NTg2NiwtMTM2ODczMjY0MSwxMz
-g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
-MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTIwNzU0MjUzOTQsLTEzNjg3MzI2NDEsMT
+M4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkz
+NTIyNjQ0XX0=
 -->
