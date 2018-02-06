@@ -24,11 +24,14 @@ Incident Beam:
 $18.08 \pm 0.05$ mW
 Transmission:
 $(0.200 \pm 0.001 )$ mW
-Reflected
-16.34 \pm 0.02
-
+Reflected 
+$(16.34 \pm 0.02)$ mW
+	Reason for losses: we had to reflect it off an additional mirror in order to take this measurement. We find the power loss of this additional mirror
+Powe
+19.5 
+	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA0OTc3NDgsLTIwMTUzNjE4MSwtMj
-A2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNjQ0XX0=
+eyJoaXN0b3J5IjpbLTY5NDExMjE2MywtMjAxNTM2MTgxLC0yMD
+Y3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2NDRdfQ==
 -->
