@@ -14,8 +14,8 @@ Incident for M2
 $(0.345 \pm 0.005)$ mW 
 Transmission for $M_2$
 $(1.05 \pm 0.05) \mu$ W 
-Reflection for M2
+Reflection for $M2$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzE3OTc1MiwtMjAxNTM2MTgxLC0yMD
-Y3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTEwNTAwMjExNjYsLTIwMTUzNjE4MSwtMj
+A2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNjQ0XX0=
 -->
