@@ -2,7 +2,7 @@
 ## Day 1 2018 02 06
 ### Figuring out Reflection and Transmission Coefficients:
 
-We want to first characterize the first mirror  
+We want to first characterize the first mirror by measuring it's transmission and reflection coefficients. We can do this by directly measuring the incident beam intensity, 
 also Incident for $M_2$): 
 $(0.262 \pm 0.001)$ mW 
 Input incident to $M_1$: 
@@ -37,6 +37,6 @@ $(19.51Transmission for M1:
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDEwNTQ4MzcsLTg3NjY5Mjc3MywtMj
+eyJoaXN0b3J5IjpbLTE3NTMzNDg4MTgsLTg3NjY5Mjc3MywtMj
 A2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNjQ0XX0=
 -->
