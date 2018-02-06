@@ -39,10 +39,13 @@ $(19.51 \pm 0.01)$ mW
  $$I = \frac{I_{max}}{1 + \frac{2\mathscr{F}}{\pi}^2\sin^2(kL)} \implies \mathscr{F} = \sqrt{\frac{\pi(\frac{I_{max}}{I} - 1)}{2\sin^2(kL)}}$$
  $$\mathscr{F} = $$
 ### Beam Splicing 
+	Starting power 
+	18mV 		4.7807 100%
+	16.2 mV 	
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDcyOTI3MywtMTM2ODczMjY0MSwxMz
+eyJoaXN0b3J5IjpbMTYyOTU1MDU2NiwtMTM2ODczMjY0MSwxMz
 g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
 MjI2NDRdfQ==
 -->
