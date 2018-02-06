@@ -6,14 +6,12 @@ Hello our names are Adam and Akshiv
 $$ \frac{1}{2} $$
 
 $$\gamma = \int_0^{\infty} \sin^2(x) dx$$
-asdfa
-asdfa
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTI2MjU4OCwtMjA2NzUzMTc0MSwtNj
-MyNzYwNjc4LC0xMjkzNTIyNjQ0XX0=
+eyJoaXN0b3J5IjpbOTQyNDQxNjI4LC0yMDY3NTMxNzQxLC02Mz
+I3NjA2NzgsLTEyOTM1MjI2NDRdfQ==
 -->
