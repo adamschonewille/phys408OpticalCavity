@@ -71,7 +71,7 @@ We aligned the laser to set up the optical cavity in the following way:
  - Observed the oscillating/changing time-dependent modes of the resonating beam with the CCD camera.
 
 #### Piezo Calibration:
-For the piezo actuator we want to find the calibration of the device, that is to say we want to investigate and find any relationship between the frequency or voltage and the resulting vibrational characteristics of the cavity.
+For the piezo actuator we want to find the calibration of the device, that is to say we want to investigate and find any relationship between the frequency or voltage and travel of the piezo when it vibrates. We can do this by looking at the resulting laser beam when the piezo is excited and the cavity levibrational characteristics of the cavity.
  
 Optical cavity Length: 150 $\pm$ 1 mm 
 | Frequency (Hz) | Voltage Peak-to-peak (V) | Period (from graph) |
@@ -84,7 +84,7 @@ Optical cavity Length: 150 $\pm$ 1 mm
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY3MDk0MjksMTU1NjIyMDk3MCwxMz
+eyJoaXN0b3J5IjpbLTE5NjM4MTc1MDQsMTU1NjIyMDk3MCwxMz
 g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
 MjI2NDRdfQ==
 -->
