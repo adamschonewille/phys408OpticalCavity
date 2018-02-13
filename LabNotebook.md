@@ -64,7 +64,7 @@ New at 25.2
 
 We aligned the laser to set up the optical cavity in the following way:
 
- - List item
+ - Aligned the mirrors so that the beam was parallel to 
 
  
 
@@ -87,7 +87,7 @@ Optical cavity Length: 150 $\pm$ 1 mm
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxNDc2MjAyLDE1NTYyMjA5NzAsMTM4Nz
-YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
-NjQ0XX0=
+eyJoaXN0b3J5IjpbMTc2Njk0Mzc1OCwxNTU2MjIwOTcwLDEzOD
+c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
+MjY0NF19
 -->
