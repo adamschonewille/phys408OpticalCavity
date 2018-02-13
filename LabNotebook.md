@@ -71,12 +71,12 @@ Optical cavity Length: 150 $\pm$ 1 mm
 |--|--| --|
 | 22.14 | 47.7 $\pm$ 0.2 |  |
 | 22.14 | 25.1 $\pm$ 0.3 |  |
-| 22.14 |  |  |
+| 22.14 | 9.9 10.4 |  |
 |  |  |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTI4Njk2MCwxNTU2MjIwOTcwLDEzOD
+eyJoaXN0b3J5IjpbMTgyNjQ4MzY5NywxNTU2MjIwOTcwLDEzOD
 c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
 MjY0NF19
 -->
