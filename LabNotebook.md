@@ -63,10 +63,11 @@ New at 25.2
 ### Optical Cavity Set-up and Piezo Calibration:
 
 We set up the optical cavity.
-Optical cavity Length: 150 $\pm$ mm 
+
+Optical cavity Length: 150 $\pm$ 1 mm 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDg0MTUyMiwxNTU2MjIwOTcwLDEzOD
+eyJoaXN0b3J5IjpbMTgxOTYzNDEzMSwxNTU2MjIwOTcwLDEzOD
 c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
 MjY0NF19
 -->
