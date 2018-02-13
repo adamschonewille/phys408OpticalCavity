@@ -62,10 +62,16 @@ New at 25.2
 ## Day 2 2018 02 13
 ### Optical Cavity Set-up and Piezo Calibration:
 
-We aligned the laser to set up the optical cavity.
+We aligned the laser to set up the optical cavity in the following way:
+
+ - List item
+
+ 
+
+
 
 #### Piezo Calibration:
-Fro the piezo actuator we want to find the calibration of the device, that is to say we want to investigate and find the any relationship between the frequency or voltage and the resulting vibrational characteristics of the cavity.
+For the piezo actuator we want to find the calibration of the device, that is to say we want to investigate and find the any relationship between the frequency or voltage and the resulting vibrational characteristics of the cavity.
  
 Optical cavity Length: 150 $\pm$ 1 mm 
 | Frequency (Hz) | Voltage Peak-to-peak (V) | Period (from graph) |
@@ -81,7 +87,7 @@ Optical cavity Length: 150 $\pm$ 1 mm
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjY3NzIwOCwxNTU2MjIwOTcwLDEzOD
-c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
-MjY0NF19
+eyJoaXN0b3J5IjpbNDMxNDc2MjAyLDE1NTYyMjA5NzAsMTM4Nz
+YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
+NjQ0XX0=
 -->
