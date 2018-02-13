@@ -70,13 +70,13 @@ Optical cavity Length: 150 $\pm$ 1 mm
 | Frequency (Hz) | Voltage Peak-to-peak (V) | Period (from graph) |
 |--|--| --|
 | 22.14 | 47.7 $\pm$ 0.2 |  |
-| 22.14 | 24.8 $\pm$ 0.2 |  |
-|  |  |  |
+| 22.14 | 25.1 $\pm$ 0.3 |  |
+| 22.14 |  |  |
 |  |  |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjk0MzQ2NCwxNTU2MjIwOTcwLDEzOD
+eyJoaXN0b3J5IjpbMTU0MTI4Njk2MCwxNTU2MjIwOTcwLDEzOD
 c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
 MjY0NF19
 -->
