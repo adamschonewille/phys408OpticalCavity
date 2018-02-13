@@ -65,18 +65,20 @@ New at 25.2
 We aligned the laser to set up the optical cavity.
 
 #### Piezo Calibration:
-
+Fro the piezo actuator we want to find the calibration of the device, that is to say 
 Optical cavity Length: 150 $\pm$ 1 mm 
 | Frequency (Hz) | Voltage Peak-to-peak (V) | Period (from graph) |
 |--|--| --|
 | 22.14 | 47.7 $\pm$ 0.2 |  |
 | 22.14 | 25.1 $\pm$ 0.3 |  |
-| 22.14 | 9.9 10.4 |  |
+| 22.14 | 10.2 $\pm$ 0.3 |  |
+|  |  |  |
 |  |  |  |
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjQ4MzY5NywxNTU2MjIwOTcwLDEzOD
-c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
-MjY0NF19
+eyJoaXN0b3J5IjpbLTYwNTI5NTcsMTU1NjIyMDk3MCwxMzg3Nj
+EyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2
+NDRdfQ==
 -->
