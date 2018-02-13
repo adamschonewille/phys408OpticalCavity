@@ -68,11 +68,10 @@ We aligned the laser to set up the optical cavity in the following way:
  - Added the $50~$cm lens to the beam path and centered the laser spot on it.
  - Reinserted the first $M_1$ mirror into the setup on the micrometer stage at about $50~$cm from the lens.
  - Set the second mirror, $M_2$, to be $15~$cm from the first mirror as to create a resonant cavity with a length of $15~$cm.
- - Observed the oscillating/changing time-dependent modes of the 
-
+ - Observed the oscillating/changing time-dependent modes of the resonating beam with the CCD camera.
 
 #### Piezo Calibration:
-For the piezo actuator we want to find the calibration of the device, that is to say we want to investigate and find the any relationship between the frequency or voltage and the resulting vibrational characteristics of the cavity.
+For the piezo actuator we want to find the calibration of the device, that is to say we want to investigate and find any relationship between the frequency or voltage and the resulting vibrational characteristics of the cavity.
  
 Optical cavity Length: 150 $\pm$ 1 mm 
 | Frequency (Hz) | Voltage Peak-to-peak (V) | Period (from graph) |
@@ -85,7 +84,7 @@ Optical cavity Length: 150 $\pm$ 1 mm
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg1NDYxMjksMTU1NjIyMDk3MCwxMz
+eyJoaXN0b3J5IjpbLTE5MTY3MDk0MjksMTU1NjIyMDk3MCwxMz
 g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
 MjI2NDRdfQ==
 -->
