@@ -65,12 +65,16 @@ New at 25.2
 We set up the optical cavity.
 
 Optical cavity Length: 150 $\pm$ 1 mm 
-| Frequency | Voltage Peak-to-peak  | Period (from graph) |
+| Frequency (Hz) | Voltage Peak-to-peak (V) | Period (from graph) |
 |--|--| --|
-| adsfas |  asdfa| |
+| 22.14 |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3Nzg2MjEzLDE1NTYyMjA5NzAsMTM4Nz
+eyJoaXN0b3J5IjpbMzc2MjE2NDg5LDE1NTYyMjA5NzAsMTM4Nz
 YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
 NjQ0XX0=
 -->
