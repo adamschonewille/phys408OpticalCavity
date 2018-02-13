@@ -64,17 +64,20 @@ New at 25.2
 
 We set up the optical cavity.
 
+
+### Optical Cavity Set-up and Piezo Calibration:
+
 Optical cavity Length: 150 $\pm$ 1 mm 
 | Frequency (Hz) | Voltage Peak-to-peak (V) | Period (from graph) |
 |--|--| --|
-| 22.14 |  |  |
+| 22.14 | 47.7 $\pm$ 0.2 |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2MjE2NDg5LDE1NTYyMjA5NzAsMTM4Nz
-YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
-NjQ0XX0=
+eyJoaXN0b3J5IjpbLTE2ODI4MzEwMzUsMTU1NjIyMDk3MCwxMz
+g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
+MjI2NDRdfQ==
 -->
