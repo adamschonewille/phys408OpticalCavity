@@ -67,10 +67,8 @@ We aligned the laser to set up the optical cavity in the following way:
  - Removed the first mirror $M_1$. Aligned the mirrors so that the beam was parallel to the optical table surface throughout the setup.
  - Added the $50~$cm lens to the beam path and centered the laser spot on it.
  - Reinserted the first $M_1$ mirror into the setup on the micrometer stage at about $50~$cm from the lens.
- - Set the second mirror, $M_2$, to be $15~$cm from the first mirror as to create a resonant cavity with a length of 
-
- 
-
+ - Set the second mirror, $M_2$, to be $15~$cm from the first mirror as to create a resonant cavity with a length of $15~$cm.
+ - Observed the oscillating/changing time-dependent modes of the 
 
 
 #### Piezo Calibration:
@@ -87,7 +85,7 @@ Optical cavity Length: 150 $\pm$ 1 mm
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk1NDQwMTEsMTU1NjIyMDk3MCwxMz
+eyJoaXN0b3J5IjpbLTE5MTg1NDYxMjksMTU1NjIyMDk3MCwxMz
 g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
 MjI2NDRdfQ==
 -->
