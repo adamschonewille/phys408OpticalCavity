@@ -18,9 +18,9 @@ $(7.23 \pm 0.01)$ mW
 
 This part is slightly trickier we had to orient the second mirror so that the reflected spot was far enough from the incident so that we could measure it separately.  We also had to move on of the other mirrors in the setup so we retook the incident beam measurement for $M_2$. 
 
-Incident for $M_2$M2:
+Incident for $M_2$:
 $(0.345 \pm 0.005)$ mW 
-Transmission for $$:
+Transmission for $M_2$:
 $(1.05 \pm 0.05) \mu$ W 
 Reflection for $M_2$:
 $(0.338 \pm 0.005)$  mW
@@ -31,7 +31,7 @@ Incident Beam:
 $18.08 \pm 0.05$ mW
 Transmission:
 $(0.200 \pm 0.001 )$ mW
-Reflected 
+Reflected:
 $(16.34 \pm 0.02)$ mW
 Reason for losses in this case: we had to reflect it off an additional mirror in order to take this measurement. We find the power loss of this additional mirror
 Power before Additional Mirror
@@ -62,7 +62,7 @@ New at 25.2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjc3OTMzNiwxNTU2MjIwOTcwLDEzOD
+eyJoaXN0b3J5IjpbLTIzNDI3ODQ2NywxNTU2MjIwOTcwLDEzOD
 c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
 MjY0NF19
 -->
