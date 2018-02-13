@@ -67,7 +67,7 @@ We aligned the laser to set up the optical cavity in the following way:
  - Removed the first mirror $M_1$. Aligned the mirrors so that the beam was parallel to the optical table surface throughout the setup.
  - Added the $50~$cm lens to the beam path and centered the laser spot on it.
  - Reinserted the first $M_1$ mirror into the setup on the micrometer stage at about $50~$cm from the lens.
- - Set the second mirror to be 
+ - Set the second mirror, $M_2$, to be $15~$cm from the first mirror as to create a resonant cavity with a length of 
 
  
 
@@ -87,7 +87,7 @@ Optical cavity Length: 150 $\pm$ 1 mm
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTc5NTg1NywxNTU2MjIwOTcwLDEzOD
-c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
-MjY0NF19
+eyJoaXN0b3J5IjpbLTE4Nzk1NDQwMTEsMTU1NjIyMDk3MCwxMz
+g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
+MjI2NDRdfQ==
 -->
