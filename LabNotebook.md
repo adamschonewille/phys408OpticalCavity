@@ -62,22 +62,21 @@ New at 25.2
 ## Day 2 2018 02 13
 ### Optical Cavity Set-up and Piezo Calibration:
 
-We set up the optical cavity.
+We aligned the laser to set up the optical cavity.
 
-
-### Optical Cavity Set-up and Piezo Calibration:
+#### Piezo Calibration:
 
 Optical cavity Length: 150 $\pm$ 1 mm 
 | Frequency (Hz) | Voltage Peak-to-peak (V) | Period (from graph) |
 |--|--| --|
 | 22.14 | 47.7 $\pm$ 0.2 |  |
-|  |  |  |
+| 22.14 | 24.8 $\pm$ 0.2 |  |
 |  |  |  |
 |  |  |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI4MzEwMzUsMTU1NjIyMDk3MCwxMz
-g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
-MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbMTExMjk0MzQ2NCwxNTU2MjIwOTcwLDEzOD
+c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
+MjY0NF19
 -->
