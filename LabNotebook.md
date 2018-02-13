@@ -41,6 +41,8 @@ $(19.51 \pm 0.01)$ mW
  Now we can calculate the finesse with cavity length L = 15cm and wave number k = 
  $$I = \frac{I_{max}}{1 + \frac{2\mathscr{F}}{\pi}^2\sin^2(kL)} \implies \mathscr{F} = \sqrt{\frac{\pi(\frac{I_{max}}{I} - 1)}{2\sin^2(kL)}}$$
  $$\mathscr{F} = $$
+
+
 ### Beam Splicing 
 	Starting power 
 	18mV 		4.7807 100%
@@ -60,7 +62,7 @@ New at 25.2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1MTk5NzI0LDE1NTYyMjA5NzAsMTM4Nz
-YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
-NjQ0XX0=
+eyJoaXN0b3J5IjpbMTEzNjc3OTMzNiwxNTU2MjIwOTcwLDEzOD
+c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
+MjY0NF19
 -->
