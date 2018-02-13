@@ -87,28 +87,28 @@ Optical cavity Length: 150 $\pm$ 1 mm
 | 223.7 | 48.0 $\pm$ 0.1 |  |
 | 1018  | 48.0 $\pm$ 0.1 |  |
 
-Optical cavity Length: $\pm$ 1 mm 
+Optical cavity Length: 300 $\pm$ 1 mm 
 | Frequency (Hz) | Voltage Peak-to-peak (V) | Period (from graph) |
 |--|--| --|
-| | 47.7 $\pm$ 0.2 |  |
-| | 25.1 $\pm$ 0.3 |  |
-| | 10.2 $\pm$ 0.3 |  |
-| | 48.0 $\pm$ 0.1 |  |
-| | 48.0 $\pm$ 0.1 |  |
+| | $\pm$ 0.2 |  |
+| | $\pm$ 0.3 |  |
+| | $\pm$ 0.3 |  |
+| | $\pm$ 0.1 |  |
+| | $\pm$ 0.1 |  |
 
 
-Optical cavity Length: $\pm$ 1 mm 
+Optical cavity Length: 200 $\pm$ 1 mm 
 | Frequency (Hz) | Voltage Peak-to-peak (V) | Period (from graph) |
 |--|--| --|
-| | 47.7 $\pm$ 0.2 |  |
-| | 25.1 $\pm$ 0.3 |  |
-| | 10.2 $\pm$ 0.3 |  |
-| | 48.0 $\pm$ 0.1 |  |
-| | 48.0 $\pm$ 0.1 |  |
+| | $\pm$ 0.2 |  |
+| | $\pm$ 0.3 |  |
+| | $\pm$ 0.3 |  |
+| | $\pm$ 0.1 |  |
+| | $\pm$ 0.1 |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjc4MzM1MiwxNTU2MjIwOTcwLDEzOD
-c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
-MjY0NF19
+eyJoaXN0b3J5IjpbOTExNjE3NzE1LDE1NTYyMjA5NzAsMTM4Nz
+YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
+NjQ0XX0=
 -->
