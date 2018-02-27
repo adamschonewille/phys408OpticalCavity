@@ -137,15 +137,22 @@ Initial Z-Stage Dial Reading:
 | Optical Cavity Length Change ($\Delta mm$) | Power ($\mu W$)|
 |--|--|--|
 | 16.34 $\pm$ 0.01| 210 $\pm$ 10 |  |
-| 16.00 $\pm$ 0.01| 210 $\pm$ 10|  |
-| 15.09 $\pm$ 0.01| 208 $\pm$ 20|  |
+| 16.00 $\pm$ 0.01| 210 $\pm$ 10 |  |
+| 15.09 $\pm$ 0.01| 208 $\pm$ 20 |  |
 | 15.03 $\pm$ 0.01| 203 $\pm$ 20 |  | 
 | 14.5 $\pm$ 0.01| 200 $\pm$  20 |  |
 | 14.0 $\pm$ 0.01| 197 $\pm$  10 |  |
-|  $\pm$ 0.01|   $\pm$  |  |
+| 13.5 $\pm$ 0.01| 189  $\pm$ 10 |  |
+| 13.0 $\pm$ 0.01| 186 $\pm$ 13 |  |
+| 16.00 $\pm$ 0.01| 210 $\pm$ 10 |  |
+| 15.09 $\pm$ 0.01| 208 $\pm$ 20 |  |
+| 15.03 $\pm$ 0.01| 203 $\pm$ 20 |  | 
+| 14.5 $\pm$ 0.01| 200 $\pm$  20 |  |
+| 14.0 $\pm$ 0.01| 197 $\pm$  10 |  |
+| 13.5 $\pm$ 0.01| 189  $\pm$ 10 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjYyNTA0ODcsMTU1NjIyMDk3MCwxMz
+eyJoaXN0b3J5IjpbLTE0OTIxMDYwMjIsMTU1NjIyMDk3MCwxMz
 g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
 MjI2NDRdfQ==
 -->
