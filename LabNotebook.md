@@ -132,18 +132,19 @@ The optical cavity length was set to multiple different lengths and the optical 
 The 150 mm Optical  Cavity length gave the clearest signal for the transmitted optical power. The signal did not fluctuate as much as other measurements and the periodicity of the signal was very clear. This was the recommend length to use as it is the focal length of the mirror used. This is because the optical cavity consist of two mirrors: one flat, and one with a radius of curvature of 30 cm. Also, $F = ROC/2$, so a ROC of 30 cm gives us the 15 cm focal length.
 
 Initial Cavity Length: 292.5 mm (From Surface of Both Mirrors)
+Initial Z-Stage Dial Reading: 
 | Optical Cavity Length Change ($\Delta mm$) | Power ($\mu W$)|
 |--|--|--|
 | 0 $\pm$ | 210  $\pm$ 10 |  |
-|  $\pm$ |   $\pm$ 0.1 |  |
-|  $\pm$ |   $\pm$ 0.1 |  |
-|  $\pm$ |   $\pm$ 0.1 |  | the best so far
-|  $\pm$ |   $\pm$ 0.1 |  |
-|  $\pm$ |   $\pm$ 0.1 |  |
-|  $\pm$ |   $\pm$ 0.1 |  |
+|  $\pm$ |   $\pm$  |  |
+|  $\pm$ |   $\pm$  |  |
+|  $\pm$ |   $\pm$  |  | 
+|  $\pm$ |   $\pm$  |  |
+|  $\pm$ |   $\pm$  |  |
+|  $\pm$ |   $\pm$  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDY4NDYwMTcsMTU1NjIyMDk3MCwxMz
-g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
-MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTIzMTQ0MzM4MCwxNTU2MjIwOTcwLDEzOD
+c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
+MjY0NF19
 -->
