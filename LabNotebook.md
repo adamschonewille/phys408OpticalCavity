@@ -107,8 +107,12 @@ Optical cavity Length: 200 $\pm$ 1 mm
 | 22.7 |  9.7 $\pm$ 0.2 |  |
 
 
+## Day 3 2018 02 27
+### Piezo Calibration Analysis and Finesse:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDEwNjc5NTQsMTU1NjIyMDk3MCwxMz
-g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
-MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbMTMzNzk3ODIzMywxNTU2MjIwOTcwLDEzOD
+c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
+MjY0NF19
 -->
