@@ -108,15 +108,15 @@ Optical cavity Length: 200 $\pm$ 1 mm
 
 
 ## Day 3 2018 02 27
-### Piezo Calibration Analysis and Finesse:
+### Piezo Calibration Analysis and Q-Factor (Finesse):
 
 Tune the optical cavity to find the max power when the laser is in the $TEM_{00}$ mode. After >25 cm of cavity length the transmitted laser seems to become marginally unstable. 
 
 Last point of resonance is when the optical cavity length is 29.75 cm. This measurement leads us to believe that the max cavity length is at or around 30 cm.
 
-Set the cavity length to 1.5 cm  
+Set the cavity length to 1.5 cm and record the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTA4NTYzNCwxNTU2MjIwOTcwLDEzOD
-c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
-MjY0NF19
+eyJoaXN0b3J5IjpbLTEyOTI5NDA1MTEsMTU1NjIyMDk3MCwxMz
+g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
+MjI2NDRdfQ==
 -->
