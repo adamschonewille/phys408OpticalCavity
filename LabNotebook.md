@@ -115,8 +115,10 @@ Tune the optical cavity to find the max power when the laser is in the $TEM_{00}
 Last point of resonance is when the optical cavity length is 29.75 cm. This measurement leads us to believe that the max cavity length is at or around 30 cm.
 
 Set the cavity length to 1.5 cm and record the optical power transmitted as measured by the photodiode (PD). This plot has several peaks that occur in a period pattern. 
+
+The optical cavity length was set to multiple different lengths and the optical power trans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTMwOTA3MTYsMTU1NjIyMDk3MCwxMz
-g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
-MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTY0MDk3NzIwLDE1NTYyMjA5NzAsMTM4Nz
+YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
+NjQ0XX0=
 -->
