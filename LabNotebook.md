@@ -45,9 +45,9 @@ $(19.51 \pm 0.01)$ mW
 
 ### Beam Splicing 
 	Starting power 
-	18mV 		4.7807 100%
+	18 mV 		4.7807 100%
 	16.25 mV 	9.5621
-	16.13 		9.5721
+	16.13 mV		9.5721
 	
 	1.8-1.9 
 	1.83-1.85 9.9346 10%
@@ -114,8 +114,9 @@ Tune the optical cavity to find the max power when the laser is in the $TEM_{00}
 
 Last point of resonance is when the optical cavity length is 29.75 cm. This measurement leads us to believe that the max cavity length is at or around 30 cm.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTg3ODcxLDE1NTYyMjA5NzAsMTM4Nz
+eyJoaXN0b3J5IjpbMTQ0OTk2NTY0LDE1NTYyMjA5NzAsMTM4Nz
 YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
 NjQ0XX0=
 -->
