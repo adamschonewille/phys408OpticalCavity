@@ -110,10 +110,10 @@ Optical cavity Length: 200 $\pm$ 1 mm
 ## Day 3 2018 02 27
 ### Piezo Calibration Analysis and Finesse:
 
-Tune the optical cavity to find the max power when the laser is in the $TEM_{00}$ mode. After >25 cm of cavity length the transmitted laser seems to become marginally unstable 
+Tune the optical cavity to find the max power when the laser is in the $TEM_{00}$ mode. After >25 cm of cavity length the transmitted laser seems to become marginally unstable. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzI1OTM0MDQsMTU1NjIyMDk3MCwxMz
-g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
-MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbMTYyMDM5MTMwLDE1NTYyMjA5NzAsMTM4Nz
+YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
+NjQ0XX0=
 -->
