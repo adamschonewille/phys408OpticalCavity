@@ -150,18 +150,19 @@ Initial Z-Stage Dial Reading:
 | 11.00 $\pm$ 0.01| 166 $\pm$ 10 |  |
 | 10.50 $\pm$ 0.01| 156 $\pm$ 10 |  |
 | 10.00 $\pm$ 0.01| 149 $\pm$ 10 |  |
-|  9.50 $\pm$ 0.01| 197 $\pm$ 10 |  |
-| 13.50 $\pm$ 0.01| 189 $\pm$ 10 |  |
-| 13.00 $\pm$ 0.01| 186 $\pm$ 10 |  |
-| 12.50 $\pm$ 0.01| 184 $\pm$ 10 |  |
-| 12.00 $\pm$ 0.01| 179 $\pm$ 10 |  |
-| 11.50 $\pm$ 0.01| 174 $\pm$ 10 |  | 
-| 11.00 $\pm$ 0.01| 166 $\pm$ 10 |  |
-| 10.50 $\pm$ 0.01| 156 $\pm$ 10 |  |
-| 10.00 $\pm$ 0.01| 149 $\pm$ 10 |  |
+|  9.50 $\pm$ 0.01| 128 $\pm$ 10 |  |
+|  9.00 $\pm$ 0.01| 115 $\pm$ 10 |  |
+|  8.50 $\pm$ 0.01| 128 $\pm$ 10 |  |
+|  8.00 $\pm$ 0.01| 128 $\pm$ 10 |  |
+|  7.50 $\pm$ 0.01| 128 $\pm$ 10 |  |
+|  9.50 $\pm$ 0.01| 128 $\pm$ 10 |  |
+|  9.00 $\pm$ 0.01| 115 $\pm$ 10 |  |
+|  8.50 $\pm$ 0.01| 128 $\pm$ 10 |  |
+|  8.00 $\pm$ 0.01| 128 $\pm$ 10 |  |
+|  7.50 $\pm$ 0.01| 128 $\pm$ 10 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzgxNjU2NywxNTU2MjIwOTcwLDEzOD
-c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
-MjY0NF19
+eyJoaXN0b3J5IjpbNDQxMTcwMTY2LDE1NTYyMjA5NzAsMTM4Nz
+YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
+NjQ0XX0=
 -->
