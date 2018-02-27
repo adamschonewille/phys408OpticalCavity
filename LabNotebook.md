@@ -112,8 +112,10 @@ Optical cavity Length: 200 $\pm$ 1 mm
 
 Tune the optical cavity to find the max power when the laser is in the $TEM_{00}$ mode. After >25 cm of cavity length the transmitted laser seems to become marginally unstable. 
 
+Last point of resonance is when the optical cavity length is 29.75 cm. This measurement leads us to believe that the max cavity length is at or around 30 cm.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDM5MTMwLDE1NTYyMjA5NzAsMTM4Nz
+eyJoaXN0b3J5IjpbLTQyNTg3ODcxLDE1NTYyMjA5NzAsMTM4Nz
 YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
 NjQ0XX0=
 -->
