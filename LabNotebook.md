@@ -129,11 +129,11 @@ The optical cavity length was set to multiple different lengths and the optical 
 | 250 $\pm$ 2|  73.4 $\pm$ 0.1 |  |
 | 300 $\pm$ 2|  73.4 $\pm$ 0.1 |  |
 
-The 150 mm Optical  Cavity length gave the clearest signal for the transmitted optical power. The signal did not fluctuate as much as other measurements and the periodicity of the signal was very clear. This was the recommend length to use as it is the focal length of the mirror used. This is because the optical cavity consist of two mirrors: one flat, and one with a radius of curvature of 30 cm.
+The 150 mm Optical  Cavity length gave the clearest signal for the transmitted optical power. The signal did not fluctuate as much as other measurements and the periodicity of the signal was very clear. This was the recommend length to use as it is the focal length of the mirror used. This is because the optical cavity consist of two mirrors: one flat, and one with a radius of curvature of 30 cm. Also, F = 
 
 The 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQ2OTk4ODAsMTU1NjIyMDk3MCwxMz
+eyJoaXN0b3J5IjpbLTE2NDk0MDQ4OTgsMTU1NjIyMDk3MCwxMz
 g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
 MjI2NDRdfQ==
 -->
