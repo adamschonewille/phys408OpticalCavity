@@ -47,7 +47,7 @@ $(19.51 \pm 0.01)$ mW
 	Starting power 
 	18 mV 		4.7807 100%
 	16.25 mV 	9.5621
-	16.13 mV		9.5721
+	16.13 mV	9.5721
 	
 	1.8-1.9 
 	1.83-1.85 9.9346 10%
@@ -116,7 +116,7 @@ Last point of resonance is when the optical cavity length is 29.75 cm. This meas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTk2NTY0LDE1NTYyMjA5NzAsMTM4Nz
-YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
-NjQ0XX0=
+eyJoaXN0b3J5IjpbLTE0MTA4MzIwMDQsMTU1NjIyMDk3MCwxMz
+g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
+MjI2NDRdfQ==
 -->
