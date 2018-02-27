@@ -123,12 +123,14 @@ The optical cavity length was set to multiple different lengths and the optical 
 |  15 $\pm$ 2|  $\pm$ |  |
 |  50 $\pm$ 2|  $\pm$ |  |
 | 100 $\pm$ 2|  $\pm$ |  |
-| 150 $\pm$ 2|  $\pm$ |  |
+| 150 $\pm$ 2|  $\pm$ |  | the best so far
 | 200 $\pm$ 2|  $\pm$ |  |
 | 250 $\pm$ 2|  $\pm$ |  |
 
+
+150 mm Optical  Cavity length gave the clearest signal  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDI5ODg3NDYsMTU1NjIyMDk3MCwxMz
-g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
-MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbNTQ1ODk4OSwxNTU2MjIwOTcwLDEzODc2MT
+I3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMjY0
+NF19
 -->
