@@ -87,7 +87,7 @@ Optical cavity Length: 150 $\pm$ 1 mm
 | 223.7 | 48.0 $\pm$ 0.1 |  |
 | 1018  | 48.0 $\pm$ 0.1 |  |
 
-Optical cavity Length: 300 $\pm$ 1 mm 
+Optical cavity Length: 295 $\pm$ 1 mm 
 | Frequency (Hz) | Voltage Peak-to-peak (V) | Period (from graph) |
 |--|--| --|
 | | $\pm$ 0. |  |
@@ -106,7 +106,7 @@ Optical cavity Length: 200 $\pm$ 1 mm
 | 22.7 | 29.7 $\pm$ 0.2 |  |
 | 22.7 |  9.7 $\pm$ 0.2 |  |
 
-cavity length measurements from this day 
+
 
 ## Day 3 2018 02 27
 ### Piezo Calibration Analysis and Q-Factor (Finesse):
@@ -133,7 +133,7 @@ The 150 mm Optical  Cavity length gave the clearest signal for the transmitted o
 
 The 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU0ODQ2NDgsMTU1NjIyMDk3MCwxMz
-g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
-MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbMzU5OTQ1Mzk0LDE1NTYyMjA5NzAsMTM4Nz
+YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
+NjQ0XX0=
 -->
