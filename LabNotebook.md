@@ -157,12 +157,12 @@ Initial Z-Stage Dial Reading:
 |  7.50 $\pm$ 0.01|  45 $\pm$  5 |  |
 |  7.00 $\pm$ 0.01|  41 $\pm$  5 |  |
 |  6.50 $\pm$ 0.01|  40 $\pm$  5 |  |
-|  8.50 $\pm$ 0.01| 128 $\pm$ 10 |  |
-|  8.00 $\pm$ 0.01| 128 $\pm$ 10 |  |
-|  7.50 $\pm$ 0.01| 128 $\pm$ 10 |  |
+|  6.00 $\pm$ 0.01|  38 $\pm$  5 |  |
+|  5.50 $\pm$ 0.01|  37 $\pm$  2 |  |
+|  5.00 $\pm$ 0.01| 128 $\pm$ 10 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzgwODM2OTgsMTU1NjIyMDk3MCwxMz
+eyJoaXN0b3J5IjpbLTE3Mjc3Njk0NzAsMTU1NjIyMDk3MCwxMz
 g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
 MjI2NDRdfQ==
 -->
