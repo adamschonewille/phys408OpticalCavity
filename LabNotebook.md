@@ -129,8 +129,10 @@ The optical cavity length was set to multiple different lengths and the optical 
 | 300 $\pm$ 2|  $\pm$ |  |
 
 The 150 mm Optical  Cavity length gave the clearest signal for the transmitted optical power. The signal did not fluctuate as much as other measurements and the periodicity of the signal was very clear. 
+
+The 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMzAwOTkzNCwxNTU2MjIwOTcwLDEzOD
+eyJoaXN0b3J5IjpbMTUzNDYxMTAzNSwxNTU2MjIwOTcwLDEzOD
 c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
 MjY0NF19
 -->
