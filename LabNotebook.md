@@ -152,9 +152,9 @@ Initial Z-Stage Dial Reading:
 | 10.00 $\pm$ 0.01| 149 $\pm$ 10 |  |
 |  9.50 $\pm$ 0.01| 128 $\pm$ 10 |  |
 |  9.00 $\pm$ 0.01| 115 $\pm$ 10 |  |
-|  8.50 $\pm$ 0.01| 128 $\pm$ 10 |  |
-|  8.00 $\pm$ 0.01| 128 $\pm$ 10 |  |
-|  7.50 $\pm$ 0.01| 128 $\pm$ 10 |  |
+|  8.50 $\pm$ 0.01|  90 $\pm$ 10 |  |
+|  8.00 $\pm$ 0.01|  58 $\pm$  5 |  |
+|  7.50 $\pm$ 0.01| 45 $\pm$ 1 |  |
 |  9.50 $\pm$ 0.01| 128 $\pm$ 10 |  |
 |  9.00 $\pm$ 0.01| 115 $\pm$ 10 |  |
 |  8.50 $\pm$ 0.01| 128 $\pm$ 10 |  |
@@ -162,7 +162,7 @@ Initial Z-Stage Dial Reading:
 |  7.50 $\pm$ 0.01| 128 $\pm$ 10 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxMTcwMTY2LDE1NTYyMjA5NzAsMTM4Nz
-YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
-NjQ0XX0=
+eyJoaXN0b3J5IjpbLTgxMTM4Njc5MiwxNTU2MjIwOTcwLDEzOD
+c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
+MjY0NF19
 -->
