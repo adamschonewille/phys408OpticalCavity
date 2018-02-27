@@ -118,18 +118,17 @@ Set the cavity length to 1.5 cm and record the optical power transmitted as meas
 
 The optical cavity length was set to multiple different lengths and the optical power transmitted was measured using the photodiode. 
 
-Optical cavity Length: 200 $\pm$ 1 mm 
 | Optical cavity Length (mm) | Frequency (Hz) | Finesse |
 |--|--|--|
-|  15 |  $\pm$ |  |
-|  50 |  $\pm$ |  |
-| 100 |  $\pm$ |  |
-| 150 |  $\pm$ |  |
-| 200 |  $\pm$ |  |
-| 250 |  $\pm$ |  |
+|  15 $\pm$ 2|  $\pm$ |  |
+|  50 $\pm$ 2|  $\pm$ |  |
+| 100 $\pm$ 2|  $\pm$ |  |
+| 150 $\pm$ 2|  $\pm$ |  |
+| 200 $\pm$ 2|  $\pm$ |  |
+| 250 $\pm$ 2|  $\pm$ |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDUyMzM1MzQsMTU1NjIyMDk3MCwxMz
+eyJoaXN0b3J5IjpbLTIxMDI5ODg3NDYsMTU1NjIyMDk3MCwxMz
 g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
 MjI2NDRdfQ==
 -->
