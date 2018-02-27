@@ -138,14 +138,14 @@ Initial Z-Stage Dial Reading:
 |--|--|--|
 | 16.34 $\pm$ 0.01| 210  $\pm$ 10 |  |
 | 16.00 $\pm$ 0.01| 210 $\pm$ 10|  |
-|  $\pm$ |   $\pm$  |  |
+|  $\pm$ | 208  $\pm$  |  |
 |  $\pm$ |   $\pm$  |  | 
 |  $\pm$ |   $\pm$  |  |
 |  $\pm$ |   $\pm$  |  |
 |  $\pm$ |   $\pm$  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc4OTY5NzAsMTU1NjIyMDk3MCwxMz
+eyJoaXN0b3J5IjpbLTExMjMzNzI1NTgsMTU1NjIyMDk3MCwxMz
 g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
 MjI2NDRdfQ==
 -->
