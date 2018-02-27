@@ -106,7 +106,7 @@ Optical cavity Length: 200 $\pm$ 1 mm
 | 22.7 | 29.7 $\pm$ 0.2 |  |
 | 22.7 |  9.7 $\pm$ 0.2 |  |
 
-
+cavity length measurements from this day 
 
 ## Day 3 2018 02 27
 ### Piezo Calibration Analysis and Q-Factor (Finesse):
@@ -133,7 +133,7 @@ The 150 mm Optical  Cavity length gave the clearest signal for the transmitted o
 
 The 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk2NjI2NzUsMTU1NjIyMDk3MCwxMz
+eyJoaXN0b3J5IjpbLTEwNTU0ODQ2NDgsMTU1NjIyMDk3MCwxMz
 g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
 MjI2NDRdfQ==
 -->
