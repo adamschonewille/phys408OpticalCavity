@@ -116,9 +116,9 @@ Last point of resonance is when the optical cavity length is 29.75 cm. This meas
 
 Set the cavity length to 1.5 cm and record the optical power transmitted as measured by the photodiode (PD). This plot has several peaks that occur in a period pattern. 
 
-The optical cavity length was set to multiple different lengths and the optical power trans
+The optical cavity length was set to multiple different lengths and the optical power transmitted was measured using the photodiode.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDk3NzIwLDE1NTYyMjA5NzAsMTM4Nz
+eyJoaXN0b3J5IjpbLTc5ODIyMzY4LDE1NTYyMjA5NzAsMTM4Nz
 YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
 NjQ0XX0=
 -->
