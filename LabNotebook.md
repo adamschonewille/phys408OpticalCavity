@@ -136,16 +136,16 @@ Readings taken as absolute numbers off of Z dial
 Initial Z-Stage Dial Reading: 
 | Optical Cavity Length Change ($\Delta mm$) | Power ($\mu W$)|
 |--|--|--|
-| 16.34 $\pm$ 0.01| 210  $\pm$ 10 |  |
+| 16.34 $\pm$ 0.01| 210 $\pm$ 10 |  |
 | 16.00 $\pm$ 0.01| 210 $\pm$ 10|  |
-| 15.09 $\pm$ 0.01| 208  $\pm$  20|  |
-| 14.53 $\pm$ 0.01| 203 $\pm$  |  | 
+| 15.09 $\pm$ 0.01| 208 $\pm$ 20|  |
+| 15.03 $\pm$ 0.01| 203 $\pm$ 20 |  | 
 |  $\pm$ 0.01|   $\pm$  |  |
 |  $\pm$ 0.01|   $\pm$  |  |
 |  $\pm$ 0.01|   $\pm$  |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzNjIxMjcyLDE1NTYyMjA5NzAsMTM4Nz
-YxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIy
-NjQ0XX0=
+eyJoaXN0b3J5IjpbLTQ1NDkwNjUzNiwxNTU2MjIwOTcwLDEzOD
+c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
+MjY0NF19
 -->
