@@ -146,13 +146,13 @@ Initial Z-Stage Dial Reading:
 | 13.00 $\pm$ 0.01| 186 $\pm$ 10 |  |
 | 12.50 $\pm$ 0.01| 184 $\pm$ 10 |  |
 | 12.00 $\pm$ 0.01| 179 $\pm$ 10 |  |
-| 15.03 $\pm$ 0.01| 203 $\pm$ 0 |  | 
-| 14.5 $\pm$ 0.01| 200 $\pm$  20 |  |
+| 15.03 $\pm$ 0.01| 203 $\pm$ 10 |  | 
+| 14.5 $\pm$ 0.01| 200 $\pm$  10 |  |
 | 14.0 $\pm$ 0.01| 197 $\pm$  10 |  |
 | 13.5 $\pm$ 0.01| 189  $\pm$ 10 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDU2NDI0NCwxNTU2MjIwOTcwLDEzOD
+eyJoaXN0b3J5IjpbMTE5MjgxODc2MCwxNTU2MjIwOTcwLDEzOD
 c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
 MjY0NF19
 -->
