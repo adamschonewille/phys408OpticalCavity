@@ -134,16 +134,16 @@ The 150 mm Optical  Cavity length gave the clearest signal for the transmitted o
 Initial Cavity Length: 292.5 mm (From Surface of Both Mirrors)
 | Optical Cavity Length Change ($\Delta mm$) | Power ($\mu W$)|
 |--|--|--|
-|  15 $\pm$ 2|  73.4 $\pm$ 0.1 |  |
-|  50 $\pm$ 2|  73.4 $\pm$ 0.1 |  |
-| 100 $\pm$ 2|  73.4 $\pm$ 0.1 |  |
-| 150 $\pm$ 2|  73.4 $\pm$ 0.1 |  | the best so far
-| 200 $\pm$ 2|  73.4 $\pm$ 0.1 |  |
-| 250 $\pm$ 2|  73.4 $\pm$ 0.1 |  |
-| 300 $\pm$ 2|  73.4 $\pm$ 0.1 |  |
+| 0 $\pm$ | 210  $\pm$ 10 |  |
+|  $\pm$ |   $\pm$ 0.1 |  |
+|  $\pm$ |   $\pm$ 0.1 |  |
+|  $\pm$ |   $\pm$ 0.1 |  | the best so far
+|  $\pm$ |   $\pm$ 0.1 |  |
+|  $\pm$ |   $\pm$ 0.1 |  |
+|  $\pm$ |   $\pm$ 0.1 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTg1Mzk2NCwxNTU2MjIwOTcwLDEzOD
-c2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUy
-MjY0NF19
+eyJoaXN0b3J5IjpbLTIxMDY4NDYwMTcsMTU1NjIyMDk3MCwxMz
+g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
+MjI2NDRdfQ==
 -->
