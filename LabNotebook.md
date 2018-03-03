@@ -48,9 +48,11 @@ Unblocked Laser Starting Power
 | Power (mW) | Knife Position () | Percent Power |
 |--|--|--|
 | 18 | 4.7807 | 100%  |
-Move the knife edge to 90% of the full power (around )
-16.25 mV 	9.5621
-16.13 mV	9.5721
+Move the knife edge to 90% of the full power (around 16.2 mW)
+| Power (mW) | Knife Position () | Percent Power |
+|--|--|--|
+| 16.25 | 9.5621 |  |
+| 16.13 | 9.5721 |  |
 	
 1.8-1.9 
 1.83-1.85 9.9346 10%
@@ -165,7 +167,7 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzQ5NDIwLC0xNjk1NzE0NzQxLDE5Mj
+eyJoaXN0b3J5IjpbNDcwNTc1NzMyLC0xNjk1NzE0NzQxLDE5Mj
 UxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5MzQ0MSwxMzg3NjEy
 NzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2ND
 RdfQ==
