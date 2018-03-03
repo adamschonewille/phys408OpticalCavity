@@ -48,7 +48,6 @@ $(19.51 \pm 0.01)$ mW
 	| Power (mW) | Knife Position () | Percent Power |
 	|--|--| --|
 	| 18 | 4.7807 | 100%  |
-	 		
 	Move the knife edge to 90% of the full power (around )
 	16.25 mV 	9.5621
 	16.13 mV	9.5721
@@ -166,7 +165,7 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM5MzM1NjgsLTE2OTU3MTQ3NDEsMT
+eyJoaXN0b3J5IjpbLTE5MTk0NDkyNjgsLTE2OTU3MTQ3NDEsMT
 kyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkzNDQxLDEzODc2
 MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMj
 Y0NF19
