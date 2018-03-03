@@ -44,7 +44,7 @@ $(19.51 \pm 0.01)$ mW
 
 
 ### Knife-edge Measurement for Beam Waist 
-With the aforementioned setup the first mirror, $M_1$,  was removed and the knife edge was 
+With the aforementioned setup the first mirror, $M_1$,  was removed and the knife edge was placed in it's spot.
 For a  Optical Cavity length of 24.31 cm:
 Unblocked Laser Starting Power 
 | Power (mW) | Knife Position (mm) | Percent Power |
@@ -173,7 +173,7 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzE3ODAwOSwtMTY5NTcxNDc0MSwxOT
+eyJoaXN0b3J5IjpbLTI2OTE1NzgzNiwtMTY5NTcxNDc0MSwxOT
 I1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0NDEsMTM4NzYx
 MjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNj
 Q0XX0=
