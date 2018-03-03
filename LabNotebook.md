@@ -60,9 +60,11 @@ Next, move/jog the knife edge over until 10% of the full power is transmitted (a
 | 1.85 | 9.9346 | 10.28% |
 | 1.83 | 9.9445 | 10.17% |
 
-Repeated the experiment for different optical cavity length
-New at 25.2
-17.98mV 6.3538 100%
+
+
+This experiment was repeated for a different optical cavity length
+Now at 25.2 cm
+17.98 mV 6.3538 100%
 16.2 mV 9.5624 90%
 1.77 mV 9.9366
 
@@ -170,8 +172,8 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkyMTg4NDAsLTE2OTU3MTQ3NDEsMT
-kyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkzNDQxLDEzODc2
-MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMj
-Y0NF19
+eyJoaXN0b3J5IjpbLTQ3NzQ4NDc4OSwtMTY5NTcxNDc0MSwxOT
+I1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0NDEsMTM4NzYx
+MjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNj
+Q0XX0=
 -->
