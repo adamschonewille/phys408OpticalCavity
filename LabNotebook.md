@@ -91,10 +91,10 @@ Optical cavity Length: 295 $\pm$ 1 mm
 | Frequency (Hz) | Voltage Peak-to-peak (V) | Period (from graph) |
 |--|--| --|
 | 186 | 48 $\pm$ 0.2 |  |
+| 22.38 | 48 $\pm$ 0.2 |  |
 | 1867 | 48 $\pm$ 0.2 |  |
-|  |  $\pm$ 0.2 |  |
-|   |  $\pm$ 0.2 |  |
-|   |  $\pm$ 0.2 |  |
+| 22.41 | 26.6 $\pm$ 0.3 |  |
+| 22.43 | 9.6 $\pm$ 0.2 |  |
 
 
 Optical cavity Length: 200 $\pm$ 1 mm 
@@ -162,7 +162,7 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjcxOTQxMzYsLTIwNDMwMDUwNDcsMT
+eyJoaXN0b3J5IjpbLTEzNDU5MTAwNTUsLTIwNDMwMDUwNDcsMT
 MxOTQ5MzQ0MSwxMzg3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3
 NjA2NzgsLTEyOTM1MjI2NDRdfQ==
 -->
