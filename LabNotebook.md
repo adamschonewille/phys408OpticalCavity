@@ -44,16 +44,16 @@ $(19.51 \pm 0.01)$ mW
 
 
 ### Beam Splicing 
-	Unblocked Laser Starting Power 
-	| Power (mW) | Knife Position () | Percent Power |
-	|--|--| --|
-	| 18 | 4.7807 | 100%  |
-	Move the knife edge to 90% of the full power (around )
-	16.25 mV 	9.5621
-	16.13 mV	9.5721
+Unblocked Laser Starting Power 
+| Power (mW) | Knife Position () | Percent Power |
+|--|--|--|
+| 18 | 4.7807 | 100%  |
+Move the knife edge to 90% of the full power (around )
+16.25 mV 	9.5621
+16.13 mV	9.5721
 	
-	1.8-1.9 
-	1.83-1.85 9.9346 10%
+1.8-1.9 
+1.83-1.85 9.9346 10%
 AT a z = 24.31 cm
 
 New at 25.2
@@ -165,8 +165,8 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk0NDkyNjgsLTE2OTU3MTQ3NDEsMT
-kyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkzNDQxLDEzODc2
-MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMj
-Y0NF19
+eyJoaXN0b3J5IjpbMTQ2MzQ5NDIwLC0xNjk1NzE0NzQxLDE5Mj
+UxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5MzQ0MSwxMzg3NjEy
+NzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2ND
+RdfQ==
 -->
