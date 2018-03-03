@@ -7,3 +7,5 @@ power = [210 210 208 203 200 197 189 186 184 179 174 166 156 149 128 ...
 
 powerError = [10 10 20 20 20 10 10 10 10 10 10 10 10 10 10 10 10 5 5 5 5 5 2 2];
 lengthError = 0.01*ones(length(cavityLength),1);
+
+plot(cavityLength,power)
