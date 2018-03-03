@@ -44,8 +44,9 @@ $(19.51 \pm 0.01)$ mW
 
 
 ### Beam Splicing 
-	Starting power 
+	Unblocked Laser Starting Power 
 	18 mV 		4.7807 100%
+	Move the knife edge to 90% of the full power (around )
 	16.25 mV 	9.5621
 	16.13 mV	9.5721
 	
@@ -162,8 +163,8 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTEzMTY2NywtMTY5NTcxNDc0MSwxOT
-I1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0NDEsMTM4NzYx
-MjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNj
-Q0XX0=
+eyJoaXN0b3J5IjpbLTE2MjAwMDU5NDIsLTE2OTU3MTQ3NDEsMT
+kyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkzNDQxLDEzODc2
+MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMj
+Y0NF19
 -->
