@@ -62,7 +62,7 @@ Next, move the knife edge to 10% of the full power (around 1.8 mW)
 1.8-1.9 
 1.83-1.85 9.9346 10%
 AT a z = 24.31 cm
-
+Repeated the experiment for 
 New at 25.2
 17.98mV 6.3538 100%
 16.2 mV 9.5624 90%
@@ -172,7 +172,7 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDI0ODIwNCwtMTY5NTcxNDc0MSwxOT
+eyJoaXN0b3J5IjpbLTk3MzMyMjg0MSwtMTY5NTcxNDc0MSwxOT
 I1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0NDEsMTM4NzYx
 MjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNj
 Q0XX0=
