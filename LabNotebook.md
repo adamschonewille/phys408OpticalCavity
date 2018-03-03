@@ -92,7 +92,7 @@ Optical cavity Length: 295 $\pm$ 1 mm
 |--|--| --|
 | 22.51 | $\pm$ 0. |  |
 | 228.8 | $\pm$ 0. |  |
-| 10147 | $\pm$ 0. |  |
+| 1047 | $\pm$ 0. |  |
 |  | $\pm$ 0. |  |
 |  | $\pm$ 0. |  |
 
@@ -162,7 +162,7 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTI2OTQ2LC0yMDQzMDA1MDQ3LDEzMT
-k0OTM0NDEsMTM4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYw
-Njc4LC0xMjkzNTIyNjQ0XX0=
+eyJoaXN0b3J5IjpbLTExMDY5Nzc4MywtMjA0MzAwNTA0NywxMz
+E5NDkzNDQxLDEzODc2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2
+MDY3OCwtMTI5MzUyMjY0NF19
 -->
