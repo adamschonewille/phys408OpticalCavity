@@ -162,7 +162,7 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDMwMDUwNDcsMTMxOTQ5MzQ0MSwxMz
-g3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1
-MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbMTMxOTQ5MzQ0MSwtMjA0MzAwNTA0NywxMz
+E5NDkzNDQxLDEzODc2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2
+MDY3OCwtMTI5MzUyMjY0NF19
 -->
