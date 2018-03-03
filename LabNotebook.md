@@ -51,7 +51,7 @@ $(19.51 \pm 0.01)$ mW
 	
 	1.8-1.9 
 	1.83-1.85 9.9346 10%
-AT a z = 24.31
+AT a z = 24.31 cm
 
 New at 25.2
 17.98mV 6.3538 100%
@@ -162,7 +162,7 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU5MTAwNTUsNzMzMzMxNzQ1LC0xMz
-Q1OTEwMDU1LDEzMTk0OTM0NDEsMTM4NzYxMjczNCwtMjA2NzUz
-MTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNjQ0XX0=
+eyJoaXN0b3J5IjpbMTkyNTEzMTY2Nyw3MzMzMzE3NDUsLTEzND
+U5MTAwNTUsMTMxOTQ5MzQ0MSwxMzg3NjEyNzM0LC0yMDY3NTMx
+NzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2NDRdfQ==
 -->
