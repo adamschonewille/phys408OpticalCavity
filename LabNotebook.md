@@ -43,7 +43,8 @@ $(19.51 \pm 0.01)$ mW
  $$\mathscr{F} = $$
 
 
-### Beam Splicing 
+### Knife-edge Measurement for Beam Waist 
+With the aforementioned 
 For a  Optical Cavity length of 24.31 cm:
 Unblocked Laser Starting Power 
 | Power (mW) | Knife Position (mm) | Percent Power |
@@ -172,7 +173,7 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzQ4NDc4OSwtMTY5NTcxNDc0MSwxOT
+eyJoaXN0b3J5IjpbMTg0MTIxOTU2NSwtMTY5NTcxNDc0MSwxOT
 I1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0NDEsMTM4NzYx
 MjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNj
 Q0XX0=
