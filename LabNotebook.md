@@ -44,7 +44,7 @@ $(19.51 \pm 0.01)$ mW
 
 
 ### Beam Splicing 
-For a  Optical Cavity length of 24.
+For a  Optical Cavity length of 24.31 cm:
 Unblocked Laser Starting Power 
 | Power (mW) | Knife Position (mm) | Percent Power |
 |--|--|--|
@@ -57,8 +57,8 @@ Move/jog the knife edge to 90% of the full power (around 16.2 mW)
 Next, move/jog the knife edge over until 10% of the full power is transmitted (around 1.8 mW)
 | Power (mW) | Knife Position (mm) | Percent Power |
 |--|--|--|
-| 16.25 | 9.5621 | 90.3% |
-| 16.13 | 9.5721 | 89.6% |
+| 1.83 | 9.9346 | 90.3% |
+| 1.85 | 9.9445 | 89.6% |
 
 1.8-1.9 
 1.83-1.85 9.9346 10%
@@ -174,8 +174,8 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTUzNjk1LC0xNjk1NzE0NzQxLDE5Mj
-UxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5MzQ0MSwxMzg3NjEy
-NzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2ND
-RdfQ==
+eyJoaXN0b3J5IjpbMjEzNzMyMzc0MywtMTY5NTcxNDc0MSwxOT
+I1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0NDEsMTM4NzYx
+MjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNj
+Q0XX0=
 -->
