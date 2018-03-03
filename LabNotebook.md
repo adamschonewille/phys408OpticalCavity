@@ -52,17 +52,13 @@ Unblocked Laser Starting Power
 Move/jog the knife edge to 90% of the full power (around 16.2 mW)
 | Power (mW) | Knife Position (mm) | Percent Power |
 |--|--|--|
-| 16.25 | 9.5621 | 90.3% |
-| 16.13 | 9.5721 | 89.6% |
+| 16.25 | 9.5621 | 90.27% |
+| 16.13 | 9.5721 | 89.61% |
 Next, move/jog the knife edge over until 10% of the full power is transmitted (around 1.8 mW)
 | Power (mW) | Knife Position (mm) | Percent Power |
 |--|--|--|
-| 1.85 | 9.9346 | 90.3% |
-| 1.83 | 9.9445 | 89.6% |
-
-1.8-1.9 
-1.83-1.85 9.9346 10%
-AT a z = 24.31 cm
+| 1.85 | 9.9346 | 10.28% |
+| 1.83 | 9.9445 | 10.17% |
 
 Repeated the experiment for different optical cavity length
 New at 25.2
@@ -174,8 +170,8 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDIxMTA0NSwtMTY5NTcxNDc0MSwxOT
-I1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0NDEsMTM4NzYx
-MjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNj
-Q0XX0=
+eyJoaXN0b3J5IjpbLTExMDkyMTg4NDAsLTE2OTU3MTQ3NDEsMT
+kyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkzNDQxLDEzODc2
+MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMj
+Y0NF19
 -->
