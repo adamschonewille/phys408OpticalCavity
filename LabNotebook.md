@@ -41,9 +41,7 @@ $(0.338 \pm 0.005)$  mW
  | Mirror | Reflection |Transmission | Sum |
  |--|--|--|--|
   $M_1$ | $0.986 \pm 0.004$ | $0.0111 \pm 0.0001$ | $0.998 \pm 0.004$ |
-  $M_2$ & $0.98 \pm 0.02 $ & $0.00304 \pm 0.00005 $ & $0.98 \pm 0.02$ 
-\end{tabular}
-\end{center}
+  $M_2$ | $0.98 \pm 0.02 $ | $0.00304 \pm 0.00005 $ | $0.98 \pm 0.02$ 
 
 Both mirrors are very close to one having a unity sum of the reflection and transmission coefficients, which is what we would expect. Incorporating the loss in the first mirror was important in order to correct the original reflection coefficient from ~0.904 to the more realistic value of 0.986. 
 
@@ -196,7 +194,7 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMzY1NDQxLC0yNjkxNTc4MzYsMTkyNT
+eyJoaXN0b3J5IjpbOTU1MzkwMjQzLC0yNjkxNTc4MzYsMTkyNT
 EzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkzNDQxLDEzODc2MTI3
 MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMjY0NF
 19
