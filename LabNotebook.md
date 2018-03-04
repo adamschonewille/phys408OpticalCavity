@@ -206,10 +206,11 @@ Initial Z-Stage Dial Reading:
 |  5.50 $\pm$ 0.01|  37 $\pm$  2 |  |
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
-![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://github.com/akshivbansal/phys408OpticalCavity/blob/master/Figures/Power%20vs.%20Cavity%20Length.png)
+
+![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTA3NTU4NiwtMjY5MTU3ODM2LDE5Mj
+eyJoaXN0b3J5IjpbLTk4ODc3Nzk1MiwtMjY5MTU3ODM2LDE5Mj
 UxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5MzQ0MSwxMzg3NjEy
 NzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2ND
 RdfQ==
