@@ -8,7 +8,6 @@ power = [210 210 208 203 200 197 189 186 184 179 174 166 156 149 128 ...
 powerError = [10 10 20 20 20 10 10 10 10 10 10 10 10 10 10 10 10 5 5 5 5 5 2 2];
 lengthError = 0.01*ones(length(cavityLength),1);
 
-<<<<<<< HEAD
 plot(cavityLength, power, 'o-')
 hold on 
 
@@ -41,6 +40,4 @@ t = title('Power vs. Cavity Length, at end of 30cm Stability Reigon');
 t.Color = 'k';
 t.Interpreter = 'LaTeX';
 t.FontSize = 24;
-=======
-plot(cavityLength,power)
->>>>>>> 6aa772f414fe3296dff0e5d664e9bb9cc25dd281
+
