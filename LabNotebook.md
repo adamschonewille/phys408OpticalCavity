@@ -63,7 +63,6 @@ $$\nu_{FWHM} = \frac{\nu_F}{\mathscr{F}} = (5.38 \pm 0.265 )\times 10^6 Hz \appr
 If we flipped the cavity and used the low reflectivity mirrors than there would be not very much power transmitted ~0, and the finesse would also be ~0. Line width would exceed the free spectral range meaning resonance is not possible. 
 
 
-
 ### Knife-edge Measurement for Beam Waist 
 With the aforementioned setup the first mirror, $M_1$,  was removed and the knife edge was placed in it's spot.
 For a  Optical Cavity length of 24.31 cm:
@@ -162,7 +161,22 @@ The optical cavity length was set to multiple different lengths and the optical 
 | 300 $\pm$ 2|  73.4 $\pm$ 0.1 |  |
 
 The 150 mm Optical  Cavity length gave the clearest signal for the transmitted optical power. The signal did not fluctuate as much as other measurements and the periodicity of the signal was very clear. This was the recommend length to use as it is the focal length of the mirror used. This is because the optical cavity consist of two mirrors: one flat, and one with a radius of curvature of 30 cm. Also, $F = ROC/2$, so a ROC of 30 cm gives us the 15 cm focal length.
+### Confocal Cavity 
+Experimentally the cavity will not resonate if $L \geq 30cm$
+If we create the ABCD matrix for a wavefront taking a round trip through the cavity [M] is as follows
+$$ [M] = [M_1][FreeSpace_{Cavity}][M_2][FreeSpace_{Cavity}]$$
+$$ [M] = \begin{bmatrix} 1 & 0 \\ 0 & 1  \end{bmatrix}  \begin{bmatrix}1 & L \\0 & 1 \end{bmatrix} \begin{bmatrix} 1 & 0 \\ -2/30 & 1  \end{bmatrix} \begin{bmatrix} 1 & L \\ 0 & 1  \end{bmatrix} = \begin{bmatrix} 1 - \frac{2L}{30} & 2L - \frac{2L^2}{30} \\ \frac{-2}{30} & \frac{-2L}{30} + 1  \end{bmatrix}$$
+We get valid cavities if $Cx^2 + (D-A)x - B = 0$, has real solutions so we find a bound on L to keep x real. 
+$$ \frac{-2}{30}x^2 + (\frac{-2L}{30} + 1 - 1 + \frac{2L}{30} )x - 2L + \frac{2L^2}{30} = 0 $$
+$$ \frac{2}{30}x^2 = -2L + \frac{2L^2}{30} \implies x = \sqrt{L^2 - 30L}$$
+So valid cavity lengths have $L^2 \leq 30L \implies L \leq 30 $, which matches our experimentation.
 
+Similarly we can think through the stability conditions of the cavity in terms of the $g_1g_2$, factors. We know from Steck, that a cavity is stable and has non degenerate modes exactly when, $0 \leq g_1g_2 \leq 1$. Thus: \\
+$$0 \leq (1+\frac{L}{\infty})(1+\frac{L}{-30}) \leq 1 $$ This has solutions when $L \leq 30 cm$, which we also see experimentally, in that the modes become degenerate as the cavity becomes unstable. \\
+
+3. Align your cavity near this length, and slowly vary the cavity length using the M1 translation stage. Record the transmission spectrum as you approach the length where the modes become degenerate. \\
+
+4. What happens to the transmitted power as you move the cavity length beyond the length over which it is stable?
 Initial Cavity Length: 292.5 mm (From Surface of Both Mirrors)
 Readings taken as absolute numbers off of Z dial
 Initial Z-Stage Dial Reading: 
@@ -194,8 +208,8 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODMyODEwMSwtMjY5MTU3ODM2LDE5Mj
-UxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5MzQ0MSwxMzg3NjEy
-NzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2ND
-RdfQ==
+eyJoaXN0b3J5IjpbMTE1NzIzOTgsLTI2OTE1NzgzNiwxOTI1MT
+MxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0NDEsMTM4NzYxMjcz
+NCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNjQ0XX
+0=
 -->
