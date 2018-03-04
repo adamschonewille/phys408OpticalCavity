@@ -47,8 +47,8 @@ $(0.338 \pm 0.005)$  mW \\
 Both mirrors are very close to one having a unity sum of the reflection and transmission coefficients, which is what we would expect. Incorporating the loss in the first mirror was important in order to correct the original reflection coefficient from ~0.904 to the more realistic value of 0.986. \\
 
 ### Theoretical Finesse, Free Spectral Range, and Linewidth
-
-Now we can calculate the finesse with cavity length L = 15cm and wave number k = 
+#### Finesse
+Now we can calculate the finesse with cavity length L = 15cm and wave number k = 9.85nm
  $$I = \frac{I_{max}}{1 + \frac{2\mathscr{F}}{\pi}^2\sin^2(kL)} $$
  $$\mathscr{F} = \sqrt{ \frac{\pi(\frac{I_{max}}{I} - 1)}{2\sin^2(kL)}}$$
  $$\mathscr{F} = \frac{\pi\sqrt{r}}{1-r},\ \ with \ \ r = \sqrt{R_1R_2}$$
@@ -57,8 +57,8 @@ $$\mathscr{F} = 185.55 \pm 23.2 \approx 186 \pm 23 , \ \  \delta \mathscr{F} = \
 
 #### Free Spectral Range
 $$ \nu_F = \frac{c}{2L} = (1.0 \pm 0.2)\times 10^9 Hz $$
-Line-width (Spectral Width, Full Width Half Max)
 
+#### Line-width (Spectral Width, Full Width Half Max)
 $$\nu_{FWHM} = \frac{\nu_F}{\mathscr{F}} = (5.38 \pm 0.265 )\times 10^6 Hz \approx (5.4\pm0.3)MHz $$
 
 If we flipped the cavity and used the low reflectivity mirrors than there would be not very much power transmitted ~0, and the finesse would also be ~0. Line width would exceed the free spectral range meaning resonance is not possible. 
@@ -195,8 +195,8 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM5OTU0MDksLTI2OTE1NzgzNiwxOT
-I1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0NDEsMTM4NzYx
-MjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNj
-Q0XX0=
+eyJoaXN0b3J5IjpbNTIwNjI3MDg3LC0yNjkxNTc4MzYsMTkyNT
+EzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkzNDQxLDEzODc2MTI3
+MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMjY0NF
+19
 -->
