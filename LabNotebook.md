@@ -11,21 +11,26 @@ We want to first characterize the first mirror by measuring it's transmission an
 
 
 \section{Mirror Reflectivity}
-Transmission and Reflection Coefficients of the both mirrors involved in the optical cavity \\
-\subsection{$M_1$ Charecteristics}
-Reversed $M_1$ \\ 
+Transmission and Reflection Coefficients of the both mirrors involved in the optical cavity 
+### $M_1$ Characteristics
+Reversed $M_1$ 
 Incident Beam:
-$18.08 \pm 0.05$ mW \\
+$(18.08 \pm 0.05)$ mW 
+
 Transmission:
-$(0.200 \pm 0.001 )$ mW \\
+$(0.200 \pm 0.001 )$ mW 
+
 Reflected: 
-$(16.34 \pm 0.02)$ mW \\ \ \\
-Reason for losses in this case: we had to reflect it off an additional mirror in order to take this measurement. We find the power loss of this additional mirror \\ \ \\ 
+$(16.34 \pm 0.02)$ mW 
+
+Reason for losses in this case: we had to reflect it off an additional mirror in order to take this measurement. We find the power loss of this additional mirror 
+
 Power before Additional Mirror
-$(19.51 \pm 0.01)$ mW \\
+$(19.51 \pm 0.01)$ mW
 Loss of about 1.5 mW into $M_1$ 
-Then out of the $M_1$ another loss of 1.5 \\
-\subsection{$M_2$ Charecteristics}
+Then out of the $M_1$ another loss of 1.5
+
+### $M_2$ Characteristics
 Incident for $M_2$:
 $(0.345 \pm 0.005)$ mW \\
 Transmission for $M_2$:
@@ -195,8 +200,8 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2MDc4MzA0LC0yNjkxNTc4MzYsMTkyNT
-EzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkzNDQxLDEzODc2MTI3
-MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMjY0NF
-19
+eyJoaXN0b3J5IjpbLTg0Mzk2OTgyMSwtMjY5MTU3ODM2LDE5Mj
+UxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5MzQ0MSwxMzg3NjEy
+NzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2ND
+RdfQ==
 -->
