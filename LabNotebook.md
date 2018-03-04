@@ -170,14 +170,11 @@ $$ [M] = \begin{bmatrix} 1 & 0 \\ 0 & 1  \end{bmatrix}  \begin{bmatrix}1 & L \\0
 We get valid cavities if $Cx^2 + (D-A)x - B = 0$, has real solutions so we find a bound on L to keep x real. 
 $$ \frac{-2}{30}x^2 + (\frac{-2L}{30} + 1 - 1 + \frac{2L}{30} )x - 2L + \frac{2L^2}{30} = 0 $$
 $$ \frac{2}{30}x^2 = -2L + \frac{2L^2}{30} \implies x = \sqrt{L^2 - 30L}$$
-So valid cavity lengths have $L^2 \leq 30L \implies L \leq 30 $, which matches our experimentation.
+So valid cavity lengths have $$ L^2 \leq 30L \implies L \leq 30 $$ which matches our experimentation.
 
-Similarly we can think through the stability conditions of the cavity in terms of the $g_1g_2$, factors. We know from Steck, that a cavity is stable and has non degenerate modes exactly when, $0 \leq g_1g_2 \leq 1$. Thus: \\
-$$0 \leq (1+\frac{L}{\infty})(1+\frac{L}{-30}) \leq 1 $$ This has solutions when $L \leq 30 cm$, which we also see experimentally, in that the modes become degenerate as the cavity becomes unstable. \\
+Similarly we can think through the stability conditions of the cavity in terms of the $g_1g_2$, factors. We know from Steck, that a cavity is stable and has non degenerate modes exactly when, $0 \leq g_1g_2 \leq 1$. Thus: 
+$$0 \leq (1+\frac{L}{\infty})(1+\frac{L}{-30}) \leq 1 $$ This has solutions when $L \leq 30 cm$, which we also see experimentally, in that the modes become degenerate as the cavity becomes unstable.
 
-3. Align your cavity near this length, and slowly vary the cavity length using the M1 translation stage. Record the transmission spectrum as you approach the length where the modes become degenerate. \\
-
-4. What happens to the transmitted power as you move the cavity length beyond the length over which it is stable?
 Initial Cavity Length: 292.5 mm (From Surface of Both Mirrors)
 Readings taken as absolute numbers off of Z dial
 Initial Z-Stage Dial Reading: 
@@ -209,8 +206,8 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTU1NDg1MywtMjY5MTU3ODM2LDE5Mj
-UxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5MzQ0MSwxMzg3NjEy
-NzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2ND
-RdfQ==
+eyJoaXN0b3J5IjpbNTgwNDY4MzYwLC0yNjkxNTc4MzYsMTkyNT
+EzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkzNDQxLDEzODc2MTI3
+MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMjY0NF
+19
 -->
