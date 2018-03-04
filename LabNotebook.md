@@ -10,7 +10,7 @@ We want to first characterize the first mirror by measuring it's transmission an
 ![Reflection Transmission Setup](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/ReflectionTransmissionSetup.png) 
 
 
-## Mirror Selectivity
+## Mirror Reflectivity
 Transmission and Reflection Coefficients of the both mirrors involved in the optical cavity
 ### $M_1$ Characteristics
 Reversed $M_1$ 
@@ -200,8 +200,8 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzMTIxNjgxLC0yNjkxNTc4MzYsMTkyNT
-EzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkzNDQxLDEzODc2MTI3
-MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMjY0NF
-19
+eyJoaXN0b3J5IjpbLTE4ODcwNjg4OCwtMjY5MTU3ODM2LDE5Mj
+UxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5MzQ0MSwxMzg3NjEy
+NzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2ND
+RdfQ==
 -->
