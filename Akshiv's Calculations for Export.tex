@@ -1,0 +1,99 @@
+\documentclass[11pt]{article}
+\usepackage{mathrsfs}
+\usepackage{amsmath}
+
+\begin{document}
+\section{Mirror Reflectivity}
+Transmission and Reflection Coefficients of the both mirrors involved in the optical cavity \\
+\subsection{$M_1$ Charecteristics}
+Reversed $M_1$ \\ 
+Incident Beam:
+$18.08 \pm 0.05$ mW \\
+Transmission:
+$(0.200 \pm 0.001 )$ mW \\
+Reflected: 
+$(16.34 \pm 0.02)$ mW \\ \ \\
+Reason for losses in this case: we had to reflect it off an additional mirror in order to take this measurement. We find the power loss of this additional mirror \\ \ \\ 
+Power before Additional Mirror
+$(19.51 \pm 0.01)$ mW \\
+Loss of about 1.5 mW into $M_1$ 
+Then out of the $M_1$ another loss of 1.5 \\
+\subsection{$M_2$ Charecteristics}
+Incident for $M_2$:
+$(0.345 \pm 0.005)$ mW \\
+Transmission for $M_2$:
+$(1.05 \pm 0.05) \mu$W \\
+Reflection for $M_2$:
+$(0.338 \pm 0.005)$  mW \\
+
+
+
+\begin{center}
+	\begin{tabular}{l|ccc}
+  Mirror & Reflection & Transmission & Sum \\
+  \hline
+  $M_1$ & $0.986 \pm 0.004$ & $0.0111 \pm 0.0001$ & $0.998 \pm 0.004$ \\
+  $M_2$ & $0.98 \pm 0.02 $ & $0.00304 \pm 0.00005 $ & $0.98 \pm 0.02$ 
+\end{tabular}
+\end{center}
+
+Both mirrors are very close to one having a unity sum of the reflection and transmission coefficients, which is what we would expect. Incorporating the loss in the first mirror was important in order to correct the original reflection coefficient from ~0.904 to the more realistic value of 0.986. \\
+
+\subsection{Theoretical Finesse, Free Spectral Range, and Linewidth}
+
+Now we can calculate the finesse with cavity length L = 15cm and wave number k = 
+ $$I = \frac{I_{max}}{1 + \frac{2\mathscr{F}}{\pi}^2\sin^2(kL)} $$
+ $$\mathscr{F} = \sqrt{ \frac{\pi(\frac{I_{max}}{I} - 1)}{2\sin^2(kL)}}$$
+ $$\mathscr{F} = \frac{\pi\sqrt{r}}{1-r},\ \ with \ \ r = \sqrt{R_1R_2}$$
+$$ r = \sqrt{R_1R_2}, \delta r = r \sqrt{(\frac{\delta R_1}{R_1})^2 + (\frac{\delta R_2}{R_2})^2}\ ,\ \  r = 0.98 \pm 0.02 $$ 
+$$\mathscr{F} = 185.55 \pm 23.2 \approx 186 \pm 23 , \ \  \delta \mathscr{F} = \frac{\pi (1+r)}{2*(1-r)^2\sqrt{r}} * \delta r$$
+
+Free Spectral Range
+$$ \nu_F = \frac{c}{2L} = (1.0 \pm 0.2)\times 10^9 Hz $$
+Line-width (Spectral Width, Full Width Half Max)
+
+$$\nu_{FWHM} = \frac{\nu_F}{\mathscr{F}} = (5.38 \pm 0.265 )\times 10^6 Hz \approx (5.4\pm0.3)MHz $$
+
+If we flipped the cavity and used the low reflectivity mirrors than there would be not very much power transmitted ~0, and the finesse would also be ~0. Line width would exceed the free spectral range meaning resonance is not possible. 
+
+\section{Piezo Calibration}
+Fine adjustments of the length of the cavity are produced by applying a voltage to the piezoelectric actuator (“piezo” for short) behind the M2 mirror. Voltage is supplied to the piezo by a high voltage supply, which has a manual adjustment knob and an external input. The external input is connected to a ramp generator. Note that the high voltage supply has a gain of 10x on the external input when the voltage range is set to 100. The input multiplier changes depending on the voltage limit indicated by the green LED. The distance the actuator moves given a certain voltage change can be found on the actuator datasheet; however, each actuator is slightly different and you need to verify the response of your piezo.
+1. What input signal (from the function generator) should you use to scan the piezo?
+We use a ramp function to scale the piezo.
+	
+2. Use the function generator to apply a varying voltage to the piezo. Set the voltage such that you see a periodic pattern repeat three or four times. Take a picture of the cavity transmission (from the oscilloscope), and point out the periodic pattern that repeats.
+
+
+3. What is the specification for the ThorLabs piezo you are using?
+4. Find (experimentally) the calibration of the piezo (in units of μm/V ). Does it agree with the specification?
+
+\section{Cavity Observations}
+
+You can also use the CCD camera to observe the transmitted beam pattern while slowly scanning the piezo voltage by hand. It’s helpful to set up both the camera and the photodiode such that you can easily switch between which one you direct the transmitted cavity light. For both a long and short cavity:
+1. Do your best to optimize the transmission signal (that is, optimize the power in the fundamental cavity mode), and take a picture of the trans- mission pattern from the oscilloscope.
+2. Use the CCD camera to take pictures of the transmitted cavity mode profiles. Indicate what kind of transverse mode it is, and specify what the spatial symmetry of the mode is.
+Given your observations, answer the following questions:
+1. Does the long or short cavity have more visible transverse modes? Why? Hint: What is the size of the beam at the M2 mirror? You can determine this both experimentally (i.e., look at it) and theoretically (i.e., calculate the beam radius at the position of M2 given what you know about the cavity).
+2. Why do you see multiple peaks that repeat periodically, rather than just one? Which cavity mode likely corresponds to the largest transmission peak?
+3. Why do different transverse modes occur at different cavity lengths?
+
+\section{Confocal Cavity}
+
+1. For what range of lengths is the cavity stable?
+Experimentally the cavity will not resonate if $L \geq 30cm$
+If we create the ABCD matrix for a wavefront taking a round trip through the cavity [M] is as follows
+$$ [M] = [M_1][FreeSpace_{Cavity}][M_2][FreeSpace_{Cavity}]$$
+$$ [M] = \begin{bmatrix} 1 & 0 \\ 0 & 1  \end{bmatrix}  \begin{bmatrix}1 & L \\0 & 1 \end{bmatrix} \begin{bmatrix} 1 & 0 \\ -2/30 & 1  \end{bmatrix} \begin{bmatrix} 1 & L \\ 0 & 1  \end{bmatrix} = \begin{bmatrix} 1 - \frac{2L}{30} & 2L - \frac{2L^2}{30} \\ \frac{-2}{30} & \frac{-2L}{30} + 1  \end{bmatrix}$$
+We get valid cavities if $Cx^2 + (D-A)x - B = 0$, has real solutions so we find a bound on L to keep x real. 
+$$ \frac{-2}{30}x^2 + (\frac{-2L}{30} + 1 - 1 + \frac{2L}{30} )x - 2L + \frac{2L^2}{30} = 0 $$
+$$ \frac{2}{30}x^2 = -2L + \frac{2L^2}{30} \implies x = \sqrt{L^2 - 30L}$$
+So valid cavity lengths have $L^2 \leq 30L \implies L \leq 30 $, which matches our experimentation.
+
+Similarly we can think through the stability conditions of the cavity in terms of the $g_1g_2$, factors. We know from Steck, that a cavity is stable and has non degenerate modes exactly when, $0 \leq g_1g_2 \leq 1$. Thus: \\
+$$0 \leq (1+\frac{L}{\infty})(1+\frac{L}{-30}) \leq 1 $$ This has solutions when $L \leq 30 cm$, which we also see experimentally, in that the modes become degenerate as the cavity becomes unstable. \\
+
+3. Align your cavity near this length, and slowly vary the cavity length using the M1 translation stage. Record the transmission spectrum as you approach the length where the modes become degenerate. \\
+
+4. What happens to the transmitted power as you move the cavity length beyond the length over which it is stable?
+
+\end{document}
