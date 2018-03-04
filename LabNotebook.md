@@ -161,7 +161,8 @@ The optical cavity length was set to multiple different lengths and the optical 
 | 300 $\pm$ 2|  73.4 $\pm$ 0.1 |  |
 
 The 150 mm Optical  Cavity length gave the clearest signal for the transmitted optical power. The signal did not fluctuate as much as other measurements and the periodicity of the signal was very clear. This was the recommend length to use as it is the focal length of the mirror used. This is because the optical cavity consist of two mirrors: one flat, and one with a radius of curvature of 30 cm. Also, $F = ROC/2$, so a ROC of 30 cm gives us the 15 cm focal length.
-### Confocal Cavity 
+### Con-focal Cavity 
+
 Experimentally the cavity will not resonate if $L \geq 30cm$
 If we create the ABCD matrix for a wavefront taking a round trip through the cavity [M] is as follows
 $$ [M] = [M_1][FreeSpace_{Cavity}][M_2][FreeSpace_{Cavity}]$$
@@ -208,8 +209,8 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzIzOTgsLTI2OTE1NzgzNiwxOTI1MT
-MxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0NDEsMTM4NzYxMjcz
-NCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNjQ0XX
-0=
+eyJoaXN0b3J5IjpbLTMzMTU1NDg1MywtMjY5MTU3ODM2LDE5Mj
+UxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5MzQ0MSwxMzg3NjEy
+NzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2ND
+RdfQ==
 -->
