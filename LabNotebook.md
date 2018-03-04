@@ -55,7 +55,7 @@ Now we can calculate the finesse with cavity length L = 15cm and wave number k =
 $$ r = \sqrt{R_1R_2}, \delta r = r \sqrt{(\frac{\delta R_1}{R_1})^2 + (\frac{\delta R_2}{R_2})^2}\ ,\ \  r = 0.98 \pm 0.02 $$ 
 $$\mathscr{F} = 185.55 \pm 23.2 \approx 186 \pm 23 , \ \  \delta \mathscr{F} = \frac{\pi (1+r)}{2*(1-r)^2\sqrt{r}} * \delta r$$
 
-Free Spectral Range
+#### Free Spectral Range
 $$ \nu_F = \frac{c}{2L} = (1.0 \pm 0.2)\times 10^9 Hz $$
 Line-width (Spectral Width, Full Width Half Max)
 
@@ -195,8 +195,8 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTYyMTQ2MywtMjY5MTU3ODM2LDE5Mj
-UxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5MzQ0MSwxMzg3NjEy
-NzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2ND
-RdfQ==
+eyJoaXN0b3J5IjpbLTEyOTM5OTU0MDksLTI2OTE1NzgzNiwxOT
+I1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0NDEsMTM4NzYx
+MjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC0xMjkzNTIyNj
+Q0XX0=
 -->
