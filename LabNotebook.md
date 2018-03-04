@@ -40,7 +40,7 @@ $(0.338 \pm 0.005)$  mW
 
  | Mirror | Reflection |Transmission | Sum |
  |--|--|--|--|
-  $M_1$ & $0.986 \pm 0.004$ & $0.0111 \pm 0.0001$ & $0.998 \pm 0.004$ \\
+  $M_1$ | $0.986 \pm 0.004$ & $0.0111 \pm 0.0001$ & $0.998 \pm 0.004$ \\
   $M_2$ & $0.98 \pm 0.02 $ & $0.00304 \pm 0.00005 $ & $0.98 \pm 0.02$ 
 \end{tabular}
 \end{center}
@@ -196,7 +196,7 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDkyMjAyMSwtMjY5MTU3ODM2LDE5Mj
+eyJoaXN0b3J5IjpbLTc4NzQ2NjYyOSwtMjY5MTU3ODM2LDE5Mj
 UxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5MzQ0MSwxMzg3NjEy
 NzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2ND
 RdfQ==
