@@ -44,9 +44,9 @@ $(0.338 \pm 0.005)$  mW \\
 \end{tabular}
 \end{center}
 
-Both mirrors are very close to one having a unity sum of the reflection and transmission coefficients, which is what we would expect. Incorporating the loss in the first mirror was important in order to correct the original reflection coefficient from ~0.904 to the more realistic value of 0.986. \\
+Both mirrors are very close to one having a unity sum of the reflection and transmission coefficients, which is what we would expect. Incorporating the loss in the first mirror was important in order to correct the original reflection coefficient from ~0.904 to the more realistic value of 0.986. 
 
-### Theoretical Finesse, Free Spectral Range, and Linewidth
+### Theoretical Finesse, Free Spectral Range, and Line-width
 #### Finesse
 Now we can calculate the finesse with cavity length L = 15cm and wave number k = 9.85nm
  $$I = \frac{I_{max}}{1 + \frac{2\mathscr{F}}{\pi}^2\sin^2(kL)} $$
@@ -195,7 +195,7 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwNjI3MDg3LC0yNjkxNTc4MzYsMTkyNT
+eyJoaXN0b3J5IjpbNjQ2MDc4MzA0LC0yNjkxNTc4MzYsMTkyNT
 EzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkzNDQxLDEzODc2MTI3
 MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OCwtMTI5MzUyMjY0NF
 19
