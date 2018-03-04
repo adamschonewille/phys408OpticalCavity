@@ -9,38 +9,60 @@ We want to first characterize the first mirror by measuring it's transmission an
 
 ![Reflection Transmission Setup](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/ReflectionTransmissionSetup.png) 
 
-For the first mirror, the angle was set to also Incident for $M_2$): 
-$(0.262 \pm 0.001)$ mW 
-Input incident to $M_1$: 
-$(18.00 \pm 0.01 )$ mW
-Reflection from $M_1$: 
-$(7.23 \pm 0.01)$ mW 
 
-This part is slightly trickier we had to orient the second mirror so that the reflected spot was far enough from the incident so that we could measure it separately.  We also had to move on of the other mirrors in the setup so we retook the incident beam measurement for $M_2$. 
-
-Incident for $M_2$:
-$(0.345 \pm 0.005)$ mW 
-Transmission for $M_2$:
-$(1.05 \pm 0.05) \mu$ W 
-Reflection for $M_2$:
-$(0.338 \pm 0.005)$  mW
-
-
-Reversed $M_1$
+\section{Mirror Reflectivity}
+Transmission and Reflection Coefficients of the both mirrors involved in the optical cavity \\
+\subsection{$M_1$ Charecteristics}
+Reversed $M_1$ \\ 
 Incident Beam:
-$18.08 \pm 0.05$ mW
+$18.08 \pm 0.05$ mW \\
 Transmission:
-$(0.200 \pm 0.001 )$ mW
-Reflected:
-$(16.34 \pm 0.02)$ mW
-Reason for losses in this case: we had to reflect it off an additional mirror in order to take this measurement. We find the power loss of this additional mirror
+$(0.200 \pm 0.001 )$ mW \\
+Reflected: 
+$(16.34 \pm 0.02)$ mW \\ \ \\
+Reason for losses in this case: we had to reflect it off an additional mirror in order to take this measurement. We find the power loss of this additional mirror \\ \ \\ 
 Power before Additional Mirror
-$(19.51 \pm 0.01)$ mW
- Loss of about 1.5 mW into $M_1$ 
- Then out of the $M_1$ another loss of 1.5
- Now we can calculate the finesse with cavity length L = 15cm and wave number k = 
- $$I = \frac{I_{max}}{1 + \frac{2\mathscr{F}}{\pi}^2\sin^2(kL)} \implies \mathscr{F} = \sqrt{\frac{\pi(\frac{I_{max}}{I} - 1)}{2\sin^2(kL)}}$$
- $$\mathscr{F} = $$
+$(19.51 \pm 0.01)$ mW \\
+Loss of about 1.5 mW into $M_1$ 
+Then out of the $M_1$ another loss of 1.5 \\
+\subsection{$M_2$ Charecteristics}
+Incident for $M_2$:
+$(0.345 \pm 0.005)$ mW \\
+Transmission for $M_2$:
+$(1.05 \pm 0.05) \mu$W \\
+Reflection for $M_2$:
+$(0.338 \pm 0.005)$  mW \\
+
+
+
+\begin{center}
+	\begin{tabular}{l|ccc}
+  Mirror & Reflection & Transmission & Sum \\
+  \hline
+  $M_1$ & $0.986 \pm 0.004$ & $0.0111 \pm 0.0001$ & $0.998 \pm 0.004$ \\
+  $M_2$ & $0.98 \pm 0.02 $ & $0.00304 \pm 0.00005 $ & $0.98 \pm 0.02$ 
+\end{tabular}
+\end{center}
+
+Both mirrors are very close to one having a unity sum of the reflection and transmission coefficients, which is what we would expect. Incorporating the loss in the first mirror was important in order to correct the original reflection coefficient from ~0.904 to the more realistic value of 0.986. \\
+
+### Theoretical Finesse, Free Spectral Range, and Linewidth
+
+Now we can calculate the finesse with cavity length L = 15cm and wave number k = 
+ $$I = \frac{I_{max}}{1 + \frac{2\mathscr{F}}{\pi}^2\sin^2(kL)} $$
+ $$\mathscr{F} = \sqrt{ \frac{\pi(\frac{I_{max}}{I} - 1)}{2\sin^2(kL)}}$$
+ $$\mathscr{F} = \frac{\pi\sqrt{r}}{1-r},\ \ with \ \ r = \sqrt{R_1R_2}$$
+$$ r = \sqrt{R_1R_2}, \delta r = r \sqrt{(\frac{\delta R_1}{R_1})^2 + (\frac{\delta R_2}{R_2})^2}\ ,\ \  r = 0.98 \pm 0.02 $$ 
+$$\mathscr{F} = 185.55 \pm 23.2 \approx 186 \pm 23 , \ \  \delta \mathscr{F} = \frac{\pi (1+r)}{2*(1-r)^2\sqrt{r}} * \delta r$$
+
+Free Spectral Range
+$$ \nu_F = \frac{c}{2L} = (1.0 \pm 0.2)\times 10^9 Hz $$
+Line-width (Spectral Width, Full Width Half Max)
+
+$$\nu_{FWHM} = \frac{\nu_F}{\mathscr{F}} = (5.38 \pm 0.265 )\times 10^6 Hz \approx (5.4\pm0.3)MHz $$
+
+If we flipped the cavity and used the low reflectivity mirrors than there would be not very much power transmitted ~0, and the finesse would also be ~0. Line width would exceed the free spectral range meaning resonance is not possible. 
+
 
 
 ### Knife-edge Measurement for Beam Waist 
@@ -173,7 +195,7 @@ Initial Z-Stage Dial Reading:
 |  5.00 $\pm$ 0.01|  36 $\pm$  2 |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzU2OTU1NiwtMjY5MTU3ODM2LDE5Mj
+eyJoaXN0b3J5IjpbMTg4OTYyMTQ2MywtMjY5MTU3ODM2LDE5Mj
 UxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5MzQ0MSwxMzg3NjEy
 NzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2NzgsLTEyOTM1MjI2ND
 RdfQ==
