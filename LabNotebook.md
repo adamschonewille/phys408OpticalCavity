@@ -85,10 +85,10 @@ Next, move/jog the knife edge over until 10% of the full power is transmitted (a
 
 This experiment was repeated for a different optical cavity length
 Now at 25.2 cm
-17.98 mV 6.3538 100%
-16.2 mV 9.5624 90%
-1.77 mV 9.9366
-
+17.98 mV 6.3538 (100%)
+16.2 mV 9.5624 (90%)
+1.77 mV 9.9366 (10%)
+Beam waist
 
 ## Day 2 2018 02 13
 ### Optical Cavity Set-up and Piezo Calibration:
@@ -239,8 +239,8 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODY2Njg4MTEsMTU5NTA4NjY3MSwtOT
-g4Nzc3OTUyLDE5MjUxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5
-MzQ0MSwxMzg3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2Nz
-gsLTEyOTM1MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbMjg0MjQ5Nzg5LDE1OTUwODY2NzEsLTk4OD
+c3Nzk1MiwxOTI1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0
+NDEsMTM4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC
+0xMjkzNTIyNjQ0XX0=
 -->
