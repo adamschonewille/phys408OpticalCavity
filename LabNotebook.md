@@ -159,7 +159,7 @@ First we got to a 2,4 mode
 ![LG-2,4](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111629.jpg)
 Then by increase the path length very slightly(~0.25mm) we got the cavity into a 7,1 LG mode. 
 ![LG-7,1](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111631.jpg)
-Long cavities allow to get far more modes, of higher order than are possible at short cavity lengths. This is primarily related to the beam waist at the $M_2$ mirror. Having a more diffuse beam on a curved mirror affects the 
+Long cavities allow to get far more modes, of higher order than are possible at short cavity lengths. This is primarily related to the beam waist at the $M_2$ mirror. Having a more diffuse beam on a curved mirror affects the path length seen by the photons on the outskirts of the beam compared to the middle. This means that they will be diffracted by different amounts on every trip through cavity producing the kind of sp
 
 The laser is not actually perfectly monochromatic (single mode), so the different photons have slightly different integer wave-paths inside the cavity. This explains why the 0,0 mode carries the most power because none of those photons are being diffracted away, out of the cavity. 
 
@@ -238,8 +238,8 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDc0NzQ1OSwxMjczOTU1MTc2LC05OD
-g3Nzc5NTIsMTkyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkz
-NDQxLDEzODc2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OC
-wtMTI5MzUyMjY0NF19
+eyJoaXN0b3J5IjpbODkxNDcxODkyLDEyNzM5NTUxNzYsLTk4OD
+c3Nzk1MiwxOTI1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0
+NDEsMTM4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC
+0xMjkzNTIyNjQ0XX0=
 -->
