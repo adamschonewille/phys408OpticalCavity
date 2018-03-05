@@ -40,8 +40,8 @@ $(0.338 \pm 0.005)$  mW
 
  | Mirror | Reflection |Transmission | Sum |
  |--|--|--|--|
-  $M_1$ | $0.986 \pm 0.004$ | $0.0111 \pm 0.0001$ | $0.998 \pm 0.004$ |
-  $M_2$ | $0.98 \pm 0.02 $ | $0.00304 \pm 0.00005 $ | $0.98 \pm 0.02$ 
+ | $M_1$ | $0.986 \pm 0.004$ | $0.0111 \pm 0.0001$ | $0.998 \pm 0.004$ |
+ | $M_2$ | $0.98 \pm 0.02$ | $0.00304 \pm 0.00005$ | $0.98 \pm 0.02$ |
 
 Both mirrors are very close to one having a unity sum of the reflection and transmission coefficients, which is what we would expect. Incorporating the loss in the first mirror was important in order to correct the original reflection coefficient from ~0.904 to the more realistic value of 0.986. 
 
@@ -239,8 +239,8 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5MjU0Mjk1LDE1OTUwODY2NzEsLTk4OD
-c3Nzk1MiwxOTI1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0
-NDEsMTM4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC
-0xMjkzNTIyNjQ0XX0=
+eyJoaXN0b3J5IjpbLTE3Mzk4ODEwNzcsMTU5NTA4NjY3MSwtOT
+g4Nzc3OTUyLDE5MjUxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5
+MzQ0MSwxMzg3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2Nz
+gsLTEyOTM1MjI2NDRdfQ==
 -->
