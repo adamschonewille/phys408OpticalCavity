@@ -164,6 +164,8 @@ Long cavities allow to get far more modes, of higher order than are possible at 
 
 The laser is not actually perfectly monochromatic (single mode), so the different photons have slightly different integer wave-paths inside the cavity. This explains why the 0,0 mode carries the most power because none of those photons are being diffracted away, out of the cavity. 
 
+
+
 2. Why do you see multiple peaks that repeat periodically, rather than just one? Which cavity mode likely corresponds to the largest transmission peak?
 3. Why do different transverse modes occur at different cavity lengths?
  
@@ -237,8 +239,8 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTM5OTAzMywxMjczOTU1MTc2LC05OD
-g3Nzc5NTIsMTkyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkz
-NDQxLDEzODc2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OC
-wtMTI5MzUyMjY0NF19
+eyJoaXN0b3J5IjpbNDEzMTI1MjE5LDEyNzM5NTUxNzYsLTk4OD
+c3Nzk1MiwxOTI1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0
+NDEsMTM4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC
+0xMjkzNTIyNjQ0XX0=
 -->
