@@ -154,7 +154,8 @@ At this distance the modes are all primarily Hermite-Gauss Polynomial solutions.
 By applying a significant voltage, we can get a mixed mode between 2,2 and 0,0 for the HG polynomial. 
 
 Now we set the cavity 15cm, here there are far more mode possible modes available.
-We found that we 
+We found that we primarily we got Laguerre–Gaussian modes 
+First we got to a 
 ![enter image description here](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111629.jpg)
 ![enter image description here](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111631.jpg)
 
@@ -232,7 +233,7 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjI2OTE4MywxMjczOTU1MTc2LC05OD
+eyJoaXN0b3J5IjpbLTg1ODk0NTk3NSwxMjczOTU1MTc2LC05OD
 g3Nzc5NTIsMTkyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkz
 NDQxLDEzODc2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OC
 wtMTI5MzUyMjY0NF19
