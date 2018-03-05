@@ -146,9 +146,10 @@ Optical cavity Length: 200 $\pm$ 1 mm
 We start by creating a very short cavity of length 1.5cm then we adjust the alignment of the cavity to maximize power in the 0,0 mode. The 0,0 mode has the most power transmitted through it. 
 ![0,0 Mode](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111632.jpg)
 Then we adjust the $M_2$ mirror to put the cavity into a mode match for the TEM 1,0 and 0,1 modes
-![1,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111637.jpg)
+![1,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111643.jpg)
+Because it is hard to maintain this exact cavity length the optical cavity occasionally goes into 2,0 mode. 
+![2,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111637.jpg)
 
-. Do your best to optimize the transmission signal (that is, optimize the power in the fundamental cavity mode), and take a picture of the trans- mission pattern from the oscilloscope.
 2. Use the CCD camera to take pictures of the transmitted cavity mode profiles. Indicate what kind of transverse mode it is, and specify what the spatial symmetry of the mode is.
 Given your observations, answer the following questions:
 1. Does the long or short cavity have more visible transverse modes? Why? Hint: What is the size of the beam at the M2 mirror? You can determine this both experimentally (i.e., look at it) and theoretically (i.e., calculate the beam radius at the position of M2 given what you know about the cavity).
@@ -223,8 +224,8 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA0MDM3ODQsMTI3Mzk1NTE3NiwtOT
-g4Nzc3OTUyLDE5MjUxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5
-MzQ0MSwxMzg3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2Nz
-gsLTEyOTM1MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTcwNjI3ODc1MCwxMjczOTU1MTc2LC05OD
+g3Nzc5NTIsMTkyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkz
+NDQxLDEzODc2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OC
+wtMTI5MzUyMjY0NF19
 -->
