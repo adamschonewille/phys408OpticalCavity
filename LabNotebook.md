@@ -52,7 +52,7 @@ Now we can calculate the finesse with cavity length L = 15cm and wave number k =
  $$\mathscr{F} = \sqrt{ \frac{\pi(\frac{I_{max}}{I} - 1)}{2\sin^2(kL)}}$$
  $$\mathscr{F} = \frac{\pi\sqrt{r}}{1-r},\ \ with \ \ r = \sqrt{R_1R_2}$$
 $$ r = \sqrt{R_1R_2}, \delta r = r \sqrt{(\frac{\delta R_1}{R_1})^2 + (\frac{\delta R_2}{R_2})^2}\ ,\ \  r = 0.98 \pm 0.02 $$ 
-$$\delta \mathscr{F} = \frac{\pi (1+r)}{2*(1-r)^2\sqrt{r}} * \delta r  , \ \ \mathscr{F} = 185.55 \pm 23.2 \approx 186 \pm 23 $$
+$$\delta \mathscr{F} = \frac{\pi (1+r)}{2(1-r)^2\sqrt{r}}  \delta r  , \ \ \mathscr{F} = 185.55 \pm 23.2 \approx 186 \pm 23 $$
 
 #### Free Spectral Range
 $$ \nu_F = \frac{c}{2L} = (1.0 \pm 0.2)\times 10^9 Hz $$
@@ -239,8 +239,8 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk4ODEwNzcsMTU5NTA4NjY3MSwtOT
-g4Nzc3OTUyLDE5MjUxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5
-MzQ0MSwxMzg3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2Nz
-gsLTEyOTM1MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbMTQyOTQ5NTU1MSwxNTk1MDg2NjcxLC05OD
+g3Nzc5NTIsMTkyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkz
+NDQxLDEzODc2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OC
+wtMTI5MzUyMjY0NF19
 -->
