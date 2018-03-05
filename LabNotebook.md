@@ -142,6 +142,9 @@ Optical cavity Length: 200 $\pm$ 1 mm
 ## Day 3 2018 02 27
 ### Piezo Calibration Analysis and Q-Factor (Finesse):
 
+### Cavity Observations
+
+ 
 Tune the optical cavity to find the max power when the laser is in the $TEM_{00}$ mode. After >25 cm of cavity length the transmitted laser seems to become marginally unstable. 
 
 Last point of resonance is when the optical cavity length is 29.75 cm. This measurement leads us to believe that the max cavity length is at or around 30 cm.
@@ -210,8 +213,8 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODc3Nzk1MiwxMjczOTU1MTc2LC05OD
-g3Nzc5NTIsMTkyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkz
-NDQxLDEzODc2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OC
-wtMTI5MzUyMjY0NF19
+eyJoaXN0b3J5IjpbNjkxMjYyOTcwLDEyNzM5NTUxNzYsLTk4OD
+c3Nzk1MiwxOTI1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0
+NDEsMTM4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC
+0xMjkzNTIyNjQ0XX0=
 -->
