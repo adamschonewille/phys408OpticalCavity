@@ -169,9 +169,6 @@ The laser is not actually perfectly monochromatic (single mode), so the differen
 
 
 
-2. Why do you see multiple peaks that repeat periodically, rather than just one? Which cavity mode likely corresponds to the largest transmission peak?
-3. Why do different transverse modes occur at different cavity lengths?
- 
 Tune the optical cavity to find the max power when the laser is in the $TEM_{00}$ mode. After >25 cm of cavity length the transmitted laser seems to become marginally unstable. 
 
 Last point of resonance is when the optical cavity length is 29.75 cm. This measurement leads us to believe that the max cavity length is at or around 30 cm.
@@ -242,8 +239,8 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAxNzk3ODUsMTI3Mzk1NTE3NiwtOT
-g4Nzc3OTUyLDE5MjUxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5
-MzQ0MSwxMzg3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2Nz
-gsLTEyOTM1MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbMTU5NTA4NjY3MSwxMjczOTU1MTc2LC05OD
+g3Nzc5NTIsMTkyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkz
+NDQxLDEzODc2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OC
+wtMTI5MzUyMjY0NF19
 -->
