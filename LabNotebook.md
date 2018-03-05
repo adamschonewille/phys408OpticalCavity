@@ -151,7 +151,7 @@ Because it is hard to maintain this exact cavity length the optical cavity occas
 ![2,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111637.jpg)
 At this distance the modes are all primarily Gauss Legendre Polynomial solutions. 
 
-By applying a significant voltage, we c
+By applying a significant voltage, we can get a mixed mode between 2,2 and 0,0 for the GL polynomial. 
 
 Now we set the cavity 15cm, here there are far more mode possible modes available.
 ![enter image description here](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111629.jpg)
@@ -231,8 +231,8 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyNzA0NDA3LDEyNzM5NTUxNzYsLTk4OD
-c3Nzk1MiwxOTI1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0
-NDEsMTM4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC
-0xMjkzNTIyNjQ0XX0=
+eyJoaXN0b3J5IjpbLTEwMjEyMjczNjcsMTI3Mzk1NTE3NiwtOT
+g4Nzc3OTUyLDE5MjUxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5
+MzQ0MSwxMzg3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2Nz
+gsLTEyOTM1MjI2NDRdfQ==
 -->
