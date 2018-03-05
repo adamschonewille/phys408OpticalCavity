@@ -58,12 +58,10 @@ If we flipped the cavity and used the low reflectivity mirrors than there would 
 
 \section{Piezo Calibration}
 Fine adjustments of the length of the cavity are produced by applying a voltage to the piezoelectric actuator (“piezo” for short) behind the M2 mirror. Voltage is supplied to the piezo by a high voltage supply, which has a manual adjustment knob and an external input. The external input is connected to a ramp generator. Note that the high voltage supply has a gain of 10x on the external input when the voltage range is set to 100. The input multiplier changes depending on the voltage limit indicated by the green LED. The distance the actuator moves given a certain voltage change can be found on the actuator datasheet; however, each actuator is slightly different and you need to verify the response of your piezo.
+
 1. What input signal (from the function generator) should you use to scan the piezo?
 We use a ramp function to scale the piezo.
-	
 2. Use the function generator to apply a varying voltage to the piezo. Set the voltage such that you see a periodic pattern repeat three or four times. Take a picture of the cavity transmission (from the oscilloscope), and point out the periodic pattern that repeats.
-
-
 3. What is the specification for the ThorLabs piezo you are using?
 4. Find (experimentally) the calibration of the piezo (in units of μm/V ). Does it agree with the specification?
 
