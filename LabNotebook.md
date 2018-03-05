@@ -144,6 +144,12 @@ Optical cavity Length: 200 $\pm$ 1 mm
 
 ### Cavity Observations
 
+1. Do your best to optimize the transmission signal (that is, optimize the power in the fundamental cavity mode), and take a picture of the trans- mission pattern from the oscilloscope.
+2. Use the CCD camera to take pictures of the transmitted cavity mode profiles. Indicate what kind of transverse mode it is, and specify what the spatial symmetry of the mode is.
+Given your observations, answer the following questions:
+1. Does the long or short cavity have more visible transverse modes? Why? Hint: What is the size of the beam at the M2 mirror? You can determine this both experimentally (i.e., look at it) and theoretically (i.e., calculate the beam radius at the position of M2 given what you know about the cavity).
+2. Why do you see multiple peaks that repeat periodically, rather than just one? Which cavity mode likely corresponds to the largest transmission peak?
+3. Why do different transverse modes occur at different cavity lengths?
  
 Tune the optical cavity to find the max power when the laser is in the $TEM_{00}$ mode. After >25 cm of cavity length the transmitted laser seems to become marginally unstable. 
 
@@ -213,7 +219,7 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMjYyOTcwLDEyNzM5NTUxNzYsLTk4OD
+eyJoaXN0b3J5IjpbMzM4NjQ2OTkyLDEyNzM5NTUxNzYsLTk4OD
 c3Nzk1MiwxOTI1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0
 NDEsMTM4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC
 0xMjkzNTIyNjQ0XX0=
