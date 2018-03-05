@@ -170,11 +170,11 @@ Tune the optical cavity to find the max power when the laser is in the $TEM_{00}
 
 Last point of resonance is when the optical cavity length is 29.75 cm. This measurement leads us to believe that the max cavity length is at or around 30 cm.
 
-Set the cavity length to 1.5 cm and record the optical power transmitted as measured by the photodiode (PD). This plot has several peaks that occur in a period pattern. 
+Set the cavity length to 1.5 cm and record the optical power transmitted as measured by the photo-diode (PD). This plot has several peaks that occur in a period pattern. 
 
 ### Resonator Finesse 
 
-The optical cavity length was set to multiple different lengths and the optical power transmitted was measured using the photodiode. 
+The optical cavity length was set to multiple different lengths and the optical power transmitted was measured using the photo-diode. 
 
 | Optical cavity Length (mm) | Frequency (Hz) | Finesse |
 |--|--|--|
@@ -236,8 +236,8 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjIyMTIyMDksMTI3Mzk1NTE3NiwtOT
-g4Nzc3OTUyLDE5MjUxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5
-MzQ0MSwxMzg3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2Nz
-gsLTEyOTM1MjI2NDRdfQ==
+eyJoaXN0b3J5IjpbMTQ3NzU5OTYxNywxMjczOTU1MTc2LC05OD
+g3Nzc5NTIsMTkyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkz
+NDQxLDEzODc2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OC
+wtMTI5MzUyMjY0NF19
 -->
