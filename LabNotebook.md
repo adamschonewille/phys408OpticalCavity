@@ -155,8 +155,9 @@ By applying a significant voltage, we can get a mixed mode between 2,2 and 0,0 f
 
 Now we set the cavity 15cm, here there are far more mode possible modes available.
 We found that we primarily we got Laguerre–Gaussian modes 
-First we got to a 
-![enter image description here](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111629.jpg)
+First we got to a 2,4 mode
+![LG2,4](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111629.jpg)
+Then by increase the path length very slightly(~0.25mm) we got the cavity into a 7,1 LG mode. 
 ![enter image description here](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111631.jpg)
 
 2. Use the CCD camera to take pictures of the transmitted cavity mode profiles. Indicate what kind of transverse mode it is, and specify what the spatial symmetry of the mode is.
@@ -233,7 +234,7 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODk0NTk3NSwxMjczOTU1MTc2LC05OD
+eyJoaXN0b3J5IjpbLTE2MDM1MzcxNiwxMjczOTU1MTc2LC05OD
 g3Nzc5NTIsMTkyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkz
 NDQxLDEzODc2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OC
 wtMTI5MzUyMjY0NF19
