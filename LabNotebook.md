@@ -143,6 +143,7 @@ Optical cavity Length: 200 $\pm$ 1 mm
 ### Piezo Calibration Analysis and Q-Factor (Finesse):
 
 ### Cavity Observations
+We start by creating a very short cavity of length 1.5cm then we adjust the alignment of the cavity to maximize power in the 0,0 mode. The 0,0 mode has the most power transmitted through it. 
 
 1. Do your best to optimize the transmission signal (that is, optimize the power in the fundamental cavity mode), and take a picture of the trans- mission pattern from the oscilloscope.
 2. Use the CCD camera to take pictures of the transmitted cavity mode profiles. Indicate what kind of transverse mode it is, and specify what the spatial symmetry of the mode is.
@@ -219,8 +220,8 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4NjQ2OTkyLDEyNzM5NTUxNzYsLTk4OD
-c3Nzk1MiwxOTI1MTMxNjY3LC0xMzQ1OTEwMDU1LDEzMTk0OTM0
-NDEsMTM4NzYxMjczNCwtMjA2NzUzMTc0MSwtNjMyNzYwNjc4LC
-0xMjkzNTIyNjQ0XX0=
+eyJoaXN0b3J5IjpbLTE3NjUwMDUwMDEsMTI3Mzk1NTE3NiwtOT
+g4Nzc3OTUyLDE5MjUxMzE2NjcsLTEzNDU5MTAwNTUsMTMxOTQ5
+MzQ0MSwxMzg3NjEyNzM0LC0yMDY3NTMxNzQxLC02MzI3NjA2Nz
+gsLTEyOTM1MjI2NDRdfQ==
 -->
