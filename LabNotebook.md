@@ -66,7 +66,7 @@ If we flipped the cavity and used the low reflectivity mirrors than there would 
 ### Knife-edge Measurement for Beam Waist 
 With the aforementioned setup the first mirror, $M_1$,  was removed and the knife edge was placed in it's spot.
 For a  Optical Cavity length of 24.31 cm:
-Unblocked Laser Starting Power 
+Unblocked Laser Starting power 
 | Power (mW) | Knife Position (mm) | Percent Power |
 |--|--|--|
 | 18 | 4.7807 | 100%  |
@@ -81,6 +81,13 @@ Next, move/jog the knife edge over until 10% of the full power is transmitted (a
 | 1.85 | 9.9346 | 10.28% |
 | 1.83 | 9.9445 | 10.17% |
 
+Linearly Interpolated Values
+| Power (mW) | Knife Position (mm) | Percent Power |
+|--|--|--|
+| 1.8  |  | 10% |
+| 16.2 |  | 90% |
+
+ = 
 
 
 This experiment was repeated for a different optical cavity length
@@ -239,5 +246,5 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTA4NjY3MV19
+eyJoaXN0b3J5IjpbLTE4NDM5NjcwMDQsMTU5NTA4NjY3MV19
 -->
