@@ -40,8 +40,8 @@ $(0.338 \pm 0.005)$  mW
 
  | Mirror | Reflection |Transmission | Sum |
  |--|--|--|--|
- | $M_1$ | $0.986 \pm 0.004$ | $0.0111 \pm 0.0001$ | $0.998 \pm 0.004$ |
- | $M_2$ | $0.98 \pm 0.02$ | $0.00304 \pm 0.00005$ | $0.98 \pm 0.02$ |
+  $M_1$ | $0.986 \pm 0.004$ | $0.0111 \pm 0.0001$ | $0.998 \pm 0.004$ |
+  $M_2$ | $0.98 \pm 0.02 $ | $0.00304 \pm 0.00005 $ | $0.98 \pm 0.02$ 
 
 Both mirrors are very close to one having a unity sum of the reflection and transmission coefficients, which is what we would expect. Incorporating the loss in the first mirror was important in order to correct the original reflection coefficient from ~0.904 to the more realistic value of 0.986. 
 
@@ -52,7 +52,7 @@ Now we can calculate the finesse with cavity length L = 15cm and wave number k =
  $$\mathscr{F} = \sqrt{ \frac{\pi(\frac{I_{max}}{I} - 1)}{2\sin^2(kL)}}$$
  $$\mathscr{F} = \frac{\pi\sqrt{r}}{1-r},\ \ with \ \ r = \sqrt{R_1R_2}$$
 $$ r = \sqrt{R_1R_2}, \delta r = r \sqrt{(\frac{\delta R_1}{R_1})^2 + (\frac{\delta R_2}{R_2})^2}\ ,\ \  r = 0.98 \pm 0.02 $$ 
-$$\delta \mathscr{F} = \frac{\pi (1+r)}{2(1-r)^2\sqrt{r}}  \delta r  , \ \ \mathscr{F} = 185.55 \pm 23.2 \approx 186 \pm 23 $$
+$$\delta \mathscr{F} = \frac{\pi (1+r)}{2*(1-r)^2\sqrt{r}} * \delta r  , \ \ \mathscr{F} = 185.55 \pm 23.2 \approx 186 \pm 23 $$
 
 #### Free Spectral Range
 $$ \nu_F = \frac{c}{2L} = (1.0 \pm 0.2)\times 10^9 Hz $$
@@ -66,7 +66,7 @@ If we flipped the cavity and used the low reflectivity mirrors than there would 
 ### Knife-edge Measurement for Beam Waist 
 With the aforementioned setup the first mirror, $M_1$,  was removed and the knife edge was placed in it's spot.
 For a  Optical Cavity length of 24.31 cm:
-The Laser was not blocked by the knife-edge and the initial starting power was measured.
+Unblocked Laser Starting Power 
 | Power (mW) | Knife Position (mm) | Percent Power |
 |--|--|--|
 | 18 | 4.7807 | 100%  |
@@ -81,22 +81,14 @@ Next, move/jog the knife edge over until 10% of the full power is transmitted (a
 | 1.85 | 9.9346 | 10.28% |
 | 1.83 | 9.9445 | 10.17% |
 
-Linearly Interpolated Values
-| Power (mW) | Knife Position (mm) | Percent Power |
-|--|--|--|
-| 1.8 | 9.9346 | 10.28% |
-|  | 9.9445 | 10.17% |
-
-From these measurement the beam waist was found to be:
-Beam Waist = 
 
 
 This experiment was repeated for a different optical cavity length
 Now at 25.2 cm
-17.98 mV 6.3538 (100%)
-16.2 mV 9.5624 (90%)
-1.77 mV 9.9366 (10%)
-Beam Waist = $0.3742 \pm 0.00014$ mm
+17.98 mV 6.3538 100%
+16.2 mV 9.5624 90%
+1.77 mV 9.9366
+
 
 ## Day 2 2018 02 13
 ### Optical Cavity Set-up and Piezo Calibration:
@@ -247,8 +239,5 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTEyMzI1OSwxNTk1MDg2NjcxLC05OD
-g3Nzc5NTIsMTkyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkz
-NDQxLDEzODc2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OC
-wtMTI5MzUyMjY0NF19
+eyJoaXN0b3J5IjpbMTU5NTA4NjY3MV19
 -->
