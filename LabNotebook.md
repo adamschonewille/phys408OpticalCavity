@@ -168,6 +168,7 @@ Now we set the cavity 15cm, here there are far more mode possible modes availabl
 We found that we primarily we got Laguerre–Gaussian modes 
 First we got to a 2,4 mode
 ![LG-2,4](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111629.jpg)
+![IntensityLG2,4](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Intensity%20vs.%20X,%20LG%202,4.png)
 Then by increase the path length very slightly(~0.25mm) we got the cavity into a 7,1 LG mode. 
 ![LG-7,1](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111631.jpg)
 
@@ -247,6 +248,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDMxNjk4NSwtMTE2Nzg3NjgzNywtMT
-g0Mzk2NzAwNF19
+eyJoaXN0b3J5IjpbNTkxODE5MTk1LC0xMTY3ODc2ODM3LC0xOD
+QzOTY3MDA0XX0=
 -->
