@@ -85,9 +85,9 @@ Linearly Interpolated Values
 | Power (mW) | Knife Position (mm) | Percent Power |
 |--|--|--|
 | 1.8  | 9.95935 | 10% |
-| 16.2 |  | 90% |
+| 16.2 | 9.56627 | 90% |
 
- = 
+Beam Waist = 
 
 
 This experiment was repeated for a different optical cavity length
@@ -246,6 +246,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzgzNzE1NTIsLTExNzgxMDYwMjYsLT
-E4NDM5NjcwMDRdfQ==
+eyJoaXN0b3J5IjpbMjEyNzE1NTcyNiwtMTE3ODEwNjAyNiwtMT
+g0Mzk2NzAwNF19
 -->
