@@ -87,7 +87,7 @@ Linearly Interpolated Values
 | 1.8  | 9.95935 | 10% |
 | 16.2 | 9.56627 | 90% |
 
-Beam Waist = 0.
+Beam Waist = 0.393
 
 
 This experiment was repeated for a different optical cavity length
@@ -95,7 +95,7 @@ Now at 25.2 cm
 17.98 mV 6.3538 ~100%
 16.2 mV 9.5624 ~90%
 1.77 mV 9.9366 ~10%
-
+Beam Waist
 
 ## Day 2 2018 02 13
 ### Optical Cavity Set-up and Piezo Calibration:
@@ -246,6 +246,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkwODkzMjgsLTExNzgxMDYwMjYsLT
-E4NDM5NjcwMDRdfQ==
+eyJoaXN0b3J5IjpbLTM5MjY0Mjc1NCwtMTE3ODEwNjAyNiwtMT
+g0Mzk2NzAwNF19
 -->
