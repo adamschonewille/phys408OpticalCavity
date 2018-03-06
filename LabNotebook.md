@@ -246,5 +246,5 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM5NjcwMDQsMTU5NTA4NjY3MV19
+eyJoaXN0b3J5IjpbODQxODI1NzIsLTE4NDM5NjcwMDRdfQ==
 -->
