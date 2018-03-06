@@ -159,6 +159,7 @@ Then we adjust the $M_2$ mirror to put the cavity into a mode match for the TEM 
 ![1,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111643.jpg)
 Because it is hard to maintain this exact cavity length the optical cavity occasionally goes into 2,0 mode. 
 ![2,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111637.jpg)
+![IntensityGH1,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Intensity%20vs.%20X,%20GH%201,0.png)
 At this distance the modes are all primarily Hermite-Gauss Polynomial solutions. 
 
 By applying a significant voltage, we can get a mixed mode between 2,2 and 0,0 for the HG polynomial. 
@@ -246,6 +247,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzMTQyMTE1LC0xMTY3ODc2ODM3LC0xOD
-QzOTY3MDA0XX0=
+eyJoaXN0b3J5IjpbMTQ5MDMxNjk4NSwtMTE2Nzg3NjgzNywtMT
+g0Mzk2NzAwNF19
 -->
