@@ -80,8 +80,15 @@ Next, move/jog the knife edge over until 10% of the full power is transmitted (a
 |--|--|--|
 | 1.85 | 9.9346 | 10.28% |
 | 1.83 | 9.9445 | 10.17% |
+
+Linearly Interpolated Values
+| Power (mW) | Knife Position (mm) | Percent Power |
+|--|--|--|
+| 1.8 | 9.9346 | 10.28% |
+|  | 9.9445 | 10.17% |
+
 From these measurement the beam waist was found to be:
-Beam Waist
+Beam Waist = 
 
 
 This experiment was repeated for a different optical cavity length
@@ -89,7 +96,7 @@ Now at 25.2 cm
 17.98 mV 6.3538 (100%)
 16.2 mV 9.5624 (90%)
 1.77 mV 9.9366 (10%)
-Beam waist = $0.3742 \pm 0.00014$ mm
+Beam Waist = $0.3742 \pm 0.00014$ mm
 
 ## Day 2 2018 02 13
 ### Optical Cavity Set-up and Piezo Calibration:
@@ -240,7 +247,7 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTAxOTMyMywxNTk1MDg2NjcxLC05OD
+eyJoaXN0b3J5IjpbMTgwMTEyMzI1OSwxNTk1MDg2NjcxLC05OD
 g3Nzc5NTIsMTkyNTEzMTY2NywtMTM0NTkxMDA1NSwxMzE5NDkz
 NDQxLDEzODc2MTI3MzQsLTIwNjc1MzE3NDEsLTYzMjc2MDY3OC
 wtMTI5MzUyMjY0NF19
