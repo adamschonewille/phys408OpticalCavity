@@ -84,7 +84,7 @@ Next, move/jog the knife edge over until 10% of the full power is transmitted (a
 Linearly Interpolated Values
 | Power (mW) | Knife Position (mm) | Percent Power |
 |--|--|--|
-| 1.8  |  | 10% |
+| 1.8  | 9.95935 | 10% |
 | 16.2 |  | 90% |
 
  = 
@@ -246,6 +246,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzgxMDYwMjYsLTE1MTI3NDIyNDIsLT
+eyJoaXN0b3J5IjpbLTE1NzgzNzE1NTIsLTExNzgxMDYwMjYsLT
 E4NDM5NjcwMDRdfQ==
 -->
