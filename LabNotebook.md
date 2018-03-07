@@ -172,7 +172,7 @@ First we got to a 2,4 mode
 Then by increase the path length very slightly(~0.25mm) we got the cavity into a 7,1 LG mode. 
 ![LG-7,1](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111631.jpg)
 ![Intensity LG 7,1](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Intensity%20vs.%20X,%20LG%207,1.png)
-Using the intensity curves we can clearly see that the intensity is core
+Using the intensity curves we can clearly see that the intensity is correlated strongly with the modes. This also helps us look at the power transmission inside the cavity for various modes. 
 
 Long cavities allow to get far more modes, of higher order than are possible at short cavity lengths. This is primarily related to the beam waist at the $M_2$ mirror. Having a more diffuse beam on a curved mirror affects the path length seen by the photons on the outskirts of the beam compared to the middle. This means that they will be diffracted by different amounts on every trip through cavity producing the kind of spherical symmetry we see in the cavity observations. In the limit where the cavity is of size 0, we expect to see just the 0,0 mode corresponding to a pure Gaussian beam. 
 
@@ -248,6 +248,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDgyOTEwOCwtNjIyMDcwMTA5LC04Mz
-IwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
+eyJoaXN0b3J5IjpbLTIwMDQyMzk5ODcsLTYyMjA3MDEwOSwtOD
+MyMDI0NzQxLC0xODQzOTY3MDA0XX0=
 -->
