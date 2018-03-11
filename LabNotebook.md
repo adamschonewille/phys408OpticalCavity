@@ -87,6 +87,7 @@ Linearly Interpolated Values
 | 1.8  | 9.95935 | 10% |
 | 16.2 | 9.56627 | 90% |
 
+D
 Beam Waist = $0.393  \pm 0.004$ 
 
 
@@ -248,6 +249,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzgyODI3NzQsLTIwMDQyMzk5ODcsLT
-gzMjAyNDc0MSwtMTg0Mzk2NzAwNF19
+eyJoaXN0b3J5IjpbMzY4ODQwMTY4LC0yMDA0MjM5OTg3LC04Mz
+IwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
 -->
