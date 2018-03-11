@@ -90,9 +90,9 @@ Linearly Interpolated Values
 Beam Waist = $0.393  \pm 0.019$ 
 
 [//]: <> (	Error stuff inserted here as a comment
-		d(m90) = 0.01352992442
+		dm90 = 0.01352992442
 		m90 = 9.56627
-		d(m10) = 0.0140566
+		dm10 = 0.0140566
 		m10 = 9.95935)
 
 This experiment was repeated for a different optical cavity length
@@ -100,7 +100,9 @@ Now at 25.2 cm
 17.98 mV 6.3538 ~100%
 16.2 mV 9.5624 ~90%
 1.77 mV 9.9366 ~10%
-Beam Waist = 0.3742 mm
+Beam Waist = ~0.3742 mm
+
+This value have not changed significantly and is with in the error of the
 
 ## Day 2 2018 02 13
 ### Optical Cavity Set-up and Piezo Calibration:
@@ -253,6 +255,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODEzOTcxLC0yMDA0MjM5OTg3LC04Mz
-IwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
+eyJoaXN0b3J5IjpbLTEyMzQzNDEyMjIsLTIwMDQyMzk5ODcsLT
+gzMjAyNDc0MSwtMTg0Mzk2NzAwNF19
 -->
