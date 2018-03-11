@@ -1,5 +1,3 @@
-close all; clc;
-
 figure(1)
 plot(Time_10cmZoomed,Data_10cmZoomed, '.-');
 hold on
@@ -23,6 +21,4 @@ figure(2)
 %plot(delta)
 %plot(newTime_15cm)
 findpeaks(Data_15cm,newTime_15cm,'MinPeakWidth',2*timestep,'MaxPeakWidth',1,'Annotate','peaks')
-hold on
-plot(newTime_15cm,Ramp_15cm)
 
