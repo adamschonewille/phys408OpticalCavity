@@ -87,7 +87,7 @@ Linearly Interpolated Values
 | 1.8  | 9.95935 | 10% |
 | 16.2 | 9.56627 | 90% |
 
-d90 = 
+d90 = 0.01352992442
 90 = 
 d10 = 0.0140566
 10 = 9.95935
@@ -252,6 +252,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM2MzMwNDYsLTIwMDQyMzk5ODcsLT
+eyJoaXN0b3J5IjpbLTEwOTc5MDEyMjksLTIwMDQyMzk5ODcsLT
 gzMjAyNDc0MSwtMTg0Mzk2NzAwNF19
 -->
