@@ -92,7 +92,7 @@ Beam Waist = $0.393  \pm 0.019$
 [//]: <> (	Error stuff inserted here as a comment
 		d(m90) = 0.01352992442
 		m90 = 9.56627
-		dm10 = 0.0140566
+		d(m10) = 0.0140566
 		m10 = 9.95935)
 
 This experiment was repeated for a different optical cavity length
@@ -253,6 +253,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjQ1NDE4OCwtMjAwNDIzOTk4NywtOD
-MyMDI0NzQxLC0xODQzOTY3MDA0XX0=
+eyJoaXN0b3J5IjpbMTM1ODEzOTcxLC0yMDA0MjM5OTg3LC04Mz
+IwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
 -->
