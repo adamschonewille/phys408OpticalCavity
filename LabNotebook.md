@@ -144,7 +144,7 @@ Optical cavity Length: 295 $\pm$ 1 mm
 
 Optical cavity Length: 200 $\pm$ 1 mm 
 | Frequency (Hz) | Voltage Peak-to-peak (V) | Period (from graph) |
-|--|--| --|
+|--|--|--|
 | 22.51| 48 $\pm$ 0.1 |  |
 | 1047 | 48 $\pm$ 0.1 |  |
 | 228.8| 48 $\pm$ 0.1 |  |
@@ -255,6 +255,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4OTY1OTg2LC0yMDA0MjM5OTg3LC04Mz
-IwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
+eyJoaXN0b3J5IjpbLTE5MTk2NTM0MzIsLTIwMDQyMzk5ODcsLT
+gzMjAyNDc0MSwtMTg0Mzk2NzAwNF19
 -->
