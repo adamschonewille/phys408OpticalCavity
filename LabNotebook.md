@@ -102,7 +102,7 @@ Now at 25.2 cm
 1.77 mV 9.9366 ~10%
 Beam Waist = ~0.3742 mm
 
-This value have not changed significantly and is with in the error of the
+This value has not changed significantly and is with in the error of the previous measurement.
 
 ## Day 2 2018 02 13
 ### Optical Cavity Set-up and Piezo Calibration:
@@ -255,6 +255,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQzNDEyMjIsLTIwMDQyMzk5ODcsLT
-gzMjAyNDc0MSwtMTg0Mzk2NzAwNF19
+eyJoaXN0b3J5IjpbMTk5MDk5NTA2OSwtMjAwNDIzOTk4NywtOD
+MyMDI0NzQxLC0xODQzOTY3MDA0XX0=
 -->
