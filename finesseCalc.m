@@ -1,11 +1,11 @@
 close all; clc;
 
-figure(1)
-plot(Time_10cmZoomed,Data_10cmZoomed, '.-');
-hold on
-plot(Time_10cmZoomed,Ramp_10cmZoomed);
-plot(Time_10cm,Data_10cm);
-hold off
+% figure(1)
+% plot(Time_10cmZoomed,Data_10cmZoomed, '.-');
+% hold on
+% plot(Time_10cmZoomed,Ramp_10cmZoomed);
+% plot(Time_10cm,Data_10cm);
+% hold off
 
 timestep = 4e-6;
 newTime_15cm = zeros(length(Time_15cm),1);
