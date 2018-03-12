@@ -137,7 +137,7 @@ Using $\lambda$ = 632.8$~\mu m$
 Optical cavity Length: 150 $\pm$ 1 mm 
 | Frequency $(Hz)$ | Voltage Peak-to-peak $(V)$ | $\Delta$Time or Period $(s)$ | Slope | $\Delta$Voltage $(V)$ | Piezo Calibration$(\mu m/V)$|
 |--|--|--|--|--|--|
-| 22.14 | 47.8 $\pm$ 0.2 | 0.00210 $\pm$ 0.00002| 0.208 $\pm$ 0.014 |  79.72| 
+| 22.14 | 47.8 $\pm$ 0.2 | 0.00210 $\pm$ 0.00002| 0.208 $\pm$ 0.014 |  79.72|
 | 22.14 | 25.1 $\pm$ 0.3 |  |  |  |
 | 22.14 | 10.2 $\pm$ 0.3 |  |  |  |
 | 223.7 | 48.0 $\pm$ 0.1 |  |  |  |
@@ -266,6 +266,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjQyNTE4MywtMjAwNDIzOTk4NywtOD
+eyJoaXN0b3J5IjpbLTM0MTIyOTY2MSwtMjAwNDIzOTk4NywtOD
 MyMDI0NzQxLC0xODQzOTY3MDA0XX0=
 -->
