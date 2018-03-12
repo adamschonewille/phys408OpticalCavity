@@ -153,7 +153,7 @@ Optical cavity Length: 150 $\pm$ 1 mm
 | 22.14 $\pm$ 0.01| 47.8 $\pm$ 0.2 | 2.10 $\pm$ 0.02| 2117 $\pm$ 8.9 | 4.44 $\pm$ 0.046 | 0.07118 $\pm$ 0.00074 |
 | 22.14 $\pm$ 0.01| 25.1 $\pm$ 0.3 | 1.895 $\pm$ 0.075 | 1111 $\pm$ 13 | 2.11 $\pm$ 0.087| 0.150 $\pm$ 0.0062|
 | 22.14 $\pm$ 0.01| 10.2 $\pm$ 0.3 | 2.00 $\pm$ 0.02|452 $\pm$ 13| 0.903 $\pm$ 0.028| 0.35 $\pm$ 0.011|
-| 223.7 $\pm$ 0.1| 48.0 $\pm$ 0.1  | 0.236 $\pm$ 0.024|21500 $\pm$ 45.8| 5.07 $\pm$ 0.516| $\pm$ |
+| 223.7 $\pm$ 0.1| 48.0 $\pm$ 0.1  | 0.236 $\pm$ 0.024|21500 $\pm$ 45.8| 5.07 $\pm$ 0.516| 0.0624 $\pm$ 0.00635|
 | 1018  $\pm$ 1| 48.0 $\pm$ 0.1    | $\pm$ | $\pm$ | $\pm$ | $\pm$ |
 
 Optical cavity Length: 295 $\pm$ 1 mm 
@@ -280,7 +280,7 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1Mjc0MzY4MCwtOTY5NjMyNjcyLC0xOT
+eyJoaXN0b3J5IjpbMTAwMDA2NDAzOCwtOTY5NjMyNjcyLC0xOT
 UyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4
 LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNj
 I3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQs
