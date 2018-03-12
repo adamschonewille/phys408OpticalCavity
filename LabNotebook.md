@@ -124,7 +124,7 @@ These measurements are very sensitive to noise and disturbances caused by sounds
 
  
 Optical cavity Length: 150 $\pm$ 1 mm 
-| Frequency (Hz) | Voltage Peak-to-peak (V) | $\Delta$Time | $\Delta$Voltage | Period (from graph) |
+| Frequency (Hz) | Voltage Peak-to-peak (V) | $\Delta$Time (Period) | $\Delta$Voltage | Piezo Calibration |
 |--|--|--|--|--|
 | 22.14 | 47.7 $\pm$ 0.2 |  |  |  |
 | 22.14 | 25.1 $\pm$ 0.3 |  |  |  |
@@ -255,6 +255,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk2NTM0MzIsLTIwMDQyMzk5ODcsLT
-gzMjAyNDc0MSwtMTg0Mzk2NzAwNF19
+eyJoaXN0b3J5IjpbMTM5NzM0NjE2MywtMjAwNDIzOTk4NywtOD
+MyMDI0NzQxLC0xODQzOTY3MDA0XX0=
 -->
