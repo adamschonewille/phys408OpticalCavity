@@ -14,7 +14,7 @@ Transmission and Reflection Coefficients of the both mirrors involved in the opt
 
 ![Reflection Transmission Setup](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/ReflectionTransmissionSetup.png)
 
-![]https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Coeffs%20Measurement.jpg
+![M1 Mirror measurement](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Coeffs%20Measurement.jpg)
 
 Reversed $M_1$ 
 Incident Beam:
@@ -260,6 +260,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY5MjYwMTUsLTIwMDQyMzk5ODcsLT
-gzMjAyNDc0MSwtMTg0Mzk2NzAwNF19
+eyJoaXN0b3J5IjpbNTk5NjYyMzA3LC0yMDA0MjM5OTg3LC04Mz
+IwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
 -->
