@@ -34,6 +34,9 @@ Loss of about 1.5 mW into $M_1$
 Then out of the $M_1$ another loss of 1.5
 
 ### $M_2$ Characteristics
+
+![M1 Mirror measurement](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Coeffs%20Measurement%202.jpg)
+
 Incident for $M_2$:
 $(0.345 \pm 0.005)$ mW 
 
@@ -260,6 +263,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5NjYyMzA3LC0yMDA0MjM5OTg3LC04Mz
-IwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
+eyJoaXN0b3J5IjpbODk0MTQ0NzEsLTIwMDQyMzk5ODcsLTgzMj
+AyNDc0MSwtMTg0Mzk2NzAwNF19
 -->
