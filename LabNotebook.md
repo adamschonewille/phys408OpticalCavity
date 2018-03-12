@@ -111,6 +111,15 @@ Now at 25.2 cm
 Beam Waist = ~0.3742 mm
 
 This value has not changed significantly and is with in the error of the previous measurement.
+1.  Sketch the beam shape and phase fronts of the cavity mode. Where is the focus of this beam? Hint: What boundary condition applies to the eigen-modes of the cavity?
+    
+2.  At what location should the beam come to a focus in order to best mode match into the cavity?
+    
+3.  Measure the minimum beam width (i.e. the beam waist) at the focus using a knife-edge measurement (See the write-up provided on the lab webpage that discusses a knife-edge measurement).
+    
+4.  What beam waist should you have in order to best mode match into the cavity? Hint: Your answer might depend on the length of your cavity. Be sure to specify what length (or lengths) you have decided to use.
+    
+5.  Given your answer for the ideal beam waist, what would be the ideal focal length lens to use? How far from the M1 mirror should it be placed?
 
 ## Day 2 2018 02 13
 ### Optical Cavity Set-up and Piezo Calibration:
@@ -266,7 +275,7 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NT
+eyJoaXN0b3J5IjpbMTQ5OTA5NzIwOCw1ODE2Mjc2ODgsLTE5NT
 IyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgs
 LTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mj
 c2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1
