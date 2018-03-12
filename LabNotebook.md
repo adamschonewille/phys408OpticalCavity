@@ -132,6 +132,8 @@ These measurements are very sensitive to noise and disturbances caused by sounds
 
 Using $\lambda$ = 632.8$~\mu m$
  
+ Datasheet Calibration term: 0.116$~\mu m/V$  
+ 
 Optical cavity Length: 150 $\pm$ 1 mm 
 | Frequency $(Hz)$ | Voltage Peak-to-peak $(V)$ | $\Delta$Time or Period $(s)$ | $\Delta$Voltage $(V)$ | Piezo Calibration$(\mu m/V)$|
 |--|--|--|--|--|
@@ -264,6 +266,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTg0MDI3MywtMjAwNDIzOTk4NywtOD
-MyMDI0NzQxLC0xODQzOTY3MDA0XX0=
+eyJoaXN0b3J5IjpbMjM3NTM2MDkwLC0yMDA0MjM5OTg3LC04Mz
+IwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
 -->
