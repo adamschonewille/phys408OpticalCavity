@@ -11,6 +11,11 @@ We want to first characterize the first mirror by measuring it's transmission an
 ## Mirror Reflectivity
 Transmission and Reflection Coefficients of the both mirrors involved in the optical cavity
 ### $M_1$ Characteristics
+
+![Reflection Transmission Setup](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/ReflectionTransmissionSetup.png)
+
+![]https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Coeffs%20Measurement.jpg
+
 Reversed $M_1$ 
 Incident Beam:
 $(18.08 \pm 0.05)$ mW 
@@ -255,6 +260,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzcyMzc0ODEsLTIwMDQyMzk5ODcsLT
+eyJoaXN0b3J5IjpbLTEzMDY5MjYwMTUsLTIwMDQyMzk5ODcsLT
 gzMjAyNDc0MSwtMTg0Mzk2NzAwNF19
 -->
