@@ -15,9 +15,10 @@ load(filename);
 TimeFile = Time1_15cm;
 DataFile = Data1_15cm;
 
-VoltageP2P = 
-Frequency = 
-
+VoltageP2P = 25.1;
+dV = 0.3;
+Frequency = 22.14;
+dF = 0.01;
 %% Adam finding Finesse and Calibrations
 [freq,fourier] = fastFourierTransform(TimeFile,DataFile);
 
@@ -57,4 +58,14 @@ findpeaks(DataFile,newTime,'MinPeakWidth',2*timestep,'MaxPeakWidth',1,'Annotate'
 hold on
 %plot(newTime,Ramp1_15cm)
 
+return
 %% Uncertainty Calculations
+FTFrequency = 480
+dFTF = (520-440)/2 % assume the saem for all
+TimePeriod = 1/FTFrequency
+dT = dFTF/FTFrequency*TimePeriod
+Slope = Frequency
+dSlope = 
+DeltaVoltage = Slope*TimePeriod
+dDV = 
+

@@ -10,11 +10,17 @@ load(filename);
 % plot(Time_10cmZoomed,Ramp_10cmZoomed);
 % plot(Time_10cm,Data_10cm);
 % hold off
-Time1_15cm
 
+%% Change files here
+TimeFile = Time1_15cm;
+DataFile = Data1_15cm;
 
+VoltageP2P = 25.1;
+dV = 0.3;
+Frequency = 22.14;
+dF = 0.01;
 %% Adam finding Finesse and Calibrations
-[freq,fourier] = fastFourierTransform(Time1_15cm,Data1_15cm);
+[freq,fourier] = fastFourierTransform(TimeFile,DataFile);
 
 figure(1)
 plot(freq,fourier)
@@ -32,7 +38,7 @@ hold off
 %% Piezo Calibration
 threshold = 1e-4;
 timestep = 4e-6;
-newTime = correctTimeSeries(Time1_15cm,timestep,threshold);
+newTime = correctTimeSeries(TimeFile,timestep,threshold);
 
 % newTime_15cm = zeros(length(Time_15cm),1);
 % for i=1:length(Time_15cm)-1
@@ -48,7 +54,15 @@ newTime = correctTimeSeries(Time1_15cm,timestep,threshold);
 figure(2)
 %plot(delta)
 %plot(newTime_15cm)
-findpeaks(Data1_15cm,newTime,'MinPeakWidth',2*timestep,'MaxPeakWidth',1,'Annotate','peaks')
+findpeaks(DataFile,newTime,'MinPeakWidth',2*timestep,'MaxPeakWidth',1,'Annotate','peaks')
 hold on
 %plot(newTime,Ramp1_15cm)
+
+return
+%% Uncertainty Calculations
+FTFrequency = 480
+dFTF = (520-440)/2 % assume the saem for all
+TimePeriod = 1/FT
+dT = 
+
 
