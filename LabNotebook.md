@@ -278,14 +278,14 @@ Initial Z-Stage Dial Reading:
 
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
-The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscillscope cursor data, to speed up the 
+The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Nzc2NTk5OCw1ODE2Mjc2ODgsLTE5NT
-IyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgs
-LTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mj
-c2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1
-ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNT
-c0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5
-NTIyNTc0NCw1ODE2Mjc2ODgsLTgzMjAyNDc0MSwtMTg0Mzk2Nz
-AwNF19
+eyJoaXN0b3J5IjpbLTE1MjAxMDI5NDQsNTgxNjI3Njg4LC0xOT
+UyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4
+LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNj
+I3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQs
+NTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMj
+U3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0x
+OTUyMjU3NDQsNTgxNjI3Njg4LC04MzIwMjQ3NDEsLTE4NDM5Nj
+cwMDRdfQ==
 -->
