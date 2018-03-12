@@ -41,7 +41,7 @@ $(0.338 \pm 0.005)$  mW
  | Mirror | Reflection |Transmission | Sum |
  |--|--|--|--|
   $M_1$ | $0.986 \pm 0.004$ | $0.0111 \pm 0.0001$ | $0.998 \pm 0.004$ |
-  $M_2$ | $0.98 \pm 0.02 $ | $0.00304 \pm 0.00005 $ | $0.98 \pm 0.02$ 
+  $M_2$ | $0.98 \pm 0.02$ | $0.00304 \pm 0.00005$ | $0.98 \pm 0.02$ 
 
 Both mirrors are very close to one having a unity sum of the reflection and transmission coefficients, which is what we would expect. Incorporating the loss in the first mirror was important in order to correct the original reflection coefficient from ~0.904 to the more realistic value of 0.986. 
 
@@ -255,6 +255,6 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTEyODUwMSwtMjAwNDIzOTk4NywtOD
-MyMDI0NzQxLC0xODQzOTY3MDA0XX0=
+eyJoaXN0b3J5IjpbLTEyNzcyMzc0ODEsLTIwMDQyMzk5ODcsLT
+gzMjAyNDc0MSwtMTg0Mzk2NzAwNF19
 -->
