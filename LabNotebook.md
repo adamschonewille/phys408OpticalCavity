@@ -150,7 +150,7 @@ Using $\lambda$ = 632.8$~\mu m$
 Optical cavity Length: 150 $\pm$ 1 mm 
 | Frequency $(Hz)$ | Voltage Peak-to-peak $(V)$ | $\Delta$Time or Period $(s)$ | Slope $(V/s)$| $\Delta$Voltage $(V)$ | Piezo Calibration$(\mu m/V)$|
 |--|--|--|--|--|--|
-| 22.14 $\pm$ 0.01| 47.8 $\pm$ 0.2 | 0.00210 $\pm$ 0.00002| 2223 $\pm$ 27 | 4.67 $\pm$ 0.071 | 0.0678 $\pm$ 0.0010 |
+| 22.14 $\pm$ 0.01| 47.8 $\pm$ 0.2 | 0.00210 $\pm$ 0.00002| 2223 $\pm$ 27 | 4.67 $\pm$ 0.071 | 0.068 $\pm$ 0.0010 |
 | 22.14 $\pm$ 0.01| 25.1 $\pm$ 0.3 |  |  |  |  |
 | 22.14 $\pm$ 0.01| 10.2 $\pm$ 0.3 |  |  |  |  |
 | 223.7 $\pm$ 0.1| 48.0 $\pm$ 0.1 |  |  |  |  |
@@ -280,7 +280,7 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE1MzE3NywtOTY5NjMyNjcyLC0xOT
+eyJoaXN0b3J5IjpbMTI5NTE0NzY4MiwtOTY5NjMyNjcyLC0xOT
 UyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4
 LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNj
 I3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQs
