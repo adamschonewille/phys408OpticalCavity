@@ -132,6 +132,10 @@ We aligned the laser to set up the optical cavity in the following way:
  - Set the second mirror, $M_2$, to be $15~$cm from the first mirror as to create a resonant cavity with a length of $15~$cm.
  - Observed the oscillating/changing time-dependent modes of the resonating beam with the CCD camera.
 
+1.  When only one mirror (M1) is placed in the beam path, what effect does it have on the transmitted light.
+    
+2.  When you place the second mirror (M2) in the setup, what is the net effect on the light transmitted through both mirrors? Does it depend on whether or not the cavity is correctly aligned?
+
 #### Piezo Calibration:
 For the piezo actuator we want to find the calibration of the device, that is to say we want to investigate and find any relationship between the frequency or voltage and travel of the piezo when it vibrates. We can do this by looking at the resulting laser beam when the piezo is excited and the cavity length changes with time due to controlled vibrations.
 
@@ -274,13 +278,14 @@ Initial Z-Stage Dial Reading:
 
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
+The most challenging part of this lab was interpreting and then processing the data from the finesse 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTA5NzIwOCw1ODE2Mjc2ODgsLTE5NT
-IyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgs
-LTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mj
-c2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1
-ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNT
-c0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5
-NTIyNTc0NCw1ODE2Mjc2ODgsLTgzMjAyNDc0MSwtMTg0Mzk2Nz
-AwNF19
+eyJoaXN0b3J5IjpbMjU5NzYwNjc2LDU4MTYyNzY4OCwtMTk1Mj
+I1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwt
+MTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNz
+Y4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4
+MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1Nz
+Q0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1
+MjI1NzQ0LDU4MTYyNzY4OCwtODMyMDI0NzQxLC0xODQzOTY3MD
+A0XX0=
 -->
