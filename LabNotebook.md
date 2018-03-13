@@ -192,7 +192,7 @@ Optical cavity Length: 200 $\pm$ 1 mm
 *For finding the piezo calibration the free spectral range was found as the difference in time between periodic peaks. This allowed us to calculate the calibration constant. Also seen here is the ramp voltage that was recorded, which should range from 0 V to 47.8 V but instead varies from -0.1 V to 0.92 V. Because of this the ramp data was not used and a new linear line was used based off the recorded applied voltage*
 
 ![FT Analysis method](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/20180312-FT-15cmRawData.jpg)
-*We chose to try to find the periodicity of the the graph by taking the fast fourier transform (FFT) of the data and finding the fundamental frequencies. For the first graph we found that the frequency found was .* 
+*We chose to try to find the periodicity of the the graph by taking the fast fourier transform (FFT) of the data and finding the fundamental frequencies. For the first graph we found that the frequency found was 480 Hz and was comparable to the measured frequency of 476 Hz. We went against this method however because the resolution in frequencies was very broad and gave us very little variability.* 
 
 
 
@@ -325,7 +325,7 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3NTg5NDQ5LDE3NDgzMzMyNDksLTgxOT
+eyJoaXN0b3J5IjpbNTM3Mjc2MjI0LDE3NDgzMzMyNDksLTgxOT
 Q5NTMwMywxNzQ4MzMzMjQ5LC0xNzI3NjY1NDE4LDE4OTU5MzIy
 MjIsNTA5ODI2MzE1LDk3MzA3Nzk1NSw1MDk4MjYzMTUsOTczMD
 c3OTU1LDE2Nzk5NzY0NTQsMTY3MzMzMjY0LC0xOTUyMjU3NDQs
