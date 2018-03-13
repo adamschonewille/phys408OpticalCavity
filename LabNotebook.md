@@ -241,7 +241,7 @@ The optical cavity length was set to multiple different lengths and the optical 
 | 150 $\pm$ 2|  73.4 $\pm$ 0.1 | 42.81 $\pm$ 10.53| the best so far
 | 200 $\pm$ 2|  73.4 $\pm$ 0.1 | 54.56 $\pm$ 15.11|
 | 250 $\pm$ 2|  73.4 $\pm$ 0.1 | 19.44 $\pm$ 5.3 |
-| 300 $\pm$ 2|  73.4 $\pm$ 0.1 |  $\pm$|
+| 300 $\pm$ 2|  73.4 $\pm$ 0.1 | 133.35 $\pm$ 53.70|
 
 The 150 mm Optical  Cavity length gave the clearest signal for the transmitted optical power. The signal did not fluctuate as much as other measurements and the periodicity of the signal was very clear. This was the recommend length to use as it is the focal length of the mirror used. This is because the optical cavity consist of two mirrors: one flat, and one with a radius of curvature of 30 cm. Also, $F = ROC/2$, so a ROC of 30 cm gives us the 15 cm focal length.
 
@@ -310,14 +310,14 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzcyNjYxMywtMTUwNjE5NzgxMSwtMT
-cyNzY2NTQxOCwxODk1OTMyMjIyLDUwOTgyNjMxNSw5NzMwNzc5
-NTUsNTA5ODI2MzE1LDk3MzA3Nzk1NSwxNjc5OTc2NDU0LDE2Nz
-MzMzI2NCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0
-LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1Mj
-I1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwt
-MTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNz
-Y4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4
-MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtODMyMDI0Nz
-QxLC0xODQzOTY3MDA0XX0=
+eyJoaXN0b3J5IjpbLTE1NTE2MTUyODUsLTE1MDYxOTc4MTEsLT
+E3Mjc2NjU0MTgsMTg5NTkzMjIyMiw1MDk4MjYzMTUsOTczMDc3
+OTU1LDUwOTgyNjMxNSw5NzMwNzc5NTUsMTY3OTk3NjQ1NCwxNj
+czMzMyNjQsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0
+NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NT
+IyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgs
+LTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mj
+c2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1
+ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTgzMjAyND
+c0MSwtMTg0Mzk2NzAwNF19
 -->
