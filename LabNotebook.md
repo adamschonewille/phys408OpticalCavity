@@ -198,11 +198,11 @@ We find that the piezo calibration is a a function of the peak to peak driving v
 We start by creating a very short cavity of length 1.5cm then we adjust the alignment of the cavity to maximize power in the 0,0 mode. The 0,0 mode has the most power transmitted through it. 
 ![0,0 Mode](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111632.jpg)
 ![Gaussian Intensity](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20Peizo%20control/Guassian%20Intensity.png)
-Here it is fairly clear that we have close to a pure Gaussian beam, but we managed to saturate the sensor making it hard to distinguish the top of the curve. 
+*Here it is fairly clear that we have close to a pure Gaussian beam, but we managed to saturate the sensor making it hard to distinguish the top of the curve.* 
 
 Then we adjust the $M_2$ mirror to put the cavity into a mode match for the TEM 1,0 and 0,1 modes
 ![1,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111643.jpg)
-Because it is hard to maintain this exact cavity length the optical cavity occasionally goes into 2,0 mode. 
+*Because it is hard to maintain this exact cavity length the optical cavity occasionally goes into 2,0 mode.* 
 ![2,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111637.jpg)
 ![IntensityGH1,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Intensity%20vs.%20X,%20GH%201,0.png)
 At this distance the modes are all primarily Hermite-Gauss Polynomial solutions. 
@@ -312,7 +312,7 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTQ5NTMwMywxNzQ4MzMzMjQ5LC04MT
+eyJoaXN0b3J5IjpbLTkxMzY5MjIzNywxNzQ4MzMzMjQ5LC04MT
 k0OTUzMDMsMTc0ODMzMzI0OSwtMTcyNzY2NTQxOCwxODk1OTMy
 MjIyLDUwOTgyNjMxNSw5NzMwNzc5NTUsNTA5ODI2MzE1LDk3Mz
 A3Nzk1NSwxNjc5OTc2NDU0LDE2NzMzMzI2NCwtMTk1MjI1NzQ0
