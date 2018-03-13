@@ -1,4 +1,6 @@
 # Lab Notebook 
+##
+## Akshiv Bansal 35072131
 ## Day 1 2018 02 06
 ### Figuring out Reflection and Transmission Coefficients:
 
@@ -392,7 +394,7 @@ Files of relevance to the data processed are:
 	finesseCalc.m
 	lengthVsPower.m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwNzM0MTAzLC0xMjY5NDc3NjgxLDc3MD
+eyJoaXN0b3J5IjpbLTE0MTA4OTMzMzQsNzcwNzM0MTAzLDc3MD
 czNDEwMywtODE5NDk1MzAzLDE3NDgzMzMyNDksLTE3Mjc2NjU0
 MTgsMTg5NTkzMjIyMiw1MDk4MjYzMTUsOTczMDc3OTU1LDUwOT
 gyNjMxNSw5NzMwNzc5NTUsMTY3OTk3NjQ1NCwxNjczMzMyNjQs
