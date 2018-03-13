@@ -113,9 +113,9 @@ Beam Waist = ~0.3742 mm
 This value has not changed significantly and is with in the error of the previous measurement.
 
 1.  Sketch the beam shape and phase fronts of the cavity mode. Where is the focus of this beam? Hint: What boundary condition applies to the eigen-modes of the cavity?
-    
+    The focus condition of the cavity 
 2.  At what location should the beam come to a focus in order to best mode match into the cavity?
-    
+    Given that our coupling lens has a focal length of 50cm, and the optical path to the first mirror is 
 3.  Measure the minimum beam width (i.e. the beam waist) at the focus using a knife-edge measurement (See the write-up provided on the lab webpage that discusses a knife-edge measurement).
     
 4.  What beam waist should you have in order to best mode match into the cavity? Hint: Your answer might depend on the length of your cavity. Be sure to specify what length (or lengths) you have decided to use.
@@ -171,9 +171,9 @@ Optical cavity Length: 200 $\pm$ 1 mm
 | Frequency (Hz) | Voltage Peak-to-peak (V) | $\Delta$Time or Period $(ms)$ | Slope $(V/s)$| $\Delta$Voltage $(V)$ | Piezo Calibration$(\mu m/V)$|
 |--|--|--|--|--|--|
 | 22.51 $\pm$ 0.01| 48 $\pm$ 0.1| 2.69 $\pm$ 0.13| 2160 $\pm$ 4.6|5.81 $\pm$ 0.28| 0.054 $\pm$ 0.0026|
-| 228.8 $\pm$ 0.1 | 48 $\pm$ 0.1| 0.275 $\pm$ 0.029|21960 $\pm$ 46.8|6.04 $\pm$ 0.637| 0.052 $\pm$ 0.0055|
+| 228.8 $\pm$ 0.1 | 48 $\pm$ 0.1| 0.275 $\pm$ 0.029|21960 $\pm$ 46.8|6.04 $\pm$ 0.637| 0.052 $\pm$ 0.0055$\pm$ | $\pm$ | $\pm$ | $\pm$ |
 | 1047 $\pm$ 1| 48 $\pm$ 0.1    | $\pm$ | $\pm$ | $\pm$ | $\pm$ |
-| 22.7 $\pm$ 0.1| 29.7 $\pm$ 0.2| $\pm$ | $\pm$ | $\pm$ | $\pm$ |
+| 22.7 $\pm$ 0.1| 29.7 $\pm$ 0.2| |
 | 22.7 $\pm$ 0.1|  9.7 $\pm$ 0.2| $\pm$ | $\pm$ | $\pm$ | $\pm$ |
 
 
@@ -281,12 +281,12 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU1MjEyOTgsMTY3OTk3NjQ1NCwxNj
-czMzMyNjQsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0
-NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NT
-IyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgs
-LTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mj
-c2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1
-ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTgzMjAyND
-c0MSwtMTg0Mzk2NzAwNF19
+eyJoaXN0b3J5IjpbNjU5NDQzMzIxLC0xMzA1NTIxMjk4LDE2Nz
+k5NzY0NTQsMTY3MzMzMjY0LC0xOTUyMjU3NDQsNTgxNjI3Njg4
+LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNj
+I3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQs
+NTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMj
+U3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0x
+OTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Nj
+g4LC04MzIwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
 -->
