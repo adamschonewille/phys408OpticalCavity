@@ -253,8 +253,8 @@ $$Q = qF, \ \ q = \frac{L}{\lambda}$$
 | Optical cavity Length (mm) | Q Factor |
 |--|--|--|
 |  15 $\pm$ 2| 0.0036|
-|  50 $\pm$ 2| 242.36 $\pm$ 93.46|
-| 100 $\pm$ 2| 121.64 $\pm$ 44.02|
+|  50 $\pm$ 2| 0.0191|
+| 100 $\pm$ 2| |
 | 150 $\pm$ 2| 42.81 $\pm$ 10.53| the best so far
 | 200 $\pm$ 2| 54.56 $\pm$ 15.11|
 | 250 $\pm$ 2| 19.44 $\pm$ 5.3 |
@@ -310,14 +310,14 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY0ODQ2MDUsLTE1NTE2MTUyODUsLT
-E3Mjc2NjU0MTgsMTg5NTkzMjIyMiw1MDk4MjYzMTUsOTczMDc3
-OTU1LDUwOTgyNjMxNSw5NzMwNzc5NTUsMTY3OTk3NjQ1NCwxNj
-czMzMyNjQsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0
-NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NT
-IyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgs
-LTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mj
-c2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1
-ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTgzMjAyND
-c0MSwtMTg0Mzk2NzAwNF19
+eyJoaXN0b3J5IjpbNTEwNzk1OTg5LC0xNTUxNjE1Mjg1LC0xNz
+I3NjY1NDE4LDE4OTU5MzIyMjIsNTA5ODI2MzE1LDk3MzA3Nzk1
+NSw1MDk4MjYzMTUsOTczMDc3OTU1LDE2Nzk5NzY0NTQsMTY3Mz
+MzMjY0LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQs
+NTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMj
+U3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0x
+OTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Nj
+g4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgx
+NjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC04MzIwMjQ3ND
+EsLTE4NDM5NjcwMDRdfQ==
 -->
