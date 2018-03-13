@@ -230,7 +230,7 @@ Then by increase the path length very slightly(~0.25mm) we got the cavity into a
 ![LG-7,1](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111631.jpg)
 *Figure: TEM LG 7,1 Mode*
 ![Intensity LG 7,1](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Intensity%20vs.%20X,%20LG%207,1.png)
-Using the intensity curves we can clearly see that the intensity is correlated strongly with the modes. This also helps us look at the power transmission inside the cavity for various modes. 
+*Figure: Using the intensity curves we can clearly see that the intensity is correlated strongly with the modes. This also helps us look at the power transmission inside the cavity for various modes.* 
 
 Long cavities allow to get far more modes, of higher order than are possible at short cavity lengths. This is primarily related to the beam waist at the $M_2$ mirror. Having a more diffuse beam on a curved mirror affects the path length seen by the photons on the outskirts of the beam compared to the middle. This means that they will be diffracted by different amounts on every trip through cavity producing the kind of spherical symmetry we see in the cavity observations. In the limit where the cavity is of size 0, we expect to see just the 0,0 mode corresponding to a pure Gaussian beam. 
 
@@ -257,7 +257,7 @@ The optical cavity length was set to multiple different lengths and the optical 
 | 300 $\pm$ 2|  73.4 $\pm$ 0.1 | 133.35 $\pm$ 53.70|
 
 ![Finesse Plot](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Finesse1.jpg)
-*This plot shows the relation between the optical cavity length and the finesse of the cavity. Here we see that the theoretical finesse is a constant at 185.55 and that our experimental finesse varies for different optical cavity lengths.*
+*Figure: This plot shows the relation between the optical cavity length and the finesse of the cavity. Here we see that the theoretical finesse is a constant at 185.55 and that our experimental finesse varies for different optical cavity lengths.*
 
 
 The 150 mm Optical  Cavity length gave the clearest signal for the transmitted optical power. The signal did not fluctuate as much as other measurements and the periodicity of the signal was very clear. This was the recommend length to use as it is the focal length of the mirror used. This is because the optical cavity consist of two mirrors: one flat, and one with a radius of curvature of 30 cm. Also, $F = ROC/2$, so a ROC of 30 cm gives us the 15 cm focal length.
@@ -278,7 +278,7 @@ $$Q = qF, \ \ q = \frac{L}{\lambda}$$
 | 300 $\pm$ 2| 6.32 $\pm$ 2.5|
 
 ![Q-Factor plot](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Q-Factor1.jpg)
-*This plot shows the relation between the optical cavity length and the Q-factor of the optical cavity. Theoretically, the Q-factor should increase proportionally to the optical cavity length, but here we see that the experimental Q-factors found are almost constant for varying optical cavity length. It should also be noted that the very first point for the Q-factor aligns very well to the expected value. We suggest that for the very small cavity length we were only able to get low order modes that isolate the laser and provide less variability in signal.*
+*Figure: This plot shows the relation between the optical cavity length and the Q-factor of the optical cavity. Theoretically, the Q-factor should increase proportionally to the optical cavity length, but here we see that the experimental Q-factors found are almost constant for varying optical cavity length. It should also be noted that the very first point for the Q-factor aligns very well to the expected value. We suggest that for the very small cavity length we were only able to get low order modes that isolate the laser and provide less variability in signal.*
 
 How long would a tuning fork need to ring out at 440Hz to have the same quality factor? $$\tau = \frac{Q}{2\pi\nu} = \frac{1.92\times10^7}{2\pi*440\ \mathrm{Hz}} = 1.93 \ \mathrm{Hours}$$
 Clearly, this is unreasonable. Typically tuning forks become imperceptibility loud in a matter of seconds, not hours. 
@@ -329,7 +329,7 @@ Initial Z-Stage Dial Reading:
 
 
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
-*This plot showcases the drop of power as the cavities modes become degenerate. As the cavity passes out of a stability region the power drops back to the misaligned baseline*
+*Figure: This plot showcases the drop of power as the cavities modes become degenerate. As the cavity passes out of a stability region the power drops back to the misaligned baseline.*
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 
@@ -393,15 +393,15 @@ Files of relevance to the data processed are:
 	finesseCalc.m
 	lengthVsPower.m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY4MDY5ODcsLTk4NTk2ODgyNCwtOD
-E5NDk1MzAzLDE3NDgzMzMyNDksLTE3Mjc2NjU0MTgsMTg5NTkz
-MjIyMiw1MDk4MjYzMTUsOTczMDc3OTU1LDUwOTgyNjMxNSw5Nz
-MwNzc5NTUsMTY3OTk3NjQ1NCwxNjczMzMyNjQsLTE5NTIyNTc0
-NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NT
-IyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgs
-LTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mj
-c2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1
-ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNT
-c0NCw1ODE2Mjc2ODgsLTgzMjAyNDc0MSwtMTg0Mzk2NzAwNF19
+eyJoaXN0b3J5IjpbLTYxNTU2ODQ3MSwtOTg1OTY4ODI0LC04MT
+k0OTUzMDMsMTc0ODMzMzI0OSwtMTcyNzY2NTQxOCwxODk1OTMy
+MjIyLDUwOTgyNjMxNSw5NzMwNzc5NTUsNTA5ODI2MzE1LDk3Mz
+A3Nzk1NSwxNjc5OTc2NDU0LDE2NzMzMzI2NCwtMTk1MjI1NzQ0
+LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1Mj
+I1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwt
+MTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNz
+Y4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4
+MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1Nz
+Q0LDU4MTYyNzY4OCwtODMyMDI0NzQxLC0xODQzOTY3MDA0XX0=
 
 -->
