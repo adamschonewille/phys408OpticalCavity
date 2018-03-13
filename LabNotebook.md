@@ -214,7 +214,7 @@ Then we adjust the $M_2$ mirror to put the cavity into a mode match for the TEM 
 ![2,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111637.jpg)
 *Figure: TEM 0,1 Mode Picture*
 ![IntensityGH1,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Intensity%20vs.%20X,%20GH%201,0.png)
-*Intensity clearly tracks the expected  power distribution*
+*Figure: Cross-sectional pixel analysis of the. Here we see that the intensity clearly tracks the expected power distribution.*
 
 At this distance the modes are all primarily Hermite-Gauss Polynomial solutions. 
 
@@ -393,15 +393,15 @@ Files of relevance to the data processed are:
 	finesseCalc.m
 	lengthVsPower.m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI1NDQ2NDksLTk4NTk2ODgyNCwtOD
-E5NDk1MzAzLDE3NDgzMzMyNDksLTE3Mjc2NjU0MTgsMTg5NTkz
-MjIyMiw1MDk4MjYzMTUsOTczMDc3OTU1LDUwOTgyNjMxNSw5Nz
-MwNzc5NTUsMTY3OTk3NjQ1NCwxNjczMzMyNjQsLTE5NTIyNTc0
-NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NT
-IyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgs
-LTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mj
-c2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1
-ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNT
-c0NCw1ODE2Mjc2ODgsLTgzMjAyNDc0MSwtMTg0Mzk2NzAwNF19
+eyJoaXN0b3J5IjpbLTQ0NDg0Njg0NSwtOTg1OTY4ODI0LC04MT
+k0OTUzMDMsMTc0ODMzMzI0OSwtMTcyNzY2NTQxOCwxODk1OTMy
+MjIyLDUwOTgyNjMxNSw5NzMwNzc5NTUsNTA5ODI2MzE1LDk3Mz
+A3Nzk1NSwxNjc5OTc2NDU0LDE2NzMzMzI2NCwtMTk1MjI1NzQ0
+LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1Mj
+I1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwt
+MTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNz
+Y4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4
+MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1Nz
+Q0LDU4MTYyNzY4OCwtODMyMDI0NzQxLC0xODQzOTY3MDA0XX0=
 
 -->
