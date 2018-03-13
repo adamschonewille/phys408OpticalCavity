@@ -157,6 +157,8 @@ These measurements are very sensitive to noise and disturbances caused by sounds
 Using $\lambda$ = 632.8$~\mu m$
  
  Datasheet Calibration term: 0.116$~\mu m/V$  
+
+We apply a ramp function from the signal generator into the peizo controller 
  
 Optical cavity Length: 150 $\pm$ 1 mm 
 | Frequency $(Hz)$ | Voltage Peak-to-peak $(V)$ | $\Delta$Time or Period $(ms)$ | Slope $(V/s)$| $\Delta$Voltage $(V)$ | Piezo Calibration$(\mu m/V)$|
@@ -291,7 +293,7 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcxODMxNDUsLTE2MTkwNjUyNCwtMT
+eyJoaXN0b3J5IjpbLTEwMjA0MjYxNjQsLTE2MTkwNjUyNCwtMT
 cyNzY2NTQxOCwxODk1OTMyMjIyLDUwOTgyNjMxNSw5NzMwNzc5
 NTUsNTA5ODI2MzE1LDk3MzA3Nzk1NSwxNjc5OTc2NDU0LDE2Nz
 MzMzI2NCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0
