@@ -189,10 +189,10 @@ Optical cavity Length: 200 $\pm$ 1 mm
 | 22.7 $\pm$ 0.1|  9.7 $\pm$ 0.2| 2.495 $\pm$ 0.135|440 $\pm$ 9.3|1.1 $\pm$ 0.06|0.288 $\pm$ 0.0167|
 
 ![Peaks for Piezo Calibration](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/peaksExample1_15cm.jpg)
-*For finding the piezo calibration the free spectral range was found as the difference in time between periodic peaks. This allowed us to calculate the calibration constant. Also seen here is the ramp voltage that was recorded, which should range from 0 V to 47.8 V but instead varies from -0.1 V to 0.92 V. Because of this the ramp data was not used and a new linear line was used based off the recorded applied voltage*
+*Figure: For finding the piezo calibration the free spectral range was found as the difference in time between periodic peaks. This allowed us to calculate the calibration constant. Also seen here is the ramp voltage that was recorded, which should range from 0 V to 47.8 V but instead varies from -0.1 V to 0.92 V. Because of this the ramp data was not used and a new linear line was used based off the recorded applied voltage*
 
 ![FT Analysis method](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/20180312-FT-15cmRawData.jpg)
-*We chose to try to find the periodicity of the the graph by taking the fast fourier transform (FFT) of the data and finding the fundamental frequencies. For the first graph we found that the frequency found was 480 Hz and was comparable to the measured frequency of 476 Hz. We went against this method however because the resolution in frequencies was very broad and gave us very little variability.* 
+*Figure: We chose to try to find the periodicity of the the graph by taking the fast fourier transform (FFT) of the data and finding the fundamental frequencies. For the first graph we found that the frequency found was 480 Hz and was comparable to the measured frequency of 476 Hz. We went against this method however because the resolution in frequencies was very broad and gave us very little variability.* 
 
 We find that the piezo calibration is a a function of the peak to peak driving voltages. This is likely due to some sort of non-linear response in the controller piezo stack. Ideally, this calibration would be constant and independent of all variables that may change in the experiment. In general, we find that the calibration is significantly lower than Thor Labs specification. For low voltages however, we get values close to or at least on the order of the calibration value. This leads us to believe that specification is probably given for a driving voltage around 0V.
 
@@ -205,7 +205,7 @@ We start by creating a very short cavity of length 1.5cm then we adjust the alig
 ![0,0 Mode](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111632.jpg)
 *Figure: TEM 0,0 Mode Picture*
 ![Gaussian Intensity](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20Peizo%20control/Guassian%20Intensity.png)
-*Here it is fairly clear that we have close to a pure Gaussian beam, but we managed to saturate the sensor making it hard to distinguish the top of the curve.* 
+*Figure: Here it is fairly clear that we have close to a pure Gaussian beam, but we managed to saturate the sensor making it hard to distinguish the top of the curve. These points were removed from the plot prior to curve fitting on MATLAB* 
 
 Then we adjust the $M_2$ mirror to put the cavity into a mode match for the TEM 1,0 and 0,1 modes
 ![1,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111643.jpg)
@@ -393,7 +393,7 @@ Files of relevance to the data processed are:
 	finesseCalc.m
 	lengthVsPower.m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0NjQ1MTU1LC05ODU5Njg4MjQsLTgxOT
+eyJoaXN0b3J5IjpbMzY3OTc5OTUzLC05ODU5Njg4MjQsLTgxOT
 Q5NTMwMywxNzQ4MzMzMjQ5LC0xNzI3NjY1NDE4LDE4OTU5MzIy
 MjIsNTA5ODI2MzE1LDk3MzA3Nzk1NSw1MDk4MjYzMTUsOTczMD
 c3OTU1LDE2Nzk5NzY0NTQsMTY3MzMzMjY0LC0xOTUyMjU3NDQs
