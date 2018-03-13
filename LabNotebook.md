@@ -141,9 +141,7 @@ We aligned the laser to set up the optical cavity in the following way:
  - Set the second mirror, $M_2$, to be $15~$cm from the first mirror as to create a resonant cavity with a length of $15~$cm.
  - Observed the oscillating/changing time-dependent modes of the resonating beam with the CCD camera.
 
-1.  When only one mirror (M1) is placed in the beam path, what effect does it have on the transmitted light.
-    
-2.  When you place the second mirror (M2) in the setup, what is the net effect on the light transmitted through both mirrors? Does it depend on whether or not the cavity is correctly aligned?
+
 
 #### Piezo Calibration:
 For the piezo actuator we want to find the calibration of the device, that is to say we want to investigate and find any relationship between the frequency or voltage and travel of the piezo when it vibrates. We can do this by looking at the resulting laser beam when the piezo is excited and the cavity length changes with time due to controlled vibrations.
@@ -289,7 +287,7 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzQ1MTMzMSwtMTYxOTA2NTI0LC0xNz
+eyJoaXN0b3J5IjpbMTk5NjQxMDEyOCwtMTYxOTA2NTI0LC0xNz
 I3NjY1NDE4LDE4OTU5MzIyMjIsNTA5ODI2MzE1LDk3MzA3Nzk1
 NSw1MDk4MjYzMTUsOTczMDc3OTU1LDE2Nzk5NzY0NTQsMTY3Mz
 MzMjY0LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQs
