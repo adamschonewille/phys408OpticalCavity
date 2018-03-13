@@ -214,7 +214,7 @@ Then we adjust the $M_2$ mirror to put the cavity into a mode match for the TEM 
 ![2,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111637.jpg)
 *Figure: TEM 0,1 Mode Picture*
 ![IntensityGH1,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Intensity%20vs.%20X,%20GH%201,0.png)
-*Figure: Measuring M1 Characteristics*
+*Intensity clearly tracks the *
 At this distance the modes are all primarily Hermite-Gauss Polynomial solutions. 
 
 By applying a significant voltage, we can get a mixed mode between 2,2 and 0,0 for the HG polynomial. 
@@ -374,15 +374,15 @@ Each data file is in placed in the directory where it belongs depending on which
 	2018-2-27-12.52-73.4Hz-50.6V-well Past30.csv
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjQ1MDU1MywtOTI2MTgzMzk2LC04MT
-k0OTUzMDMsMTc0ODMzMzI0OSwtMTcyNzY2NTQxOCwxODk1OTMy
-MjIyLDUwOTgyNjMxNSw5NzMwNzc5NTUsNTA5ODI2MzE1LDk3Mz
-A3Nzk1NSwxNjc5OTc2NDU0LDE2NzMzMzI2NCwtMTk1MjI1NzQ0
-LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1Mj
-I1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwt
-MTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNz
-Y4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4
-MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1Nz
-Q0LDU4MTYyNzY4OCwtODMyMDI0NzQxLC0xODQzOTY3MDA0XX0=
+eyJoaXN0b3J5IjpbMzM3OTYzNTk0LC05MjYxODMzOTYsLTgxOT
+Q5NTMwMywxNzQ4MzMzMjQ5LC0xNzI3NjY1NDE4LDE4OTU5MzIy
+MjIsNTA5ODI2MzE1LDk3MzA3Nzk1NSw1MDk4MjYzMTUsOTczMD
+c3OTU1LDE2Nzk5NzY0NTQsMTY3MzMzMjY0LC0xOTUyMjU3NDQs
+NTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMj
+U3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0x
+OTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Nj
+g4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgx
+NjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3ND
+QsNTgxNjI3Njg4LC04MzIwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
 
 -->
