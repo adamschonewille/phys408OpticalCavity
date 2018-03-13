@@ -190,6 +190,7 @@ Optical cavity Length: 200 $\pm$ 1 mm
 
 ![Peaks for Piezo Calibration](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/peaksExample1_15cm.jpg)
 
+![](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/20180312-FT-15cmRawData.jpg
 
 We find that the piezo calibration is a a function of the peak to peak driving voltages. This is likely due to some sort of non-linear response in the controller piezo stack. Ideally, this calibration would be constant and independent of all variables that may change in the experiment. In general, we find that the calibration is significantly lower than Thor Labs specification. For low voltages however, we get values close to or at least on the order of the calibration value. This leads us to believe that specification is probably given for a driving voltage around 0V.
 
@@ -266,7 +267,7 @@ $$Q = qF, \ \ q = \frac{L}{\lambda}$$
 | 250 $\pm$ 2| 0.77 $\pm$ 0.2|
 | 300 $\pm$ 2| 6.32 $\pm$ 2.5|
 
-
+![Q-Factor plot](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Q-Factor1.jpg)
 
 How long would a tuning fork need to ring out at 440Hz to have the same quality factor? $$\tau = \frac{Q}{2\pi\nu} = \frac{1.92\times10^7}{2\pi*440\ \mathrm{Hz}} = 1.93 \ \mathrm{Hours}$$
 Clearly, this is unreasonable. Typically tuning forks become imperceptibility loud in a matter of seconds, not hours. 
@@ -320,7 +321,7 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Mzg2MTI0NywxNzQ4MzMzMjQ5LC04MT
+eyJoaXN0b3J5IjpbMTczMjI3NDAxMywxNzQ4MzMzMjQ5LC04MT
 k0OTUzMDMsMTc0ODMzMzI0OSwtMTcyNzY2NTQxOCwxODk1OTMy
 MjIyLDUwOTgyNjMxNSw5NzMwNzc5NTUsNTA5ODI2MzE1LDk3Mz
 A3Nzk1NSwxNjc5OTc2NDU0LDE2NzMzMzI2NCwtMTk1MjI1NzQ0
