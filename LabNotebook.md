@@ -112,15 +112,20 @@ Beam Waist = ~0.3742 mm
 
 This value has not changed significantly and is with in the error of the previous measurement.
 
-1.  Sketch the beam shape and phase fronts of the cavity mode. Where is the focus of this beam? Hint: What boundary condition applies to the eigen-modes of the cavity?
+$$W_0 = 1.2mm,\ \ \lambda = 632.8nm, \ \ R_2 = 30cm$$
+For the focal length of the concave mirror we get:
+$$ r_0 = \frac{\lambda}{\pi}\sqrt{L(R_2-L)} \approx 0.174mm$$
 
+Given that our coupling lens has a focal length of 50cm, and the optical path to the first mirror is almost 50cm, we expect the beam to come to a focus just inside the cavity. We can solve for a focal length given our beam parameters. Using the fact that the light coming into the coupling lens has a much longer coherence length than the focal length of the lens we get that:
+$$ r_0^2 = \frac{\lambda}{\pi * r_laser}*f \implies f = 51.77cm$$ 
+Unfortunately, no such focal length lens exists in the lab. We live with the imperfect mode match of 50cm. 
 
-    Given that our coupling lens has a focal length of 50cm, and the optical path to the first mirror is almost 50cm, we expect the beam to come to a focus just inside the cavity. 
-3.  Measure the minimum beam width (i.e. the beam waist) at the focus using a knife-edge measurement (See the write-up provided on the lab webpage that discusses a knife-edge measurement).
-    
-4.  What beam waist should you have in order to best mode match into the cavity? Hint: Your answer might depend on the length of your cavity. Be sure to specify what length (or lengths) you have decided to use.
-    
-5.  Given your answer for the ideal beam waist, what would be the ideal focal length lens to use? How far from the M1 mirror should it be placed?
+We looked to measure the beam waist around 25cm, we recalculate a theoretical beam waist for this distance. 
+$$ W^2/2 = \frac{\lambda}{\pi}\sqrt{L(R_2-L)} \implies W = 0.30mm$$
+
+In reality we get values ranging from 0.393mm to 0.374mm, which gives us a percent difference of ~28\%. While this is a large difference, we expect the beam in reality to be more spread out than predicted in theory. Overall the beam is not being focused exactly where it should be, its passing through non thin elements, and the beam is not being focused exactly. Lastly there are significant measurement uncertainties related to the knife edge measurements. 
+
+We can back calculate the ideal cavity length based on our 50cm focal length. Doing this we get L = 9.6, 20.4 . This is the cavity that would best match the beam radius. This is best cavity length for mode matching the focal length. This is length that corresponds with beam waist of 0.348mm.
 
 ## Day 2 2018 02 13
 ### Optical Cavity Set-up and Piezo Calibration:
@@ -281,7 +286,7 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY5MTI1MzIsLTE2MTkwNjUyNCwtMT
+eyJoaXN0b3J5IjpbLTEwNTk3MDU5MTcsLTE2MTkwNjUyNCwtMT
 cyNzY2NTQxOCwxODk1OTMyMjIyLDUwOTgyNjMxNSw5NzMwNzc5
 NTUsNTA5ODI2MzE1LDk3MzA3Nzk1NSwxNjc5OTc2NDU0LDE2Nz
 MzMzI2NCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0
