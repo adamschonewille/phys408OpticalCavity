@@ -2,17 +2,22 @@
 \usepackage{mathrsfs}
 \usepackage{amsmath}
 
+\usepackage[margin=1in]{geometry}
 \begin{document}
 \section{Abstract}
 Optical cavities are used in lasers, interferometers, and particle traps, along with a host of other scientific uses. In this lab we used a Helium-Neon (He-Ne) laser to build an external optical cavity, using a planar mirror and piezoelectric driven concave mirror. We measured the reflectance and transmission of the mirrors involved in the cavity, and used the coefficients to establish our theoretical cavity properties. Then we setup up the actual cavity and looked at various experimental properties like beam waist, TEM mode matching, and experimental finesse. Since the primary goal of an optical cavity is to design for a large Q-factor, the beam should reflect back and forth several times without much attenuation. This concentrates our line-width and leads to the finesse being integral to the optical cavity. As such, this report will focus on the relation between the cavity and its finesse. 
 \section{Method Overview}
-In theory, a Fabry-Pérot cavity has a finesse independent of everything in the cavity except for the reflectivity of the mirror involved. Since the Cavity we have is confocal/planar cavity rather than plane-parallel, we expect this theory to not hold completely. 
 \subsection{Theoretical Finesse, Free Spectral Range, and Line-width}
+In theory, a Fabry-Pérot cavity has a finesse independent of everything in the cavity except for the reflectivity of the mirror involved. Since the Cavity we have is confocal/planar cavity rather than plane-parallel, we expect this theory to not hold completely. We use two key mirrors, $M_1$ a plane mirror and $M_2$ a concave mirror with a 30cm radius of curvature. 
 
 Now we can calculate the finesse with cavity length L = 15cm 
 $$\mathscr{F} = \frac{\pi\sqrt{r}}{1-r},\ \ with \ \ r = \sqrt{R_1R_2} ,\ \  r = 0.98 \pm 0.02,\ \  \mathscr{F} = 185.55 \pm 23.2 \approx 186 \pm 23 $$
 $$ \mathrm{Free\ Spectral\ Range} = \nu_F = \frac{c}{2L} = (1.0 \pm 0.2)\times 10^9 Hz $$
 $$\mathrm{Linewidth}\ = \nu_{FWHM} = \frac{\nu_F}{\mathscr{F}} = (5.38 \pm 0.265 )\times 10^6 Hz \approx (5.4\pm0.3)MHz $$
 
+\subsection{Method for Measurement}
+We start by setting up an optical cavity powered by a Helium Neon laser. The laser is sent to an optical coupling lens of 50cm, and then by way of a mirror to the first optical cavity mirror $M_1$ at a distance of 50cm. The beam then establishes an optical resonator inside the cavity between $M_1$ and $M_2$. We take the output beam and steer it into a photodiode. We can cycle through transmission peaks by applying a ramping voltage to the piezoelectric controller on $M_2$, which minutely adjusts the length of the cavity. By adjusting the cavity and leaving the source spectrum unchanged, we are able to get a periodic transmission. By measuring the transmission spectrum, and by knowing the piezo-calibration/input voltage, we are able to determine the finesse. We then vary the cavity length to see how this effects the experimentally determined finesse. 
+
 \section{Key Findings and Conclusion}
+We find that unlike we expect, the finesse is not constant. It seems to be on the correct order of magnitude, but is moving as a function of the length of the cavity. Oddly enough it also seems to be the case that the Q-factor, which is supposed to be length dependent can be fairly well approximated as a constant. In general, it is unclear that we were successful in quantitatively assessing the performance of the cavity. Error from the piezoelectric controller, slight misalignments in cavity, and the cavity lengths, stacked up to be a fairly significant compared to our measured values of finesse. Perhaps more pressing than the error, the measurement resolution of the scopes were fairly poor, which made getting reliable full-width half-max data challenging. Compounding this was the  transmission spectrum being varied and noisy instead of a clean period signal. 
 \end{document}
