@@ -240,12 +240,14 @@ The optical cavity length was set to multiple different lengths and the optical 
 | 100 $\pm$ 2|  73.4 $\pm$ 0.1 | 121.64 $\pm$ 44.02|
 | 150 $\pm$ 2|  73.4 $\pm$ 0.1 | 42.81 $\pm$ 10.53| the best so far
 | 200 $\pm$ 2|  73.4 $\pm$ 0.1 | 54.56 $\pm$ 15.11|
-| 250 $\pm$ 2|  73.4 $\pm$ 0.1 |  |
+| 250 $\pm$ 2|  73.4 $\pm$ 0.1 | 19.44 $\pm$ 5.3 |
 | 300 $\pm$ 2|  73.4 $\pm$ 0.1 |  $\pm$|
 
 The 150 mm Optical  Cavity length gave the clearest signal for the transmitted optical power. The signal did not fluctuate as much as other measurements and the periodicity of the signal was very clear. This was the recommend length to use as it is the focal length of the mirror used. This is because the optical cavity consist of two mirrors: one flat, and one with a radius of curvature of 30 cm. Also, $F = ROC/2$, so a ROC of 30 cm gives us the 15 cm focal length.
 
-We expect that the line width of the HeNe Laser 
+We expect that the line width of the HeNe Laser, to be significantly larger than the linewidth of cavity. This is clear from the linewidth data we collected. 
+
+The Q-factor
 
 
 ### Confocal Cavity 
@@ -297,7 +299,7 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTY2MzY2OSwtMTYxOTA2NTI0LC0xNz
+eyJoaXN0b3J5IjpbLTg3NTI1NDYwOSwtMTYxOTA2NTI0LC0xNz
 I3NjY1NDE4LDE4OTU5MzIyMjIsNTA5ODI2MzE1LDk3MzA3Nzk1
 NSw1MDk4MjYzMTUsOTczMDc3OTU1LDE2Nzk5NzY0NTQsMTY3Mz
 MzMjY0LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQs
