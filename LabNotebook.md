@@ -1,6 +1,8 @@
 # Lab Notebook 
-## Adam
-## Akshiv Bansal 35072131
+
+### Adam Schonewille 31590136 
+### Akshiv Bansal 35072131
+
 ## Day 1 2018 02 06
 ### Figuring out Reflection and Transmission Coefficients:
 
@@ -394,7 +396,7 @@ Files of relevance to the data processed are:
 	finesseCalc.m
 	lengthVsPower.m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODY3OTUxNyw3NzA3MzQxMDMsNzcwNz
+eyJoaXN0b3J5IjpbLTgwNzM0NzQ1NCw3NzA3MzQxMDMsNzcwNz
 M0MTAzLC04MTk0OTUzMDMsMTc0ODMzMzI0OSwtMTcyNzY2NTQx
 OCwxODk1OTMyMjIyLDUwOTgyNjMxNSw5NzMwNzc5NTUsNTA5OD
 I2MzE1LDk3MzA3Nzk1NSwxNjc5OTc2NDU0LDE2NzMzMzI2NCwt
