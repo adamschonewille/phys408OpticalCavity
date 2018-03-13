@@ -222,7 +222,7 @@ The optical cavity length was set to multiple different lengths and the optical 
 
 | Optical cavity Length (mm) | Frequency (Hz) | Finesse |
 |--|--|--|
-|  15 $\pm$ 2|  73.4 $\pm$ 0.1 |  |
+|  15 $\pm$ 2|  73.4 $\pm$ 0.1 | 151 |
 |  50 $\pm$ 2|  73.4 $\pm$ 0.1 |  |
 | 100 $\pm$ 2|  73.4 $\pm$ 0.1 |  |
 | 150 $\pm$ 2|  73.4 $\pm$ 0.1 |  | the best so far
@@ -281,7 +281,7 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMzE5NDk4LDE4OTU5MzIyMjIsLTE3Mj
+eyJoaXN0b3J5IjpbODI4ODIyNzI5LDE4OTU5MzIyMjIsLTE3Mj
 c2NjU0MTgsMTg5NTkzMjIyMiw1MDk4MjYzMTUsOTczMDc3OTU1
 LDUwOTgyNjMxNSw5NzMwNzc5NTUsMTY3OTk3NjQ1NCwxNjczMz
 MyNjQsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1
