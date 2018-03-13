@@ -281,14 +281,14 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTkzMjIyMiwtMTcyNzY2NTQxOCwxOD
-k1OTMyMjIyLDUwOTgyNjMxNSw5NzMwNzc5NTUsNTA5ODI2MzE1
-LDk3MzA3Nzk1NSwxNjc5OTc2NDU0LDE2NzMzMzI2NCwtMTk1Mj
+eyJoaXN0b3J5IjpbLTE3Mjc2NjU0MTgsMTg5NTkzMjIyMiwtMT
+cyNzY2NTQxOCwxODk1OTMyMjIyLDUwOTgyNjMxNSw5NzMwNzc5
+NTUsNTA5ODI2MzE1LDk3MzA3Nzk1NSwxNjc5OTc2NDU0LDE2Nz
+MzMzI2NCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0
+LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1Mj
 I1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwt
 MTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNz
 Y4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4
-MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1Nz
-Q0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1
-MjI1NzQ0LDU4MTYyNzY4OCwtODMyMDI0NzQxLC0xODQzOTY3MD
-A0XX0=
+MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtODMyMDI0Nz
+QxLC0xODQzOTY3MDA0XX0=
 -->
