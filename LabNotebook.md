@@ -188,7 +188,7 @@ Optical cavity Length: 200 $\pm$ 1 mm
 | 22.7 $\pm$ 0.1| 29.7 $\pm$ 0.2| 2.74 $\pm$ 0.22|1350 $\pm$ 10.9|3.69 $\pm$ 0.30| 0.0856 $\pm$ 0.0069|
 | 22.7 $\pm$ 0.1|  9.7 $\pm$ 0.2| 2.495 $\pm$ 0.135|440 $\pm$ 9.3|1.1 $\pm$ 0.06|0.288 $\pm$ 0.0167|
 
-We find that the piezo calibration is a a function of the peak to peak driving voltages. This is likely due to some sort of non-linear response in the controller piezo stack. Ideally, this calibration would be constant and independent of all variables that may change in the experiment. In general, we find that the calibration is significantly lower than Thor Labs specification. For low voltages however, we get values close to or at least on the order of the calibration value. This leads us to belive that 
+We find that the piezo calibration is a a function of the peak to peak driving voltages. This is likely due to some sort of non-linear response in the controller piezo stack. Ideally, this calibration would be constant and independent of all variables that may change in the experiment. In general, we find that the calibration is significantly lower than Thor Labs specification. For low voltages however, we get values close to or at least on the order of the calibration value. This leads us to believe that specification is probably given for a driving voltage around 0V.
 
 
 ## Day 3 2018 02 27
@@ -294,14 +294,14 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Njg1MDI0OSwtMTYxOTA2NTI0LC0xNz
-I3NjY1NDE4LDE4OTU5MzIyMjIsNTA5ODI2MzE1LDk3MzA3Nzk1
-NSw1MDk4MjYzMTUsOTczMDc3OTU1LDE2Nzk5NzY0NTQsMTY3Mz
-MzMjY0LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQs
-NTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMj
-U3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0x
-OTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Nj
-g4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgx
-NjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC04MzIwMjQ3ND
-EsLTE4NDM5NjcwMDRdfQ==
+eyJoaXN0b3J5IjpbLTE5MjA5NzM3MjUsLTE2MTkwNjUyNCwtMT
+cyNzY2NTQxOCwxODk1OTMyMjIyLDUwOTgyNjMxNSw5NzMwNzc5
+NTUsNTA5ODI2MzE1LDk3MzA3Nzk1NSwxNjc5OTc2NDU0LDE2Nz
+MzMzI2NCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0
+LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1Mj
+I1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwt
+MTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNz
+Y4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4
+MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtODMyMDI0Nz
+QxLC0xODQzOTY3MDA0XX0=
 -->
