@@ -113,8 +113,8 @@ Beam Waist = ~0.3742 mm
 This value has not changed significantly and is with in the error of the previous measurement.
 
 1.  Sketch the beam shape and phase fronts of the cavity mode. Where is the focus of this beam? Hint: What boundary condition applies to the eigen-modes of the cavity?
-    The focus condition of the cavity 
-2.  At what location should the beam come to a focus in order to best mode match into the cavity?
+
+
     Given that our coupling lens has a focal length of 50cm, and the optical path to the first mirror is almost 50cm, we expect the beam to come to a focus just inside the cavity. 
 3.  Measure the minimum beam width (i.e. the beam waist) at the focus using a knife-edge measurement (See the write-up provided on the lab webpage that discusses a knife-edge measurement).
     
@@ -281,13 +281,13 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5ODI2MzE1LDk3MzA3Nzk1NSw1MDk4Mj
-YzMTUsOTczMDc3OTU1LDUwOTgyNjMxNSw5NzMwNzc5NTUsMTY3
-OTk3NjQ1NCwxNjczMzMyNjQsLTE5NTIyNTc0NCw1ODE2Mjc2OD
-gsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2
-Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NC
-w1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIy
-NTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLT
-E5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2
-ODgsLTgzMjAyNDc0MSwtMTg0Mzk2NzAwNF19
+eyJoaXN0b3J5IjpbMTg5NTkzMjIyMiw1MDk4MjYzMTUsNTA5OD
+I2MzE1LDk3MzA3Nzk1NSw1MDk4MjYzMTUsOTczMDc3OTU1LDE2
+Nzk5NzY0NTQsMTY3MzMzMjY0LC0xOTUyMjU3NDQsNTgxNjI3Nj
+g4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgx
+NjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3ND
+QsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUy
+MjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC
+0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3
+Njg4LC04MzIwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
 -->
