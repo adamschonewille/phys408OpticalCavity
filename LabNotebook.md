@@ -114,12 +114,13 @@ This value has not changed significantly and is with in the error of the previou
 The beam fronts look this
 ![Beam Fronts](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/IMG_4340.jpg)
 
+
 $$W_0 = 1.2mm,\ \ \lambda = 632.8nm, \ \ R_2 = 30cm$$
 For the focal length of the concave mirror we get:
 $$ r_0 = \frac{\lambda}{\pi}\sqrt{L(R_2-L)} \approx 0.174mm$$
 
 Given that our coupling lens has a focal length of 50cm, and the optical path to the first mirror is almost 50cm, we expect the beam to come to a focus just inside the cavity. We can solve for a focal length given our beam parameters. Using the fact that the light coming into the coupling lens has a much longer coherence length than the focal length of the lens we get that:
-$$ r_0^2 = \frac{\lambda}{\pi * r_laser}*f \implies f = 51.77cm$$ 
+$$ r_0^2 = \frac{\lambda}{\pi * r_{laser}}*f \implies f = 51.77cm$$ 
 Unfortunately, no such focal length lens exists in the lab. We live with the imperfect mode match of 50cm. 
 
 We looked to measure the beam waist around 25cm, we recalculate a theoretical beam waist for this distance. 
@@ -232,7 +233,7 @@ The optical cavity length was set to multiple different lengths and the optical 
 |  15 $\pm$ 2|  73.4 $\pm$ 0.1 | 151.85 $\pm$ 35.77 |
 |  50 $\pm$ 2|  73.4 $\pm$ 0.1 | 242.36 $\pm$ 93.46|
 | 100 $\pm$ 2|  73.4 $\pm$ 0.1 | 121.64 $\pm$ 44.02|
-| 150 $\pm$ 2|  73.4 $\pm$ 0.1 |  $\pm$| the best so far
+| 150 $\pm$ 2|  73.4 $\pm$ 0.1 |  42.81 $\pm$ 10.53| the best so far
 | 200 $\pm$ 2|  73.4 $\pm$ 0.1 |  $\pm$|
 | 250 $\pm$ 2|  73.4 $\pm$ 0.1 |  $\pm$|
 | 300 $\pm$ 2|  73.4 $\pm$ 0.1 |  $\pm$|
@@ -288,7 +289,7 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjMxNTA1OSwtMTYxOTA2NTI0LC0xNz
+eyJoaXN0b3J5IjpbMTQ5MzQ1MTMzMSwtMTYxOTA2NTI0LC0xNz
 I3NjY1NDE4LDE4OTU5MzIyMjIsNTA5ODI2MzE1LDk3MzA3Nzk1
 NSw1MDk4MjYzMTUsOTczMDc3OTU1LDE2Nzk5NzY0NTQsMTY3Mz
 MzMjY0LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQs
