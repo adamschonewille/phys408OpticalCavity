@@ -261,7 +261,7 @@ $$Q = qF, \ \ q = \frac{L}{\lambda}$$
 | 300 $\pm$ 2| 6.32|
 
 How long would a tuning fork need to ring out at 440Hz to have the same quality factor? $$\tau = \frac{Q}{2\pi\nu} = \frac{1.92\times10^7}{2\pi*440Hz} = 1.93 \ \mathrm{Hours}$$
-Clearly, this is unreasonable. Typically tunning forks become inperceptabily loud in a matter of seconds, not hours. 
+Clearly, this is unreasonable. Typically tuning forks become imperceptibility loud in a matter of seconds, not hours. 
 
 ### Confocal Cavity 
 
@@ -312,7 +312,7 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDgwMDk0LC0xNTUxNjE1Mjg1LC0xNz
+eyJoaXN0b3J5IjpbNjgyNzM1MzkyLC0xNTUxNjE1Mjg1LC0xNz
 I3NjY1NDE4LDE4OTU5MzIyMjIsNTA5ODI2MzE1LDk3MzA3Nzk1
 NSw1MDk4MjYzMTUsOTczMDc3OTU1LDE2Nzk5NzY0NTQsMTY3Mz
 MzMjY0LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQs
