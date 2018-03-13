@@ -3,5 +3,16 @@
 \usepackage{amsmath}
 
 \begin{document}
-	 
+\section{Abstract}
+Optical cavities are used in lasers, interferometers, and particle traps, along with a host of other scientific uses. In this lab we used a Helium-Neon (He-Ne) laser to build an external optical cavity, using a planar mirror and piezoelectric driven concave mirror. We measured the reflectance and transmission of the mirrors involved in the cavity, and used the coefficients to establish our theoretical cavity properties. Then we setup up the actual cavity and looked at various experimental properties like beam waist, TEM mode matching, and experimental finesse. Since the primary goal of an optical cavity is to design for a large Q-factor, the beam should reflect back and forth several times without much attenuation. This concentrates our line-width and leads to the finesse being integral to the optical cavity. As such, this report will focus on the relation between the cavity and its finesse. 
+\section{Method Overview}
+In theory, a Fabry-Pérot cavity has a finesse independent of everything in the cavity except for the reflectivity of the mirror involved. Since the Cavity we have is confocal/planar cavity rather than plane-parallel, we expect this theory to not hold completely. 
+\subsection{Theoretical Finesse, Free Spectral Range, and Line-width}
+
+Now we can calculate the finesse with cavity length L = 15cm 
+$$\mathscr{F} = \frac{\pi\sqrt{r}}{1-r},\ \ with \ \ r = \sqrt{R_1R_2} ,\ \  r = 0.98 \pm 0.02,\ \  \mathscr{F} = 185.55 \pm 23.2 \approx 186 \pm 23 $$
+$$ \mathrm{Free\ Spectral\ Range} = \nu_F = \frac{c}{2L} = (1.0 \pm 0.2)\times 10^9 Hz $$
+$$\mathrm{Linewidth}\ = \nu_{FWHM} = \frac{\nu_F}{\mathscr{F}} = (5.38 \pm 0.265 )\times 10^6 Hz \approx (5.4\pm0.3)MHz $$
+
+\section{Key Findings and Conclusion}
 \end{document}

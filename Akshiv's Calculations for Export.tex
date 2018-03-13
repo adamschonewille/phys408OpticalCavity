@@ -3,6 +3,23 @@
 \usepackage{amsmath}
 
 \begin{document}
+
+\section{Beam Waist}
+$$W_0 = 1.2mm,\ \ \lambda = 632.8nm, \ \ R_2 = 30cm$$
+For the focal length of the concave mirror we get:
+$$ r_0 = \frac{\lambda}{\pi}\sqrt{L(R_2-L)} \approx 0.174mm$$
+
+Given that our coupling lens has a focal length of 50cm, and the optical path to the first mirror is almost 50cm, we expect the beam to come to a focus just inside the cavity. We can solve for a focal length given our beam parameters. Using the fact that the light coming into the coupling lens has a much longer coherence length than the focal length of the lens we get that:
+$$ r_0^2 = \frac{\lambda}{\pi * r_laser}*f \implies f = 51.77cm$$ 
+Unfortunately, no such focal length lens exists in the lab. We live with the imperfect mode match of 50cm. 
+
+We looked to measure the beam waist around 25cm, we recalculate a theoretical beam waist for this distance. 
+$$ W^2/2 = \frac{\lambda}{\pi}\sqrt{L(R_2-L)} \implies W = 0.30mm$$
+
+In reality we get values ranging from 0.393mm to 0.374mm, which gives us a percent difference of ~28\%. While this is a large difference, we expect the beam in reality to be more spread out than predicted in theory. Overall the beam is not being focused exactly where it should be, its passing through non thin elements, and the beam is not being focused exactly. Lastly there are significant measurement uncertainties related to the knife edge measurements. 
+
+We can back calculate the ideal cavity length based on our 50cm focal length. Doing this we get L = 9.6, 20.4 . This is the cavity that would best match the beam radius. This is best cavity length for mode matching the focal length. This is length that corresponds with beam waist of 0.348mm. 
+
 \section{Mirror Reflectivity}
 Transmission and Reflection Coefficients of the both mirrors involved in the optical cavity \\
 \subsection{$M_1$ Charecteristics}
@@ -55,6 +72,7 @@ Line-width (Spectral Width, Full Width Half Max)
 $$\nu_{FWHM} = \frac{\nu_F}{\mathscr{F}} = (5.38 \pm 0.265 )\times 10^6 Hz \approx (5.4\pm0.3)MHz $$
 
 If we flipped the cavity and used the low reflectivity mirrors than there would be not very much power transmitted ~0, and the finesse would also be ~0. Line width would exceed the free spectral range meaning resonance is not possible. 
+
 
 \section{Piezo Calibration}
 Fine adjustments of the length of the cavity are produced by applying a voltage to the piezoelectric actuator (“piezo” for short) behind the M2 mirror. Voltage is supplied to the piezo by a high voltage supply, which has a manual adjustment knob and an external input. The external input is connected to a ramp generator. Note that the high voltage supply has a gain of 10x on the external input when the voltage range is set to 100. The input multiplier changes depending on the voltage limit indicated by the green LED. The distance the actuator moves given a certain voltage change can be found on the actuator datasheet; however, each actuator is slightly different and you need to verify the response of your piezo.
