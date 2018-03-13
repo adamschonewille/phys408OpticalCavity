@@ -254,7 +254,7 @@ $$Q = qF, \ \ q = \frac{L}{\lambda}$$
 |--|--|--|
 |  15 $\pm$ 2| 0.4 $\pm$ 0.1|
 |  50 $\pm$ 2| 1.9 $\pm$ 0.8|
-| 100 $\pm$ 2| 1.9 $\pm$ |
+| 100 $\pm$ 2| 1.9 $\pm$ 0.7|
 | 150 $\pm$ 2| 1.01 $\pm$ | 
 | 200 $\pm$ 2| 1.72 $\pm$ |
 | 250 $\pm$ 2| 0.77 $\pm$ |
@@ -312,7 +312,7 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE2MzAwNTgsLTE1NTE2MTUyODUsLT
+eyJoaXN0b3J5IjpbLTE3MzEzOTcyMTksLTE1NTE2MTUyODUsLT
 E3Mjc2NjU0MTgsMTg5NTkzMjIyMiw1MDk4MjYzMTUsOTczMDc3
 OTU1LDUwOTgyNjMxNSw5NzMwNzc5NTUsMTY3OTk3NjQ1NCwxNj
 czMzMyNjQsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0
