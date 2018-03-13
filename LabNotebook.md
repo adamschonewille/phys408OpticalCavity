@@ -188,7 +188,7 @@ Optical cavity Length: 200 $\pm$ 1 mm
 | 22.7 $\pm$ 0.1| 29.7 $\pm$ 0.2| 2.74 $\pm$ 0.22|1350 $\pm$ 10.9|3.69 $\pm$ 0.30| 0.0856 $\pm$ 0.0069|
 | 22.7 $\pm$ 0.1|  9.7 $\pm$ 0.2| 2.495 $\pm$ 0.135|440 $\pm$ 9.3|1.1 $\pm$ 0.06|0.288 $\pm$ 0.0167|
 
-
+https://github.com/akshivbansal/phys408OpticalCavity/blob/master/Figures/peaksExample1_15cm.jpg
 
 We find that the piezo calibration is a a function of the peak to peak driving voltages. This is likely due to some sort of non-linear response in the controller piezo stack. Ideally, this calibration would be constant and independent of all variables that may change in the experiment. In general, we find that the calibration is significantly lower than Thor Labs specification. For low voltages however, we get values close to or at least on the order of the calibration value. This leads us to believe that specification is probably given for a driving voltage around 0V.
 
@@ -316,7 +316,7 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwNDE0MTMxLDE3NDgzMzMyNDksLTgxOT
+eyJoaXN0b3J5IjpbODc4NTI1NTE2LDE3NDgzMzMyNDksLTgxOT
 Q5NTMwMywxNzQ4MzMzMjQ5LC0xNzI3NjY1NDE4LDE4OTU5MzIy
 MjIsNTA5ODI2MzE1LDk3MzA3Nzk1NSw1MDk4MjYzMTUsOTczMD
 c3OTU1LDE2Nzk5NzY0NTQsMTY3MzMzMjY0LC0xOTUyMjU3NDQs
