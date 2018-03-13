@@ -188,7 +188,14 @@ Optical cavity Length: 200 $\pm$ 1 mm
 | 22.7 $\pm$ 0.1| 29.7 $\pm$ 0.2| 2.74 $\pm$ 0.22|1350 $\pm$ 10.9|3.69 $\pm$ 0.30| 0.0856 $\pm$ 0.0069|
 | 22.7 $\pm$ 0.1|  9.7 $\pm$ 0.2| 2.495 $\pm$ 0.135|440 $\pm$ 9.3|1.1 $\pm$ 0.06|0.288 $\pm$ 0.0167|
 
-https://github.com/akshivbansal/phys408OpticalCavity/blob/master/Figures/peaksExample1_15cm.jpg
+![Peaks for Piezo Calibration](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/peaksExample1_15cm.jpg)
+
+
+
+![FT Analysis method](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/20180312-FT-15cmRawData.jpg)
+
+
+
 
 We find that the piezo calibration is a a function of the peak to peak driving voltages. This is likely due to some sort of non-linear response in the controller piezo stack. Ideally, this calibration would be constant and independent of all variables that may change in the experiment. In general, we find that the calibration is significantly lower than Thor Labs specification. For low voltages however, we get values close to or at least on the order of the calibration value. This leads us to believe that specification is probably given for a driving voltage around 0V.
 
@@ -245,6 +252,7 @@ The optical cavity length was set to multiple different lengths and the optical 
 | 250 $\pm$ 2|  73.4 $\pm$ 0.1 | 19.44 $\pm$ 5.3 |
 | 300 $\pm$ 2|  73.4 $\pm$ 0.1 | 133.35 $\pm$ 53.70|
 
+![Finesse Plot](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Finesse1.jpg)
 
 
 The 150 mm Optical  Cavity length gave the clearest signal for the transmitted optical power. The signal did not fluctuate as much as other measurements and the periodicity of the signal was very clear. This was the recommend length to use as it is the focal length of the mirror used. This is because the optical cavity consist of two mirrors: one flat, and one with a radius of curvature of 30 cm. Also, $F = ROC/2$, so a ROC of 30 cm gives us the 15 cm focal length.
@@ -263,6 +271,8 @@ $$Q = qF, \ \ q = \frac{L}{\lambda}$$
 | 200 $\pm$ 2| 1.72 $\pm$ 0.3|
 | 250 $\pm$ 2| 0.77 $\pm$ 0.2|
 | 300 $\pm$ 2| 6.32 $\pm$ 2.5|
+
+![Q-Factor plot](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Q-Factor1.jpg)
 
 How long would a tuning fork need to ring out at 440Hz to have the same quality factor? $$\tau = \frac{Q}{2\pi\nu} = \frac{1.92\times10^7}{2\pi*440\ \mathrm{Hz}} = 1.93 \ \mathrm{Hours}$$
 Clearly, this is unreasonable. Typically tuning forks become imperceptibility loud in a matter of seconds, not hours. 
@@ -316,15 +326,15 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4NTI1NTE2LDE3NDgzMzMyNDksLTgxOT
-Q5NTMwMywxNzQ4MzMzMjQ5LC0xNzI3NjY1NDE4LDE4OTU5MzIy
-MjIsNTA5ODI2MzE1LDk3MzA3Nzk1NSw1MDk4MjYzMTUsOTczMD
-c3OTU1LDE2Nzk5NzY0NTQsMTY3MzMzMjY0LC0xOTUyMjU3NDQs
-NTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMj
-U3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0x
-OTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Nj
-g4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgx
-NjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3ND
-QsNTgxNjI3Njg4LC04MzIwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
+eyJoaXN0b3J5IjpbMjA0NjQwNjI0OSwxNzQ4MzMzMjQ5LC04MT
+k0OTUzMDMsMTc0ODMzMzI0OSwtMTcyNzY2NTQxOCwxODk1OTMy
+MjIyLDUwOTgyNjMxNSw5NzMwNzc5NTUsNTA5ODI2MzE1LDk3Mz
+A3Nzk1NSwxNjc5OTc2NDU0LDE2NzMzMzI2NCwtMTk1MjI1NzQ0
+LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1Mj
+I1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwt
+MTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNz
+Y4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4
+MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1Nz
+Q0LDU4MTYyNzY4OCwtODMyMDI0NzQxLC0xODQzOTY3MDA0XX0=
 
 -->
