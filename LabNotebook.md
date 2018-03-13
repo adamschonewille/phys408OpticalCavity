@@ -13,7 +13,7 @@ Transmission and Reflection Coefficients of the both mirrors involved in the opt
 ### $M_1$ Characteristics
 
 ![M1 Mirror measurement](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Coeffs%20Measurement.jpg)
-*Figure: Mesuring M1 Charecteristics*
+*Figure: Measuring M1 Characteristics*
 
 Reversed $M_1$ 
 Incident Beam:
@@ -369,14 +369,15 @@ Each data file is in placed in the directory where it belongs depending on which
 	2018-2-27-12.52-73.4Hz-50.6V-well Past30.csv
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5NDc0OCwtOTI2MTgzMzk2LC04MTk0OT
-UzMDMsMTc0ODMzMzI0OSwtMTcyNzY2NTQxOCwxODk1OTMyMjIy
-LDUwOTgyNjMxNSw5NzMwNzc5NTUsNTA5ODI2MzE1LDk3MzA3Nz
-k1NSwxNjc5OTc2NDU0LDE2NzMzMzI2NCwtMTk1MjI1NzQ0LDU4
+eyJoaXN0b3J5IjpbMTM2NDI3NzUzMywtOTI2MTgzMzk2LC04MT
+k0OTUzMDMsMTc0ODMzMzI0OSwtMTcyNzY2NTQxOCwxODk1OTMy
+MjIyLDUwOTgyNjMxNSw5NzMwNzc5NTUsNTA5ODI2MzE1LDk3Mz
+A3Nzk1NSwxNjc5OTc2NDU0LDE2NzMzMzI2NCwtMTk1MjI1NzQ0
+LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1Mj
+I1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwt
+MTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNz
+Y4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4
 MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1Nz
-Q0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1
-MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OC
-wtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYy
-NzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LD
-U4MTYyNzY4OCwtODMyMDI0NzQxLC0xODQzOTY3MDA0XX0=
+Q0LDU4MTYyNzY4OCwtODMyMDI0NzQxLC0xODQzOTY3MDA0XX0=
+
 -->
