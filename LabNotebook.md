@@ -380,13 +380,14 @@ Each data file is in placed in the directory where it belongs depending on which
 ## Matlab Code
 All code and raw data is publicly available here: https://github.com/akshivbansal/phys408OpticalCavity and is distributed under the GPL 3.0 license. 
 Files of relevance to the data processed are:
+
 	correctTimeSeries.m
 	fastFourierTransform.m
 	finesseCalc.asv
 	finesseCalc.m
 	lengthVsPower.m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODkyMDI1MywtOTI2MTgzMzk2LC04MT
+eyJoaXN0b3J5IjpbMTIwMDYyODUyMywtOTI2MTgzMzk2LC04MT
 k0OTUzMDMsMTc0ODMzMzI0OSwtMTcyNzY2NTQxOCwxODk1OTMy
 MjIyLDUwOTgyNjMxNSw5NzMwNzc5NTUsNTA5ODI2MzE1LDk3Mz
 A3Nzk1NSwxNjc5OTc2NDU0LDE2NzMzMzI2NCwtMTk1MjI1NzQ0
