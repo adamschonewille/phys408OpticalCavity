@@ -35,6 +35,7 @@ Then out of the $M_1$ another loss of 1.5
 ### $M_2$ Characteristics
 
 ![M1 Mirror measurement](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Coeffs%20Measurement%202.jpg)
+*Figure: Measuring M2 Characteristics*
 
 Incident for $M_2$:
 $(0.345 \pm 0.005)$ mW 
@@ -112,7 +113,7 @@ Beam Waist = ~0.3742 mm
 This value has not changed significantly and is with in the error of the previous measurement.
 The beam fronts look this
 ![Beam Fronts](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/IMG_4340.jpg)
-
+*Figure: Beam waist inside confocal planar cavity*
 
 $$W_0 = 1.2mm,\ \ \lambda = 632.8nm, \ \ R_2 = 30cm$$
 For the focal length of the concave mirror we get:
@@ -369,15 +370,15 @@ Each data file is in placed in the directory where it belongs depending on which
 	2018-2-27-12.52-73.4Hz-50.6V-well Past30.csv
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDI3NzUzMywtOTI2MTgzMzk2LC04MT
-k0OTUzMDMsMTc0ODMzMzI0OSwtMTcyNzY2NTQxOCwxODk1OTMy
-MjIyLDUwOTgyNjMxNSw5NzMwNzc5NTUsNTA5ODI2MzE1LDk3Mz
-A3Nzk1NSwxNjc5OTc2NDU0LDE2NzMzMzI2NCwtMTk1MjI1NzQ0
-LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1Mj
-I1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwt
-MTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNz
-Y4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1NzQ0LDU4
-MTYyNzY4OCwtMTk1MjI1NzQ0LDU4MTYyNzY4OCwtMTk1MjI1Nz
-Q0LDU4MTYyNzY4OCwtODMyMDI0NzQxLC0xODQzOTY3MDA0XX0=
+eyJoaXN0b3J5IjpbOTQ3ODcyMTg3LC05MjYxODMzOTYsLTgxOT
+Q5NTMwMywxNzQ4MzMzMjQ5LC0xNzI3NjY1NDE4LDE4OTU5MzIy
+MjIsNTA5ODI2MzE1LDk3MzA3Nzk1NSw1MDk4MjYzMTUsOTczMD
+c3OTU1LDE2Nzk5NzY0NTQsMTY3MzMzMjY0LC0xOTUyMjU3NDQs
+NTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMj
+U3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0x
+OTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Nj
+g4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgx
+NjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3ND
+QsNTgxNjI3Njg4LC04MzIwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
 
 -->
