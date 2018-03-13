@@ -108,11 +108,13 @@ FinesseError = [35.77 93.46 44.02 10.53 15.11 5.3 53.70];
 lengthError = 2*ones(length(CavityLength),1);
 
 figure(4)
-plot(CavityLength, FinesseMat, 'o')
+% plot(CavityLength, FinesseMat, 'o')
+e = errorbar(CavityLength, FinesseMat, FinesseError, FinesseError, lengthError, lengthError, 'r.');
 hold on 
+plot([15 295],[185.53 185.53],'b-','LineWidth', 1.5)
 e = errorbar(CavityLength, FinesseMat, FinesseError, FinesseError, lengthError, lengthError, 'r.');
 e.LineWidth = 1.5;
-plot([15 295],[185.53 185.53],'b-')
+
 
 set(groot, 'defaultAxesTickLabelInterpreter','latex');
 set(groot, 'defaultLegendInterpreter','latex');
@@ -120,6 +122,37 @@ set(0,'defaulttextInterpreter','latex');
 
 xlabel('Optical Cavity Length (mm)')
 ylabel('Finesse')
-title('Finesse vs. Frequency of the Fourier Transformed Signal')
+title('Finesse vs. Optical Cavity Length (mm)')
+
+legend('Experimental Finesse','Theoretical Finesse','Location','NorthEast')
+
+hold off
+
+
+
+constFinesse = 185.85;
+lambda = 632.8e-9;
+Qfactor =@(L) L/lambda*constFinesse/100
+QfactorMat = 10^7*[0.4 1.9 1.9 1.01 1.72 0.77 6.32]
+QfactorError = 10^7*[0.1 0.8 0.7 0.3 0.3 0.2 2.5]
+
+figure(5)
+e = errorbar(CavityLength, QfactorMat, QfactorError, QfactorError, lengthError, lengthError, 'r.');
+hold on 
+plot(feval(Qfactor,CavityLength()
+%plot([15 295],[185.53 185.53],'b-','LineWidth', 1.5)
+%e = errorbar(CavityLength, FinesseMat, FinesseError, FinesseError, lengthError, lengthError, 'r.');
+e.LineWidth = 1.5;
+
+xlim([15,295])
+set(groot, 'defaultAxesTickLabelInterpreter','latex');
+set(groot, 'defaultLegendInterpreter','latex');
+set(0,'defaulttextInterpreter','latex');
+
+xlabel('Optical Cavity Length (mm)')
+ylabel('Finesse')
+title('Finesse vs. Optical Cavity Length (mm)')
+
+legend('Experimental Finesse','Theoretical Finesse','Location','NorthEast')
 
 hold off

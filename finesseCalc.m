@@ -127,3 +127,32 @@ title('Finesse vs. Optical Cavity Length (mm)')
 legend('Experimental Finesse','Theoretical Finesse','Location','NorthEast')
 
 hold off
+
+
+
+constFinesse = 185.85;
+lambda = 6.328e-7;
+Qfactor =@(L) L/lambda*constFinesse
+QfactorMat = 10^7*[0.4 1.9 1.9 1.01 1.72 0.77 6.32]
+QfactorError = 10^7*[0.1 0.8 0.7 0.3 0.3 0.2 2.5]
+
+figure(5)
+e = errorbar(CavityLength, QfactorMat, QfactorError, QfactorError, lengthError, lengthError, 'r.');
+hold on 
+plot(CavityLength,feval(Qfactor,CavityLength/1000),'LineWidth', 1.5)
+%plot([15 295],[1.2783e7 1.2783e7],'b-','LineWidth', 1.5)
+%e = errorbar(CavityLength, FinesseMat, FinesseError, FinesseError, lengthError, lengthError, 'r.');
+e.LineWidth = 1.5;
+
+xlim([15,295])
+set(groot, 'defaultAxesTickLabelInterpreter','latex');
+set(groot, 'defaultLegendInterpreter','latex');
+set(0,'defaulttextInterpreter','latex');
+
+xlabel('Optical Cavity Length (mm)')
+ylabel('Q-Factor')
+title('Q-Factor vs. Optical Cavity Length (mm)')
+
+legend('Experimental Q-Factor','Theoretical Q-Factor','Location','NorthEast')
+
+hold off
