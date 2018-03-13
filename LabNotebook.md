@@ -160,7 +160,7 @@ Optical cavity Length: 150 $\pm$ 1 mm
 Optical cavity Length: 295 $\pm$ 1 mm 
 | Frequency (Hz) | Voltage Peak-to-peak (V) | $\Delta$Time or Period $(ms)$ | Slope $(V/s)$| $\Delta$Voltage $(V)$ | Piezo Calibration$(\mu m/V)$|
 |--|--|--|--|--|--|
-| 186 $\pm$ 1| 48 $\pm$ 0.2 | $\pm$ | $\pm$ | $\pm$ | $\pm$ |
+| 186 $\pm$ 1| 48 $\pm$ 0.2 | 1.08 $\pm$ 0.022|17900 $\pm$ | $\pm$ | $\pm$ |
 | 22.38 $\pm$ 0.01| 48 $\pm$ 0.2 | $\pm$ | $\pm$ | $\pm$ | $\pm$ |
 | 1867 $\pm$ 1| 48 $\pm$ 0.2 | $\pm$ | $\pm$ | $\pm$ | $\pm$ |
 | 22.41 $\pm$ 0.01| 26.6 $\pm$ 0.3 | $\pm$ | $\pm$ | $\pm$ | $\pm$ |
@@ -281,14 +281,14 @@ Initial Z-Stage Dial Reading:
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5NzYwOTk5LDE4OTU5MzIyMjIsLTE3Mj
-c2NjU0MTgsMTg5NTkzMjIyMiw1MDk4MjYzMTUsOTczMDc3OTU1
-LDUwOTgyNjMxNSw5NzMwNzc5NTUsMTY3OTk3NjQ1NCwxNjczMz
-MyNjQsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1
-ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNT
-c0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5
-NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2OD
-gsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2
-Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTgzMjAyNDc0MS
-wtMTg0Mzk2NzAwNF19
+eyJoaXN0b3J5IjpbMTA4NTI3Mzg0OSwxODk1OTMyMjIyLC0xNz
+I3NjY1NDE4LDE4OTU5MzIyMjIsNTA5ODI2MzE1LDk3MzA3Nzk1
+NSw1MDk4MjYzMTUsOTczMDc3OTU1LDE2Nzk5NzY0NTQsMTY3Mz
+MzMjY0LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQs
+NTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMj
+U3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0x
+OTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Nj
+g4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgx
+NjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC04MzIwMjQ3ND
+EsLTE4NDM5NjcwMDRdfQ==
 -->
