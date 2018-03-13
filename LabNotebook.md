@@ -277,6 +277,10 @@ $$Q = qF, \ \ q = \frac{L}{\lambda}$$
 | 300 $\pm$ 2| 6.32 $\pm$ 2.5|
 
 ![Q-Factor plot](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Q-Factor1.jpg)
+This plot shows the relation between the optical cavity length and the Q-factor of the optical cavity. 
+Theoretically, the Q-factor should increase proportionally to the optical cavity length, but here we
+see that the experimental Q-factors found are almost constant for varying optical cavity length.
+It should also be noted that the very first point for the Q-factor aligns very well to the expected value. We suggest that for the very small cavity length we were only able to get low order modes that isolate the laser and provide less variability in signal.
 
 How long would a tuning fork need to ring out at 440Hz to have the same quality factor? $$\tau = \frac{Q}{2\pi\nu} = \frac{1.92\times10^7}{2\pi*440\ \mathrm{Hz}} = 1.93 \ \mathrm{Hours}$$
 Clearly, this is unreasonable. Typically tuning forks become imperceptibility loud in a matter of seconds, not hours. 
@@ -327,7 +331,7 @@ Initial Z-Stage Dial Reading:
 
 
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
-*This plot showcases the drop of power as the cavities modes become degenerate. As the cavity passes out of a stability region the power drops back to the misaligned baseline *
+*This plot showcases the drop of power as the cavities modes become degenerate. As the cavity passes out of a stability region the power drops back to the misaligned baseline*
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
 
@@ -391,7 +395,7 @@ Files of relevance to the data processed are:
 	finesseCalc.m
 	lengthVsPower.m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg0OTI1NDQsLTk4NTk2ODgyNCwtOD
+eyJoaXN0b3J5IjpbLTEzMTgxODgzNzksLTk4NTk2ODgyNCwtOD
 E5NDk1MzAzLDE3NDgzMzMyNDksLTE3Mjc2NjU0MTgsMTg5NTkz
 MjIyMiw1MDk4MjYzMTUsOTczMDc3OTU1LDUwOTgyNjMxNSw5Nz
 MwNzc5NTUsMTY3OTk3NjQ1NCwxNjczMzMyNjQsLTE5NTIyNTc0
