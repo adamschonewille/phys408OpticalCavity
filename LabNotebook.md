@@ -1,4 +1,6 @@
-
+# Lab Notebook 
+## Day 1 2018 02 06
+### Figuring out Reflection and Transmission Coefficients:
 
 We want to first characterize the first mirror by measuring it's transmission and reflection coefficients. We can do this by directly measuring the incident beam intensity, reflected beam intensity and transmitted beam intensity using a power meter.
 
@@ -390,15 +392,15 @@ Files of relevance to the data processed are:
 	finesseCalc.m
 	lengthVsPower.m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODMxMTQyNjQsLTk4NTk2ODgyNCwtOD
-E5NDk1MzAzLDE3NDgzMzMyNDksLTE3Mjc2NjU0MTgsMTg5NTkz
-MjIyMiw1MDk4MjYzMTUsOTczMDc3OTU1LDUwOTgyNjMxNSw5Nz
-MwNzc5NTUsMTY3OTk3NjQ1NCwxNjczMzMyNjQsLTE5NTIyNTc0
-NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NT
-IyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgs
-LTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mj
-c2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1
-ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNT
-c0NCw1ODE2Mjc2ODgsLTgzMjAyNDc0MSwtMTg0Mzk2NzAwNF19
+eyJoaXN0b3J5IjpbNzcwNzM0MTAzLC05ODU5Njg4MjQsLTgxOT
+Q5NTMwMywxNzQ4MzMzMjQ5LC0xNzI3NjY1NDE4LDE4OTU5MzIy
+MjIsNTA5ODI2MzE1LDk3MzA3Nzk1NSw1MDk4MjYzMTUsOTczMD
+c3OTU1LDE2Nzk5NzY0NTQsMTY3MzMzMjY0LC0xOTUyMjU3NDQs
+NTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMj
+U3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0x
+OTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Nj
+g4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgx
+NjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3ND
+QsNTgxNjI3Njg4LC04MzIwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
 
 -->
