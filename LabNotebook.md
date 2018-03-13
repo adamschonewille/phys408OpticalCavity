@@ -205,7 +205,7 @@ We start by creating a very short cavity of length 1.5cm then we adjust the alig
 ![0,0 Mode](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111632.jpg)
 *Figure: TEM 0,0 Mode Picture*
 ![Gaussian Intensity](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20Peizo%20control/Guassian%20Intensity.png)
-*Figure: Here it is fairly clear that we have close to a pure Gaussian beam, but we managed to saturate the sensor making it hard to distinguish the top of the curve. These points were removed from the plot prior to curve fitting on MATLAB* 
+*Figure: Here it is fairly clear that we have close to a pure Gaussian beam, but we managed to saturate the sensor making it hard to distinguish the top of the curve. These points were removed from the plot prior to curve fitting in MATLAB* 
 
 Then we adjust the $M_2$ mirror to put the cavity into a mode match for the TEM 1,0 and 0,1 modes
 ![1,0](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Images%20trying%20to%20maxmize%20power%20in%20first%20mode,%20at%20Cavity%20Length%2012.5cm%20No%20Peizo%20control/capture_20180227_111643.jpg)
@@ -393,15 +393,15 @@ Files of relevance to the data processed are:
 	finesseCalc.m
 	lengthVsPower.m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3OTc5OTUzLC05ODU5Njg4MjQsLTgxOT
-Q5NTMwMywxNzQ4MzMzMjQ5LC0xNzI3NjY1NDE4LDE4OTU5MzIy
-MjIsNTA5ODI2MzE1LDk3MzA3Nzk1NSw1MDk4MjYzMTUsOTczMD
-c3OTU1LDE2Nzk5NzY0NTQsMTY3MzMzMjY0LC0xOTUyMjU3NDQs
-NTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMj
-U3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0x
-OTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Nj
-g4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3NDQsNTgx
-NjI3Njg4LC0xOTUyMjU3NDQsNTgxNjI3Njg4LC0xOTUyMjU3ND
-QsNTgxNjI3Njg4LC04MzIwMjQ3NDEsLTE4NDM5NjcwMDRdfQ==
+eyJoaXN0b3J5IjpbLTE5MDI1NDQ2NDksLTk4NTk2ODgyNCwtOD
+E5NDk1MzAzLDE3NDgzMzMyNDksLTE3Mjc2NjU0MTgsMTg5NTkz
+MjIyMiw1MDk4MjYzMTUsOTczMDc3OTU1LDUwOTgyNjMxNSw5Nz
+MwNzc5NTUsMTY3OTk3NjQ1NCwxNjczMzMyNjQsLTE5NTIyNTc0
+NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NT
+IyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgs
+LTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mj
+c2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNTc0NCw1
+ODE2Mjc2ODgsLTE5NTIyNTc0NCw1ODE2Mjc2ODgsLTE5NTIyNT
+c0NCw1ODE2Mjc2ODgsLTgzMjAyNDc0MSwtMTg0Mzk2NzAwNF19
 
 -->
