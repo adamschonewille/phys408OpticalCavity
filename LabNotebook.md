@@ -322,8 +322,55 @@ Initial Z-Stage Dial Reading:
 ![Power vs. Cavity Length, at end of 30cm Stability Reigon](https://raw.githubusercontent.com/akshivbansal/phys408OpticalCavity/master/Figures/Power%20vs.%20Cavity%20Length.png)
 
 The most challenging part of this lab was interpreting and then processing the finesse data. The issue was we didn't have a complete understanding of the underlying physics when we took the data, which made it hard to make extra measurement to ease some the data processing. If we had an extra lab section after we did some of the analysis, we could have taken oscilloscope cursor data, to speed up the finesse calculations. We thought that actually building and aligning the cavity would be the most challenging, but this turned out to be relatively easy. 
+
+## File Directory Log
+
+Each data file is time stamped with when it was collected. 
+Each data file is in placed in the directory where it belongs depending on which part of the experiment it was collected for. 
+
+### Piezo Calibration
+15cm
+	2018-2-13-12.47-47.6V-48V-22.14Hz-OC15cm.csv 
+	2018-2-13-12.51-24.8V-25.4V-22.14Hz-OC15cm.csv 
+	2018-2-13-12.54-9.9V-10.4V-22.14Hz-OC15cm.csv 
+	2018-2-13-12.55-223.7Hz-48V-OC15cm.csv 
+	2018-2-13-12.58-1018Hz-48V-OC15cm.csv
+20cm
+	2018-2-13-13.35-22.51Hz-48V-OC20cm.csv 
+	2018-2-13-13.36-1047Hz-48V-OC20cm.csv 
+	2018-2-13-13.36-228.8Hz-48V-OC20cm.csv 
+	2018-2-13-13.38-29.7+-0.2V-22.7Hz-OC20cm.csv 
+	2018-2-13-13.40-9.7+-0.2V-22.7Hz-OC20cm.csv
+30cm
+	2018-2-13-13.11-186Hz-48V-OC30cm.csv 
+	2018-2-13-13.12-1867Hz-48V-OC30cm.csv  
+	2018-2-13-13.12-22.38Hz-48+-0.2V-OC30cm.csv 
+	2018-2-13-13.17-26.6+-0.3V-22.41Hz-OC30cm.csv 
+	2018-2-13-13.22-9.6+-0.2V-22.43Hz-OC30cm.csv
+
+### Finesse Measurements
+	2018-2-27-11.56-73.4Hz-50.6V-OC1.5cm.csv 
+	2018-2-27-12.03-73.4Hz-50.6V-OC5cm.csv  
+	2018-2-27-12.04-73.4Hz-50.6V-OC5cmZoomedIn.csv   
+	2018-2-27-12.11-73.4Hz-50.6V-OC10cmZoomedIn.csv  
+	2018-2-27-12.12-73.4Hz-50.6V-OC10cm.csv  
+	2018-2-27-12.13-73.4Hz-50.6V-OC15cm.csv  
+	2018-2-27-12.14-73.4Hz-50.6V-OC15cmZoomedIn.csv 
+	2018-2-27-12.17-73.4Hz-50.6V-OC20cmZoomedIn.csv 
+	2018-2-27-12.18-73.4Hz-50.6V-OC20cm.csv 
+	2018-2-27-12.20-73.4Hz-50.6V-OC25cm.csv 
+	2018-2-27-12.22-73.4Hz-50.6V-OC25cmZoomedIn.csv 
+	2018-2-27-12.25-73.4Hz-50.6V-OC29.5cm.csv 
+	2018-2-27-12.26-73.4Hz-50.6V-OC29.5cmZoomedIn.csv 
+
+### Cavity Stability Measurements
+	2018-2-27-12.52-73.4Hz-50.6V-Shorter than 30.csv 
+	2018-2-27-12.52-73.4Hz-50.6V-approx30.csv 
+	2018-2-27-12.52-73.4Hz-50.6V-justPast30.csv 
+	2018-2-27-12.52-73.4Hz-50.6V-well Past30.csv
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NjkwNjkyNCwtOTI2MTgzMzk2LC04MT
+eyJoaXN0b3J5IjpbMTA4NzcyMTgyMCwtOTI2MTgzMzk2LC04MT
 k0OTUzMDMsMTc0ODMzMzI0OSwtMTcyNzY2NTQxOCwxODk1OTMy
 MjIyLDUwOTgyNjMxNSw5NzMwNzc5NTUsNTA5ODI2MzE1LDk3Mz
 A3Nzk1NSwxNjc5OTc2NDU0LDE2NzMzMzI2NCwtMTk1MjI1NzQ0
